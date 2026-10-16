@@ -1142,6 +1142,35 @@ class LanguageFeedTests(unittest.TestCase):
             finally:
                 radar.ROOT = original_root
 
+    def test_render_language_feeds_preserves_odd_issue_titles(self):
+        title = 'Fix <b>bold</b> & "quotes" 🚀'
+        with tempfile.TemporaryDirectory() as tmp:
+            original_root = radar.ROOT
+            radar.ROOT = Path(tmp)
+            try:
+                radar.render_language_feeds(
+                    {"Python": "python"},
+                    {"owner/repo": {"language": "Python", "stars": 42}},
+                    [
+                        {
+                            "repo": "owner/repo",
+                            "level": "beginner",
+                            "title": title,
+                            "url": "https://github.com/owner/repo/issues/2",
+                            "created": "2026-10-15",
+                        }
+                    ],
+                    "2026-10-15T12:00:00+00:00",
+                    {"topics": {}},
+                )
+                feed_path = Path(tmp) / "site" / "feeds" / "python.xml"
+                root = ET.parse(feed_path).getroot()
+                items = root.findall("./channel/item")
+                self.assertEqual(len(items), 1)
+                self.assertEqual(items[0].findtext("title"), title)
+            finally:
+                radar.ROOT = original_root
+
 
 class UpdateReadmeStatsTests(unittest.TestCase):
     def _run(
