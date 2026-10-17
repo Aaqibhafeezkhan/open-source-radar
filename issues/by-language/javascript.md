@@ -1,10 +1,10 @@
 # JavaScript issues
 
-**144** open issues (64 labeled for beginners) across **61** active JavaScript projects.
+**146** open issues (66 labeled for beginners) across **61** active JavaScript projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/javascript.xml)
 
-> Updated automatically on **2026-10-17 10:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-17 20:21 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Account suspension emails are not localized](https://github.com/sandstorm-io/sandstorm/issues/3791) | [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) | 7.1k | 🟢 beginner | 2026-10-17 | [📘 guide](https://github.com/sandstorm-io/sandstorm/blob/HEAD/CONTRIBUTING.md) |
 | [Deprecate 'aws config credentials' command](https://github.com/serverless/serverless/issues/11763) 💬 12 | [serverless/serverless](https://github.com/serverless/serverless) | 46.9k | 🟢 beginner | 2026-10-16 | [📘 guide](https://github.com/serverless/serverless/blob/HEAD/CONTRIBUTING.md) |
 | [\[p5.js 2.0+ Bug Report\]: key docs needs updating](https://github.com/processing/p5.js/issues/9296) 💬 5 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-10-16 | ⚠️ AI restricted · [📘 guide](https://github.com/processing/p5.js/blob/HEAD/CONTRIBUTING.md) |
 | [\[ACTION\]](https://github.com/PipedreamHQ/pipedream/issues/22275) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-10-16 | [📘 guide](https://github.com/PipedreamHQ/pipedream/blob/HEAD/CONTRIBUTING.md) |
@@ -32,6 +33,7 @@
 | [Parse error for quoted export/import names](https://github.com/google/closure-compiler/issues/3961) 💬 3 | [google/closure-compiler](https://github.com/google/closure-compiler) | 7.7k | 🟡 help wanted | 2026-10-06 |  |
 | [BetterAuth to implement multi-user support, roles, external auth providers](https://github.com/louislam/uptime-kuma/issues/6200) 💬 13 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.6k | 🟡 help wanted | 2026-10-05 | ⚠️ AI restricted · [📘 guide](https://github.com/louislam/uptime-kuma/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature request\]: add some image examples](https://github.com/hovancik/stretchly/issues/1788) 💬 3 | [hovancik/stretchly](https://github.com/hovancik/stretchly) | 6.6k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · [📘 guide](https://github.com/hovancik/stretchly/blob/HEAD/CONTRIBUTING.md) |
+| [Error in ActiveX Command Execution module - urlencoded command](https://github.com/beefproject/beef/issues/1854) 💬 2 | [beefproject/beef](https://github.com/beefproject/beef) | 11.1k | 🟢 beginner | 2026-10-04 | [📘 guide](https://github.com/beefproject/beef/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Help\] cf部署完毕，邮箱后台怎么进入](https://github.com/maillab/cloud-mail/issues/553) 💬 1 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.7k | 🟡 help wanted | 2026-10-03 |  |
 | [Add IE11 XXE to read local files](https://github.com/beefproject/beef/issues/1715) 💬 1 | [beefproject/beef](https://github.com/beefproject/beef) | 11.1k | 🟢 beginner | 2026-10-03 | [📘 guide](https://github.com/beefproject/beef/blob/HEAD/.github/CONTRIBUTING.md) |
 | [update GetStoredCredentials, senglehardt.com, login manager autofill](https://github.com/beefproject/beef/issues/1974) 💬 2 | [beefproject/beef](https://github.com/beefproject/beef) | 11.1k | 🟢 beginner | 2026-10-03 | [📘 guide](https://github.com/beefproject/beef/blob/HEAD/.github/CONTRIBUTING.md) |
