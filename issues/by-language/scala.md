@@ -1,10 +1,10 @@
 # Scala issues
 
-**39** open issues (21 labeled for beginners) across **18** active Scala projects.
+**38** open issues (20 labeled for beginners) across **18** active Scala projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/scala.xml)
 
-> Updated automatically on **2026-10-17 20:21 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-18 10:43 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,7 +13,6 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Improve UI text on confirmation page (at registration)](https://github.com/lichess-org/lila/issues/22126) 💬 2 | [lichess-org/lila](https://github.com/lichess-org/lila) | 18.9k | 🟢 beginner | 2026-10-16 | 🤖 disclose AI use · [📘 guide](https://github.com/lichess-org/lila/blob/HEAD/CONTRIBUTING.md) |
-| [bench: add the shuffle benchmark cases that the #5905 review found missing](https://github.com/apache/datafusion-comet/issues/7080) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-10-16 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [Reuse hash_list_primitive! for string/binary list elements and factor out map-entry hashing loops](https://github.com/apache/datafusion-comet/issues/6984) 💬 1 | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-10-16 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [Extract a variable-length slot writer from TypedElements::write_elements_slow in columnar_to_row.rs](https://github.com/apache/datafusion-comet/issues/6981) 💬 1 | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-10-16 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [Deduplicate spark_ceil and spark_floor and port floor's decimal boundary tests to ceil](https://github.com/apache/datafusion-comet/issues/6974) 💬 1 | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟡 help wanted | 2026-10-15 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |

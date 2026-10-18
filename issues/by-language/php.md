@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/php.xml)
 
-> Updated automatically on **2026-10-17 20:21 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-18 10:43 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,12 +12,13 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Peer grading statistics are confusing](https://github.com/Submitty/Submitty/issues/13503) 💬 3 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 802 | 🟢 beginner | 2026-10-18 | [📘 guide](https://github.com/Submitty/Submitty/blob/HEAD/CONTRIBUTING.md) |
 | [Check for 4-byte UTF-8 support before migrating to MySQL/MariaDB](https://github.com/nextcloud/server/issues/28875) 💬 6 | [nextcloud/server](https://github.com/nextcloud/server) | 37.2k | 🟢 beginner | 2026-10-17 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/nextcloud/server/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-17 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
+| [Failed locked jobs never clear.](https://github.com/laravel/horizon/issues/1678) 💬 7 | [laravel/horizon](https://github.com/laravel/horizon) | 4.2k | 🟡 help wanted | 2026-10-17 | [📘 guide](https://github.com/laravel/horizon/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Link to source when dumping a stamp](https://github.com/symfony/symfony/issues/48617) 💬 8 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟡 help wanted | 2026-10-16 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [\[Security\] 'entry_point' could accept a route as well, for convenience](https://github.com/symfony/symfony/issues/39520) 💬 7 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟡 help wanted | 2026-10-16 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [JUnit format support for lint:twig (and possibly other CI commands)](https://github.com/symfony/symfony/issues/38885) 💬 4 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟡 help wanted | 2026-10-16 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
-| [Peer grading statistics are confusing](https://github.com/Submitty/Submitty/issues/13503) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 802 | 🟢 beginner | 2026-10-16 | [📘 guide](https://github.com/Submitty/Submitty/blob/HEAD/CONTRIBUTING.md) |
 | [Additional Contact Information for Students](https://github.com/Submitty/Submitty/issues/13511) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 802 | 🟢 beginner | 2026-10-16 | [📘 guide](https://github.com/Submitty/Submitty/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature - Request\] Add test feature for Notifications Setup.](https://github.com/jez500/pricebuddy/issues/39) 💬 6 | [jez500/pricebuddy](https://github.com/jez500/pricebuddy) | 1.4k | 🟢 beginner | 2026-10-14 |  |
 | [Feature request: skip to the next folder with card (or button)](https://github.com/MiczFlor/RPi-Jukebox-RFID/issues/574) 💬 9 | [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) | 1.8k | 🟡 help wanted | 2026-10-13 | [📘 guide](https://github.com/MiczFlor/RPi-Jukebox-RFID/blob/HEAD/CONTRIBUTING.md) |
@@ -48,7 +49,6 @@
 | [Change Image Annotation View Width With Panel Width](https://github.com/Submitty/Submitty/issues/13171) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 802 | 🟢 beginner | 2026-10-01 | [📘 guide](https://github.com/Submitty/Submitty/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature:InstructorUI\] Improve error / success feedback on course creation](https://github.com/Submitty/Submitty/issues/13178) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 802 | 🟢 beginner | 2026-10-01 | [📘 guide](https://github.com/Submitty/Submitty/blob/HEAD/CONTRIBUTING.md) |
 | [Peer graders should never see grade inquiries](https://github.com/Submitty/Submitty/issues/13355) 💬 1 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 802 | 🟢 beginner | 2026-10-01 | [📘 guide](https://github.com/Submitty/Submitty/blob/HEAD/CONTRIBUTING.md) |
-| [Failed locked jobs never clear.](https://github.com/laravel/horizon/issues/1678) 💬 6 | [laravel/horizon](https://github.com/laravel/horizon) | 4.2k | 🟡 help wanted | 2026-09-30 | [📘 guide](https://github.com/laravel/horizon/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Limited Access Grader Grading Access](https://github.com/Submitty/Submitty/issues/13379) 💬 8 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 802 | 🟢 beginner | 2026-09-28 | [📘 guide](https://github.com/Submitty/Submitty/blob/HEAD/CONTRIBUTING.md) |
 | [Generate an AsyncAPI documentation for the Mercure API.](https://github.com/api-platform/core/issues/4494) 💬 2 | [api-platform/core](https://github.com/api-platform/core) | 2.6k | 🟡 help wanted | 2026-09-26 | [📘 guide](https://github.com/api-platform/core/blob/HEAD/CONTRIBUTING.md) |
 | [Trigger password reset email from user management](https://github.com/nextcloud/server/issues/14411) 💬 6 | [nextcloud/server](https://github.com/nextcloud/server) | 37.2k | 🟢 beginner | 2026-09-25 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/nextcloud/server/blob/HEAD/.github/CONTRIBUTING.md) |

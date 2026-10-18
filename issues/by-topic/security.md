@@ -1,8 +1,8 @@
 # Security and privacy issues
 
-**212** open issues (110 labeled for beginners) across **57** projects tagged with topics like `security`, `privacy`, `cryptography`, `encryption`, `authentication`, `oauth`.
+**209** open issues (108 labeled for beginners) across **57** projects tagged with topics like `security`, `privacy`, `cryptography`, `encryption`, `authentication`, `oauth`.
 
-> Updated automatically on **2026-10-17 20:21 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-18 10:43 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,6 +10,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [local: server-side copy fails on macOS when the destination exists](https://github.com/rclone/rclone/issues/10117) | [rclone/rclone](https://github.com/rclone/rclone) | 60.4k | 🟢 beginner | 2026-10-18 | [📘 guide](https://github.com/rclone/rclone/blob/HEAD/CONTRIBUTING.md) |
 | [Feature Request: Add a Paste Button to the URL TextField](https://github.com/ImranR98/Obtainium/issues/3390) | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.5k | 🟢 beginner | 2026-10-17 | 📄 AI policy · [📘 guide](https://github.com/ImranR98/Obtainium/blob/HEAD/docs/CONTRIBUTING.md) |
 | [Towards a centralized vulnerability database for Dependency-Track](https://github.com/DependencyTrack/dependency-track/issues/4122) 💬 15 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟡 help wanted | 2026-10-17 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/DependencyTrack/dependency-track/blob/HEAD/CONTRIBUTING.md) |
 | [Include KEV status in exported files](https://github.com/DependencyTrack/dependency-track/issues/7668) 💬 4 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟢 beginner | 2026-10-17 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/DependencyTrack/dependency-track/blob/HEAD/CONTRIBUTING.md) |
@@ -21,8 +22,6 @@
 | [Move the app text into a String Catalog so it can be translated](https://github.com/omlahore/RemoveMacAI/issues/61) | [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) | 4.9k | 🟡 help wanted | 2026-10-16 | [📘 guide](https://github.com/omlahore/RemoveMacAI/blob/HEAD/CONTRIBUTING.md) |
 | [A way to get the removemacai command when the app is installed from the zip](https://github.com/omlahore/RemoveMacAI/issues/60) | [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) | 4.9k | 🟡 help wanted | 2026-10-16 | [📘 guide](https://github.com/omlahore/RemoveMacAI/blob/HEAD/CONTRIBUTING.md) |
 | [Shell completions for zsh, bash and fish](https://github.com/omlahore/RemoveMacAI/issues/59) | [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) | 4.9k | 🟢 beginner | 2026-10-16 | [📘 guide](https://github.com/omlahore/RemoveMacAI/blob/HEAD/CONTRIBUTING.md) |
-| ['removemacai undo' with no tweak names says nothing needs changing](https://github.com/omlahore/RemoveMacAI/issues/57) | [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) | 4.9k | 🟢 beginner | 2026-10-16 | [📘 guide](https://github.com/omlahore/RemoveMacAI/blob/HEAD/CONTRIBUTING.md) |
-| [Macros are not serialized on 'Ps' to the project](https://github.com/rizinorg/rizin/issues/6908) | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 4k | 🟢 beginner | 2026-10-16 | 🤖 disclose AI use · [📘 guide](https://github.com/rizinorg/rizin/blob/HEAD/CONTRIBUTING.md) |
 | [exit rclone after X transfers](https://github.com/rclone/rclone/issues/1291) 💬 4 | [rclone/rclone](https://github.com/rclone/rclone) | 60.4k | 🟡 help wanted | 2026-10-15 | [📘 guide](https://github.com/rclone/rclone/blob/HEAD/CONTRIBUTING.md) |
 | [bug(python): pylock.toml dependencies without a version are dropped from the dependency graph](https://github.com/aquasecurity/trivy/issues/11411) 💬 2 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 38.5k | 🟢 beginner | 2026-10-15 | [📘 guide](https://github.com/aquasecurity/trivy/blob/HEAD/CONTRIBUTING.md) |
 | [openssl 3.5.6 AES-256-CBC bad decrypt](https://github.com/openssl/openssl/issues/31246) 💬 4 | [openssl/openssl](https://github.com/openssl/openssl) | 31k | 🟡 help wanted | 2026-10-15 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
@@ -187,7 +186,6 @@
 | [Org admin can't delete local tags](https://github.com/MISP/MISP/issues/6513) 💬 1 | [MISP/MISP](https://github.com/MISP/MISP) | 6.6k | 🟡 help wanted | 2026-06-08 | ✍️ CLA · [📘 guide](https://github.com/MISP/MISP/blob/HEAD/CONTRIBUTING.md) |
 | [Add warning on the web interface stating the discussions aren't shared.](https://github.com/MISP/MISP/issues/3181) 💬 3 | [MISP/MISP](https://github.com/MISP/MISP) | 6.6k | 🟢 beginner | 2026-06-07 | ✍️ CLA · [📘 guide](https://github.com/MISP/MISP/blob/HEAD/CONTRIBUTING.md) |
 | ['rz-asm' assembly results may be not correct](https://github.com/rizinorg/rizin/issues/1834) 💬 8 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 4k | 🟢 beginner | 2026-06-07 | 🤖 disclose AI use · [📘 guide](https://github.com/rizinorg/rizin/blob/HEAD/CONTRIBUTING.md) |
-| [XAP: add missing opcodes](https://github.com/rizinorg/rizin/issues/4661) 💬 5 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 4k | 🟢 beginner | 2026-06-07 | 🤖 disclose AI use · [📘 guide](https://github.com/rizinorg/rizin/blob/HEAD/CONTRIBUTING.md) |
 | [Add rendering man_made=tower](https://github.com/organicmaps/organicmaps/issues/5521) 💬 7 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.7k | 🟢 beginner | 2026-06-06 | 🔏 DCO · [📘 guide](https://github.com/organicmaps/organicmaps/blob/HEAD/CONTRIBUTING.md) |
 | [Publish icon is upside down](https://github.com/MISP/MISP/issues/1179) 💬 3 | [MISP/MISP](https://github.com/MISP/MISP) | 6.6k | 🟢 beginner | 2026-06-05 | ✍️ CLA · [📘 guide](https://github.com/MISP/MISP/blob/HEAD/CONTRIBUTING.md) |
 | [Selenium tests: check console output.](https://github.com/searxng/searxng/issues/338) 💬 1 | [searxng/searxng](https://github.com/searxng/searxng) | 38.5k | 🟢 beginner | 2026-06-04 | 📄 AI policy · [📘 guide](https://github.com/searxng/searxng/blob/HEAD/CONTRIBUTING.rst) |
@@ -210,5 +208,7 @@
 | [App being hardly usable in Android Desktop Mode in maximized state](https://github.com/libre-tube/LibreTube/issues/8249) 💬 6 | [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) | 12.8k | 🟡 help wanted | 2026-05-14 | [📘 guide](https://github.com/libre-tube/LibreTube/blob/HEAD/CONTRIBUTING.md) |
 | [Multi-column bookmark dropdown list](https://github.com/ungoogled-software/ungoogled-chromium/issues/3781) | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 28k | 🟡 help wanted | 2026-05-13 |  |
 | [When execution time of fork run is much longer than one persistent iteration, all fork execuions will timeout.](https://github.com/AFLplusplus/AFLplusplus/issues/1545) 💬 6 | [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) | 6.8k | 🟢 beginner | 2026-05-13 | [📘 guide](https://github.com/AFLplusplus/AFLplusplus/blob/HEAD/CONTRIBUTING.md) |
+| [checkTxJsonFields calls asString() on tx_json.Account without type check](https://github.com/XRPLF/rippled/issues/6771) 💬 1 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-05-08 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |
+| [CephFS Backend](https://github.com/rclone/rclone/issues/7172) 💬 11 | [rclone/rclone](https://github.com/rclone/rclone) | 60.4k | 🟡 help wanted | 2026-05-06 | [📘 guide](https://github.com/rclone/rclone/blob/HEAD/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 212 on the website.
+Showing the 200 most recently updated. See all 209 on the website.

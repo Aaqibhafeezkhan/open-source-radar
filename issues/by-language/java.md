@@ -1,10 +1,10 @@
 # Java issues
 
-**270** open issues (113 labeled for beginners) across **77** active Java projects.
+**265** open issues (109 labeled for beginners) across **75** active Java projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/java.xml)
 
-> Updated automatically on **2026-10-17 20:21 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-18 10:43 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,12 +12,11 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Replace Bootstrap utility classes in 'Revisions.vue'](https://github.com/kestra-io/kestra/issues/21012) 💬 5 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.7k | 🟢 beginner | 2026-10-17 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
-| [Add a unit test for the Empty layout component](https://github.com/kestra-io/kestra/issues/20912) 💬 9 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.7k | 🟢 beginner | 2026-10-17 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
-| [Add unit tests for useEditorContentWidget](https://github.com/kestra-io/kestra/issues/20908) 💬 6 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.7k | 🟢 beginner | 2026-10-17 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
-| [\[UI\] Sidebar section titles "Workspace" and "Resources" are not translated](https://github.com/kestra-io/kestra/issues/21162) 💬 4 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.7k | 🟢 beginner | 2026-10-17 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
-| [Triggers dashboard data docs copy the Executions description and have an empty example](https://github.com/kestra-io/kestra/issues/21168) 💬 2 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.7k | 🟢 beginner | 2026-10-17 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
-| [Add a unit test for BlueprintIconStack](https://github.com/kestra-io/kestra/issues/20915) 💬 7 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.7k | 🟢 beginner | 2026-10-17 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
+| [No-code duration field writes weeks as P1W, which the backend can't parse](https://github.com/kestra-io/kestra/issues/21197) 💬 2 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.8k | 🟢 beginner | 2026-10-18 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Add unit tests for handledIf](https://github.com/kestra-io/kestra/issues/20903) 💬 8 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.8k | 🟢 beginner | 2026-10-18 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Plugin documentation section headings (Examples, Properties, Outputs, Metrics, Definitions) are not translated](https://github.com/kestra-io/kestra/issues/21169) 💬 4 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.8k | 🟢 beginner | 2026-10-18 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Triggers dashboard data docs copy the Executions description and have an empty example](https://github.com/kestra-io/kestra/issues/21168) 💬 3 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.8k | 🟢 beginner | 2026-10-18 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
+| [APK Editor (RE-Build APKs and More)](https://github.com/MuntashirAkon/AppManager/issues/138) 💬 51 | [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) | 9.3k | 🟢 beginner | 2026-10-18 | 🔏 DCO · [📘 guide](https://github.com/MuntashirAkon/AppManager/blob/HEAD/CONTRIBUTING.rst) |
 | [\[Feature\]\[Connector-v2\]\[MySQL\] Support dynamic discovery of new tables for regex-based multi-table sync](https://github.com/apache/seatunnel/issues/10203) 💬 34 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.7k | 🟢 beginner | 2026-10-17 | ✍️ CLA |
 | [Infinite canvas: free mouse panning and continuous zoom](https://github.com/logisim-evolution/logisim-evolution/issues/3074) 💬 1 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.8k | 🟡 help wanted | 2026-10-17 | [📘 guide](https://github.com/logisim-evolution/logisim-evolution/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Towards a centralized vulnerability database for Dependency-Track](https://github.com/DependencyTrack/dependency-track/issues/4122) 💬 15 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟡 help wanted | 2026-10-17 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/DependencyTrack/dependency-track/blob/HEAD/CONTRIBUTING.md) |
@@ -207,10 +206,11 @@
 | [Variable Filter does not return results for decimal numbers when decimal point is zero](https://github.com/camunda/camunda/issues/32838) 💬 1 | [camunda/camunda](https://github.com/camunda/camunda) | 4.3k | 🟢 beginner | 2026-07-12 | ✍️ CLA · [📘 guide](https://github.com/camunda/camunda/blob/HEAD/CONTRIBUTING.md) |
 | [pytorch Issue: SequentialImpl and AnyModule do not support custom user-defined Modules inherited from Module (](https://github.com/bytedeco/javacpp-presets/issues/1779) 💬 9 | [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets) | 2.8k | 🟡 help wanted | 2026-07-11 |  |
 | [Offer a way to get a provider from ctx.super() response](https://github.com/bazelbuild/bazel/issues/26960) 💬 3 | [bazelbuild/bazel](https://github.com/bazelbuild/bazel) | 26k | 🟡 help wanted | 2026-07-09 | ✍️ CLA · [📘 guide](https://github.com/bazelbuild/bazel/blob/HEAD/CONTRIBUTING.md) |
-| [Decrypt Whatsapp desktop client db files](https://github.com/sepinf-inc/IPED/issues/2247) 💬 5 | [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) | 3k | 🟡 help wanted | 2026-07-09 |  |
+| [Decrypt Whatsapp desktop client db files](https://github.com/sepinf-inc/IPED/issues/2247) 💬 5 | [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) | 3.1k | 🟡 help wanted | 2026-07-09 |  |
 | [ModuleListImpl erases concrete subclass types of stored Modules, causing ClassCastException when casting back](https://github.com/bytedeco/javacpp-presets/issues/1783) 💬 2 | [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets) | 2.8k | 🟡 help wanted | 2026-07-09 |  |
 | [\[JENKINS-42816\] Agent terminology cleanup](https://github.com/jenkinsci/jenkins/issues/21944) 💬 9 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 26.7k | 🟡 help wanted | 2026-07-08 | ✍️ CLA · [📘 guide](https://github.com/jenkinsci/jenkins/blob/HEAD/CONTRIBUTING.md) |
 | [Improve UX for beginner users](https://github.com/Col-E/Recaf/issues/230) | [Col-E/Recaf](https://github.com/Col-E/Recaf) | 7.4k | 🟡 help wanted | 2026-07-08 | [📘 guide](https://github.com/Col-E/Recaf/blob/HEAD/CONTRIBUTING.md) |
 | [Disable colors in logs](https://github.com/tchiotludo/akhq/issues/917) 💬 9 | [tchiotludo/akhq](https://github.com/tchiotludo/akhq) | 3.9k | 🟢 beginner | 2026-07-08 |  |
+| [Consider expanding the HttpClient to support a query parameter and fragment builders.](https://github.com/reactor/reactor-netty/issues/753) 💬 5 | [reactor/reactor-netty](https://github.com/reactor/reactor-netty) | 2.8k | 🟡 help wanted | 2026-07-07 |  |
 
-Showing the 200 most recently updated. See all 270 on the website.
+Showing the 200 most recently updated. See all 265 on the website.
