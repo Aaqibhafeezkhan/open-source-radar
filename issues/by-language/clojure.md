@@ -1,10 +1,10 @@
 # Clojure issues
 
-**23** open issues (20 labeled for beginners) across **9** active Clojure projects.
+**24** open issues (21 labeled for beginners) across **9** active Clojure projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/clojure.xml)
 
-> Updated automatically on **2026-10-19 11:42 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-19 22:23 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,6 +13,7 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Context menu item are displayed on two lines when too long](https://github.com/penpot/penpot/issues/12320) | [penpot/penpot](https://github.com/penpot/penpot) | 61.4k | 🟢 beginner | 2026-10-19 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/penpot/penpot/blob/HEAD/CONTRIBUTING.md) |
+| [Improve the Open Decklists' deckview.](https://github.com/mtgred/netrunner/issues/7890) 💬 1 | [mtgred/netrunner](https://github.com/mtgred/netrunner) | 985 | 🟢 beginner | 2026-10-19 | [📘 guide](https://github.com/mtgred/netrunner/blob/HEAD/CONTRIBUTING.md) |
 | [Zombie chrome-headless processes created on element export](https://github.com/penpot/penpot/issues/10339) 💬 3 | [penpot/penpot](https://github.com/penpot/penpot) | 61.4k | 🟢 beginner | 2026-10-18 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/penpot/penpot/blob/HEAD/CONTRIBUTING.md) |
 | [Keep the search when changing library in the Swap component menu](https://github.com/penpot/penpot/issues/12335) 💬 2 | [penpot/penpot](https://github.com/penpot/penpot) | 61.4k | 🟢 beginner | 2026-10-18 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/penpot/penpot/blob/HEAD/CONTRIBUTING.md) |
 | [Redundant scrollbar shows when scrolling a container that contains tooltips](https://github.com/metabase/metabase/issues/83643) 💬 1 | [metabase/metabase](https://github.com/metabase/metabase) | 49.7k | 🟢 beginner | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/metabase/metabase/blob/HEAD/docs/CONTRIBUTING.md) |

@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**34** open issues (23 labeled for beginners) across **12** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `cryptocurrenc`.
+**36** open issues (25 labeled for beginners) across **11** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `cryptocurrenc`.
 
-> Updated automatically on **2026-10-19 11:42 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-19 22:23 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,10 +10,13 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [\[Bug\]: Weekly interval reports missing last week of data](https://github.com/actualbudget/actual/issues/3797) 💬 3 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟢 beginner | 2026-10-18 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
+| [\[Bug\]: Back link must be tapped twice after lock transactions on Pixel](https://github.com/actualbudget/actual/issues/9249) 💬 1 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟢 beginner | 2026-10-19 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
+| [\[Bug\]: Weekly interval reports missing last week of data](https://github.com/actualbudget/actual/issues/3797) 💬 4 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟢 beginner | 2026-10-19 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Report snapshot/export does not work on Firefox](https://github.com/actualbudget/actual/issues/5731) 💬 5 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟡 help wanted | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Android tablet category select broken](https://github.com/actualbudget/actual/issues/6401) 💬 2 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟡 help wanted | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
+| [\[Bug\]: Spending Analysis in Tracking Budget uses wrong amount.](https://github.com/actualbudget/actual/issues/7419) 💬 5 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟢 beginner | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Calling API updateTransaction for a sub-transaction clears the category & amount](https://github.com/actualbudget/actual/issues/5012) 💬 1 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟢 beginner | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
+| [\[Bug\]: Converted schedule is incorrect for split transactions with multiple payees](https://github.com/actualbudget/actual/issues/6682) | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟢 beginner | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Error when linking account with pluggy.ai](https://github.com/actualbudget/actual/issues/6345) 💬 12 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟢 beginner | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: unclean handling of SimpleFIN downtime](https://github.com/actualbudget/actual/issues/3763) 💬 3 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟢 beginner | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Transactions not merged when applying rules to existing transactions](https://github.com/actualbudget/actual/issues/1331) 💬 2 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟡 help wanted | 2026-10-13 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
@@ -25,7 +28,6 @@
 | [TypeError: 'NoneType' object is not iterable](https://github.com/saleor/saleor/issues/17891) 💬 1 | [saleor/saleor](https://github.com/saleor/saleor) | 23.5k | 🟡 help wanted | 2026-08-04 | [📘 guide](https://github.com/saleor/saleor/blob/HEAD/CONTRIBUTING.md) |
 | [VoucherInfoByVoucherCodeLoader dataloader uses prefetch_related](https://github.com/saleor/saleor/issues/13751) 💬 1 | [saleor/saleor](https://github.com/saleor/saleor) | 23.5k | 🟡 help wanted | 2026-08-01 | [📘 guide](https://github.com/saleor/saleor/blob/HEAD/CONTRIBUTING.md) |
 | [Bug: Reduce repr for checkoutInfo & checkoutLineInfo](https://github.com/saleor/saleor/issues/15123) 💬 7 | [saleor/saleor](https://github.com/saleor/saleor) | 23.5k | 🟢 beginner | 2026-08-01 | [📘 guide](https://github.com/saleor/saleor/blob/HEAD/CONTRIBUTING.md) |
-| [Trader chat messages time stamp wrong](https://github.com/bisq-network/bisq/issues/3325) 💬 7 | [bisq-network/bisq](https://github.com/bisq-network/bisq) | 5.1k | 🟢 beginner | 2026-07-26 | [📘 guide](https://github.com/bisq-network/bisq/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Notifications overlapping](https://github.com/actualbudget/actual/issues/3536) 💬 3 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟢 beginner | 2026-07-21 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Can't click off to close filter menu with select open](https://github.com/actualbudget/actual/issues/3051) 💬 6 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟢 beginner | 2026-07-21 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Filtered balance on Split's notes not calculating properly](https://github.com/actualbudget/actual/issues/4381) 💬 2 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟡 help wanted | 2026-07-21 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
