@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**36** open issues (25 labeled for beginners) across **11** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `cryptocurrenc`.
+**34** open issues (24 labeled for beginners) across **10** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `cryptocurrenc`.
 
-> Updated automatically on **2026-10-19 22:23 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-20 11:01 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,7 +10,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [\[Bug\]: Back link must be tapped twice after lock transactions on Pixel](https://github.com/actualbudget/actual/issues/9249) 💬 1 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟢 beginner | 2026-10-19 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Weekly interval reports missing last week of data](https://github.com/actualbudget/actual/issues/3797) 💬 4 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟢 beginner | 2026-10-19 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Report snapshot/export does not work on Firefox](https://github.com/actualbudget/actual/issues/5731) 💬 5 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟡 help wanted | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Android tablet category select broken](https://github.com/actualbudget/actual/issues/6401) 💬 2 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.6k | 🟡 help wanted | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
@@ -45,4 +44,3 @@
 | [Reduce code duplication between regular and data-backed constitution tests](https://github.com/IntersectMBO/plutus/issues/6787) | [IntersectMBO/plutus](https://github.com/IntersectMBO/plutus) | 1.6k | 🟢 beginner | 2026-05-01 |  |
 | [Add golden tests for the validation benchmarks](https://github.com/IntersectMBO/plutus/issues/6828) | [IntersectMBO/plutus](https://github.com/IntersectMBO/plutus) | 1.6k | 🟢 beginner | 2026-05-01 |  |
 | [Navigator - a minimap for the entire dataset](https://github.com/tradingview/lightweight-charts/issues/2083) 💬 1 | [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) | 17.6k | 🟡 help wanted | 2026-04-28 | [📘 guide](https://github.com/tradingview/lightweight-charts/blob/HEAD/CONTRIBUTING.md) |
-| [Deterministic simulation testing foundations (madsim) for linera-core](https://github.com/linera-io/linera-protocol/issues/6108) | [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) | 32.1k | 🟡 help wanted | 2026-04-23 | [📘 guide](https://github.com/linera-io/linera-protocol/blob/HEAD/CONTRIBUTING.md) |
