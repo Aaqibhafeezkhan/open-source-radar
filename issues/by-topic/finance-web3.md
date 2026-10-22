@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**35** open issues (23 labeled for beginners) across **10** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `cryptocurrenc`.
+**35** open issues (22 labeled for beginners) across **11** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `cryptocurrenc`.
 
-> Updated automatically on **2026-10-21 21:26 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-22 11:03 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,14 +10,13 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [\[Bug\]: Scrolling jitter on mobile](https://github.com/actualbudget/actual/issues/9294) 💬 2 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟡 help wanted | 2026-10-21 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
+| [\[Bug\]: Scrolling jitter on mobile](https://github.com/actualbudget/actual/issues/9294) 💬 4 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟡 help wanted | 2026-10-22 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Weekly interval reports missing last week of data](https://github.com/actualbudget/actual/issues/3797) 💬 4 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟢 beginner | 2026-10-19 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Report snapshot/export does not work on Firefox](https://github.com/actualbudget/actual/issues/5731) 💬 5 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟡 help wanted | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Android tablet category select broken](https://github.com/actualbudget/actual/issues/6401) 💬 2 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟡 help wanted | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Spending Analysis in Tracking Budget uses wrong amount.](https://github.com/actualbudget/actual/issues/7419) 💬 5 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟢 beginner | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Calling API updateTransaction for a sub-transaction clears the category & amount](https://github.com/actualbudget/actual/issues/5012) 💬 1 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟢 beginner | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Error when linking account with pluggy.ai](https://github.com/actualbudget/actual/issues/6345) 💬 12 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟢 beginner | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
-| [\[Bug\]: unclean handling of SimpleFIN downtime](https://github.com/actualbudget/actual/issues/3763) 💬 3 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟢 beginner | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Transactions not merged when applying rules to existing transactions](https://github.com/actualbudget/actual/issues/1331) 💬 2 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟡 help wanted | 2026-10-13 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [Adds Futures Fill Model](https://github.com/QuantConnect/Lean/issues/4605) 💬 2 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 22.1k | 🟢 beginner | 2026-10-06 | [📘 guide](https://github.com/QuantConnect/Lean/blob/HEAD/CONTRIBUTING.md) |
 | [Syncing archive node from era files](https://github.com/ethereum/go-ethereum/issues/35354) 💬 4 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 51.4k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/ethereum/go-ethereum/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -37,6 +36,7 @@
 | [AccountLines: missing type validation on peer parameter](https://github.com/XRPLF/rippled/issues/6760) 💬 1 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-06-22 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |
 | [\[FEATURE\] : \[NOON\] Add Integrity Check Support for Authorize, PSync, Refund and RSync Flows](https://github.com/juspay/hyperswitch/issues/9199) 💬 3 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 45.4k | 🟢 beginner | 2026-06-10 | [📘 guide](https://github.com/juspay/hyperswitch/blob/HEAD/docs/CONTRIBUTING.md) |
 | [\[FR\] RTL BiDi Support](https://github.com/PrivateBin/PrivateBin/issues/1849) 💬 1 | [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | 8.7k | 🟡 help wanted | 2026-06-04 | 🤖 disclose AI use · [📘 guide](https://github.com/PrivateBin/PrivateBin/blob/HEAD/.github/CONTRIBUTING.md) |
+| [News articles for stock ticker pull irrelevant content](https://github.com/premnirmal/StockTicker/issues/440) 💬 3 | [premnirmal/StockTicker](https://github.com/premnirmal/StockTicker) | 581 | 🟡 help wanted | 2026-06-01 | [📘 guide](https://github.com/premnirmal/StockTicker/blob/HEAD/CONTRIBUTING.md) |
 | [Cropped button label in "Remove vault" dialog](https://github.com/cryptomator/cryptomator/issues/3338) 💬 5 | [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) | 16.3k | 🟢 beginner | 2026-05-26 | [📘 guide](https://github.com/cryptomator/cryptomator/blob/HEAD/.github/CONTRIBUTING.md) |
 | [api_version as large unsigned int causes exception instead of clean rejection](https://github.com/XRPLF/rippled/issues/6776) 💬 1 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-05-15 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |
 | [checkTxJsonFields calls asString() on tx_json.Account without type check](https://github.com/XRPLF/rippled/issues/6771) 💬 1 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-05-08 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |
