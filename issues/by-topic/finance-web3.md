@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**37** open issues (23 labeled for beginners) across **13** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `cryptocurrenc`.
+**36** open issues (22 labeled for beginners) across **13** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `cryptocurrenc`.
 
-> Updated automatically on **2026-10-23 10:50 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-23 21:15 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -16,7 +16,6 @@
 | [\[Bug\]: Report snapshot/export does not work on Firefox](https://github.com/actualbudget/actual/issues/5731) 💬 5 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟡 help wanted | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Android tablet category select broken](https://github.com/actualbudget/actual/issues/6401) 💬 2 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟡 help wanted | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Spending Analysis in Tracking Budget uses wrong amount.](https://github.com/actualbudget/actual/issues/7419) 💬 5 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟢 beginner | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
-| [\[Bug\]: Calling API updateTransaction for a sub-transaction clears the category & amount](https://github.com/actualbudget/actual/issues/5012) 💬 1 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟢 beginner | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Error when linking account with pluggy.ai](https://github.com/actualbudget/actual/issues/6345) 💬 12 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟢 beginner | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Transactions not merged when applying rules to existing transactions](https://github.com/actualbudget/actual/issues/1331) 💬 2 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟡 help wanted | 2026-10-13 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [Adds Futures Fill Model](https://github.com/QuantConnect/Lean/issues/4605) 💬 2 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 22.2k | 🟢 beginner | 2026-10-06 | [📘 guide](https://github.com/QuantConnect/Lean/blob/HEAD/CONTRIBUTING.md) |
