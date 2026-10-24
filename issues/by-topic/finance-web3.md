@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**36** open issues (22 labeled for beginners) across **13** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `cryptocurrenc`.
+**37** open issues (23 labeled for beginners) across **14** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `cryptocurrenc`.
 
-> Updated automatically on **2026-10-23 21:15 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-24 10:24 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -18,6 +18,7 @@
 | [\[Bug\]: Spending Analysis in Tracking Budget uses wrong amount.](https://github.com/actualbudget/actual/issues/7419) 💬 5 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟢 beginner | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Error when linking account with pluggy.ai](https://github.com/actualbudget/actual/issues/6345) 💬 12 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟢 beginner | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Transactions not merged when applying rules to existing transactions](https://github.com/actualbudget/actual/issues/1331) 💬 2 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟡 help wanted | 2026-10-13 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
+| [\[Bug\]\[Rust SDK\] Integer Overflow in expiration_timestamp_secs](https://github.com/aptos-labs/aptos-core/issues/10440) 💬 2 | [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core) | 6.4k | 🟢 beginner | 2026-10-12 | [📘 guide](https://github.com/aptos-labs/aptos-core/blob/HEAD/CONTRIBUTING.md) |
 | [Adds Futures Fill Model](https://github.com/QuantConnect/Lean/issues/4605) 💬 2 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 22.2k | 🟢 beginner | 2026-10-06 | [📘 guide](https://github.com/QuantConnect/Lean/blob/HEAD/CONTRIBUTING.md) |
 | [Syncing archive node from era files](https://github.com/ethereum/go-ethereum/issues/35354) 💬 4 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 51.4k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/ethereum/go-ethereum/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Bug\]: Enable Banking with "imagin / CaixaBank" bank linking fails on desktop but works on mobile browser](https://github.com/actualbudget/actual/issues/8326) 💬 9 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.7k | 🟡 help wanted | 2026-09-13 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
