@@ -44,9 +44,9 @@ const dynamicKeys = [
   "time.updatedPrefix", "time.year", "time.years", "time.yesterday", "title.issue", "title.issues",
 ];
 
-test("English, Spanish, Hindi and Portuguese define every site message", () => {
+test("English, Spanish, Hindi, Portuguese and German define every site message", () => {
   const keys = [...new Set([...staticKeys(), ...dynamicKeys])];
-  for (const locale of ["en", "es", "hi", "pt"]) {
+  for (const locale of ["en", "es", "hi", "pt", "de"]) {
     const i18n = loadI18n(locale);
     assert.equal(i18n.locale, locale);
     for (const key of keys) assert.notEqual(i18n.t(key), key, `${locale} is missing ${key}`);
