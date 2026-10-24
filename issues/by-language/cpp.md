@@ -1,10 +1,10 @@
 # C++ issues
 
-**329** open issues (106 labeled for beginners) across **99** active C++ projects.
+**327** open issues (105 labeled for beginners) across **99** active C++ projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/cpp.xml)
 
-> Updated automatically on **2026-10-24 10:24 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-24 20:14 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Expressions: Broken references and Fx icon on sketcher dimensions should show with "broken reference" color (o](https://github.com/FreeCAD/FreeCAD/issues/23715) 💬 1 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.7k | 🟢 beginner | 2026-10-24 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [Add 'Document Window' option to the right click menu of TechDraw and Spreadsheet workbenches](https://github.com/FreeCAD/FreeCAD/issues/29276) 💬 2 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.7k | 🟢 beginner | 2026-10-24 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
+| [Clang/LLVM tracking issue](https://github.com/microsoft/STL/issues/4413) | [microsoft/STL](https://github.com/microsoft/STL) | 11.2k | 🟡 help wanted | 2026-10-24 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/microsoft/STL/blob/HEAD/CONTRIBUTING.md) |
 | [webdav 删除文件报错，实际已经删除。文件夹和文件按名称排序异常](https://github.com/filecxx/FileCentipede/issues/656) 💬 1 | [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) | 10.9k | 🟢 beginner | 2026-10-24 |  |
 | [这个网址的视频能下载但是不能播放](https://github.com/filecxx/FileCentipede/issues/702) 💬 3 | [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) | 10.9k | 🟢 beginner | 2026-10-24 |  |
 | [Core/UI/UX: Search in "Selection View" Panel does not reset when clearing the search text.](https://github.com/FreeCAD/FreeCAD/issues/30009) 💬 3 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.7k | 🟢 beginner | 2026-10-23 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
@@ -59,6 +61,7 @@
 | [Sketcher: Carbon copying a non-parallel sketch has incorrect help text on macOS](https://github.com/FreeCAD/FreeCAD/issues/19935) 💬 8 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.7k | 🟢 beginner | 2026-10-14 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [Moves item to the top even with option disabled](https://github.com/hluk/CopyQ/issues/3646) 💬 1 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.5k | 🟡 help wanted | 2026-10-14 |  |
 | [CopyQ does not paste content automatically](https://github.com/hluk/CopyQ/issues/3000) 💬 27 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.5k | 🟡 help wanted | 2026-10-14 |  |
+| [Improve Dashboard for Flaky tests](https://github.com/project-chip/connectedhomeip/issues/71613) 💬 3 | [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) | 9k | 🟢 beginner | 2026-10-14 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/project-chip/connectedhomeip/blob/HEAD/CONTRIBUTING.md) |
 | [Is there a way to disable thumbnail generation for specific filetypes?](https://github.com/f3d-app/f3d/issues/2917) 💬 4 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.9k | 🟡 help wanted | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/f3d-app/f3d/blob/HEAD/CONTRIBUTING.md) |
 | [SVG: geometry import can break open closed paths](https://github.com/FreeCAD/FreeCAD/issues/16935) 💬 17 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.7k | 🟡 help wanted | 2026-10-13 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [Delete Tiers of a torrent in the Web-client](https://github.com/transmission/transmission/issues/9137) | [transmission/transmission](https://github.com/transmission/transmission) | 15.3k | 🟡 help wanted | 2026-10-13 | [📘 guide](https://github.com/transmission/transmission/blob/HEAD/CONTRIBUTING.md) |
@@ -68,7 +71,6 @@
 | [Feature request: Add a Rust API](https://github.com/dmlc/xgboost/issues/3351) 💬 11 | [dmlc/xgboost](https://github.com/dmlc/xgboost) | 28.9k | 🟡 help wanted | 2026-10-12 |  |
 | [Add an option to transmission-edit to convert hybrid torrent files with v1 and v2 data to plain old v1 file](https://github.com/transmission/transmission/issues/3605) 💬 5 | [transmission/transmission](https://github.com/transmission/transmission) | 15.3k | 🟡 help wanted | 2026-10-12 | [📘 guide](https://github.com/transmission/transmission/blob/HEAD/CONTRIBUTING.md) |
 | [Paste to current window intermittently fails quietly (no effect or empty paste) on Windows](https://github.com/hluk/CopyQ/issues/3744) 💬 2 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.5k | 🟡 help wanted | 2026-10-12 |  |
-| [Clang/LLVM tracking issue](https://github.com/microsoft/STL/issues/4413) | [microsoft/STL](https://github.com/microsoft/STL) | 11.2k | 🟡 help wanted | 2026-10-12 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/microsoft/STL/blob/HEAD/CONTRIBUTING.md) |
 | [Inconsistent Error Log Format of ModSecurity depending on Apache's ErrorLogFormat directive](https://github.com/owasp-modsecurity/ModSecurity/issues/3472) 💬 8 | [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) | 9.8k | 🟡 help wanted | 2026-10-12 |  |
 | [Assistance Required with ModSecurity Rule Compatibility for OpenLiteSpeed](https://github.com/owasp-modsecurity/ModSecurity/issues/3169) 💬 5 | [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) | 9.8k | 🟡 help wanted | 2026-10-12 |  |
 | [Review and update security.md](https://github.com/owasp-modsecurity/ModSecurity/issues/3045) 💬 2 | [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) | 9.8k | 🟡 help wanted | 2026-10-12 |  |
@@ -82,9 +84,9 @@
 | [Tab position is not restored for 'restoreLastClosed' action](https://github.com/microsoft/terminal/issues/12902) 💬 1 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105.2k | 🟡 help wanted | 2026-10-09 | 🤖 disclose AI use · [📘 guide](https://github.com/microsoft/terminal/blob/HEAD/CONTRIBUTING.md) |
 | [start wt.exe with parameter fails in administrator mode](https://github.com/microsoft/terminal/issues/14861) 💬 6 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105.2k | 🟡 help wanted | 2026-10-09 | 🤖 disclose AI use · [📘 guide](https://github.com/microsoft/terminal/blob/HEAD/CONTRIBUTING.md) |
 | [DAG View not rendered properly](https://github.com/FreeCAD/FreeCAD/issues/16525) 💬 24 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.7k | 🟡 help wanted | 2026-10-09 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
-| [Issues needing community help on reports to third-party projects](https://github.com/telegramdesktop/tdesktop/issues/25126) | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 33.3k | 🟡 help wanted | 2026-10-09 | [📘 guide](https://github.com/telegramdesktop/tdesktop/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Issues needing community help on reports to third-party projects](https://github.com/telegramdesktop/tdesktop/issues/25126) | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 33.4k | 🟡 help wanted | 2026-10-09 | [📘 guide](https://github.com/telegramdesktop/tdesktop/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Make sure opening hours show proper schedule on selecting another POI](https://github.com/organicmaps/organicmaps/issues/12106) 💬 7 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.8k | 🟢 beginner | 2026-10-09 | 🔏 DCO · [📘 guide](https://github.com/organicmaps/organicmaps/blob/HEAD/CONTRIBUTING.md) |
-| [CPU support for dense reconstruction](https://github.com/colmap/colmap/issues/2390) 💬 10 | [colmap/colmap](https://github.com/colmap/colmap) | 13k | 🟡 help wanted | 2026-10-09 | [📘 guide](https://github.com/colmap/colmap/blob/HEAD/CONTRIBUTING.md) |
+| [CPU support for dense reconstruction](https://github.com/colmap/colmap/issues/2390) 💬 10 | [colmap/colmap](https://github.com/colmap/colmap) | 13.1k | 🟡 help wanted | 2026-10-09 | [📘 guide](https://github.com/colmap/colmap/blob/HEAD/CONTRIBUTING.md) |
 | [Explorer background context menu option missing](https://github.com/microsoft/terminal/issues/10119) 💬 35 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105.2k | 🟡 help wanted | 2026-10-08 | 🤖 disclose AI use · [📘 guide](https://github.com/microsoft/terminal/blob/HEAD/CONTRIBUTING.md) |
 | [Core: Improve touch input under Linux (Crashes on Qt5, Qt6 works but needs further improvement)](https://github.com/FreeCAD/FreeCAD/issues/17308) 💬 22 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.7k | 🟡 help wanted | 2026-10-08 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [Map downloadig dialog appears for a moment](https://github.com/organicmaps/organicmaps/issues/11911) 💬 5 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.8k | 🟢 beginner | 2026-10-08 | 🔏 DCO · [📘 guide](https://github.com/organicmaps/organicmaps/blob/HEAD/CONTRIBUTING.md) |
@@ -101,10 +103,8 @@
 | [Ability to force the creation of a folder](https://github.com/transmission/transmission/issues/5614) 💬 8 | [transmission/transmission](https://github.com/transmission/transmission) | 15.3k | 🟡 help wanted | 2026-10-05 | [📘 guide](https://github.com/transmission/transmission/blob/HEAD/CONTRIBUTING.md) |
 | [Execution time limit annotations](https://github.com/nasa/fprime/issues/3688) 💬 4 | [nasa/fprime](https://github.com/nasa/fprime) | 11.8k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · [📘 guide](https://github.com/nasa/fprime/blob/HEAD/CONTRIBUTING.md) |
 | [STEP import: "Show progress bar when importing" option is clutter](https://github.com/FreeCAD/FreeCAD/issues/31162) 💬 1 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.7k | 🟢 beginner | 2026-10-04 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
-| [UI: There is no visual reference to the Sketch that is being edited AKA FreeCAD doesn't handle styling of the](https://github.com/FreeCAD/FreeCAD/issues/20599) 💬 16 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.7k | 🟢 beginner | 2026-10-04 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [transmission window does not open on screen. Downloads but no control possible as no interface](https://github.com/transmission/transmission/issues/8016) 💬 9 | [transmission/transmission](https://github.com/transmission/transmission) | 15.3k | 🟡 help wanted | 2026-10-04 | [📘 guide](https://github.com/transmission/transmission/blob/HEAD/CONTRIBUTING.md) |
 | [\[Epic\] Requested 3D formats](https://github.com/assimp/assimp/issues/6097) 💬 1 | [assimp/assimp](https://github.com/assimp/assimp) | 13.3k | 🟡 help wanted | 2026-10-04 | [📘 guide](https://github.com/assimp/assimp/blob/HEAD/CONTRIBUTING.md) |
-| [BIM: Room finish marks](https://github.com/FreeCAD/FreeCAD/issues/5740) 💬 1 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.7k | 🟢 beginner | 2026-10-03 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [Transmission for Mac (and probably not only) doesn't seem to open ports (also says "port closed" in Network se](https://github.com/transmission/transmission/issues/7202) 💬 31 | [transmission/transmission](https://github.com/transmission/transmission) | 15.3k | 🟡 help wanted | 2026-10-03 | [📘 guide](https://github.com/transmission/transmission/blob/HEAD/CONTRIBUTING.md) |
 | [ESAPI plates break too easily](https://github.com/CleverRaven/Cataclysm-DDA/issues/68613) 💬 1 | [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) | 13.4k | 🟡 help wanted | 2026-10-03 | [📘 guide](https://github.com/CleverRaven/Cataclysm-DDA/blob/HEAD/CONTRIBUTING.md) |
 | [Homebrew cask is now deprecated because CopyQ fails Gatekeeper checks](https://github.com/hluk/CopyQ/issues/3498) 💬 12 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.5k | 🟡 help wanted | 2026-10-03 |  |
@@ -213,4 +213,4 @@
 | [\[FEA\] Add support to str.normalize_spaces and str.normalize_characters in dask_cudf](https://github.com/NVIDIA/cudf/issues/10908) 💬 1 | [NVIDIA/cudf](https://github.com/NVIDIA/cudf) | 9.8k | 🟢 beginner | 2026-09-01 | [📘 guide](https://github.com/NVIDIA/cudf/blob/HEAD/CONTRIBUTING.md) |
 | [Wayland - remote desktop interaction popup](https://github.com/hluk/CopyQ/issues/3662) 💬 1 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.5k | 🟡 help wanted | 2026-08-31 |  |
 
-Showing the 200 most recently updated. See all 329 on the website.
+Showing the 200 most recently updated. See all 327 on the website.

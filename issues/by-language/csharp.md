@@ -1,10 +1,10 @@
 # C# issues
 
-**296** open issues (80 labeled for beginners) across **84** active C# projects.
+**298** open issues (80 labeled for beginners) across **85** active C# projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/csharp.xml)
 
-> Updated automatically on **2026-10-24 10:24 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-24 20:14 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,7 +13,9 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Address race in PerformanceCounterLib](https://github.com/dotnet/runtime/issues/90803) 💬 20 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.4k | 🟡 help wanted | 2026-10-24 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
-| [make a AUR for arch user](https://github.com/KnifeLemon/Filee/issues/347) 💬 1 | [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | 11.3k | 🟡 help wanted | 2026-10-24 | [📘 guide](https://github.com/KnifeLemon/Filee/blob/HEAD/CONTRIBUTING.md) |
+| [make a AUR for arch user](https://github.com/KnifeLemon/Filee/issues/347) 💬 1 | [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | 11.6k | 🟡 help wanted | 2026-10-24 | [📘 guide](https://github.com/KnifeLemon/Filee/blob/HEAD/CONTRIBUTING.md) |
+| [Drop down cell](https://github.com/ExcelDataReader/ExcelDataReader/issues/611) 💬 1 | [ExcelDataReader/ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) | 4.4k | 🟡 help wanted | 2026-10-24 |  |
+| [\[Feature\] A PII-protecting message transform, backed by a pluggable key store](https://github.com/BrighterCommand/Brighter/issues/4649) | [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) | 2.5k | 🟡 help wanted | 2026-10-24 | ✍️ CLA · [📘 guide](https://github.com/BrighterCommand/Brighter/blob/HEAD/CONTRIBUTING.md) |
 | [Save IDataView to a database table](https://github.com/dotnet/machinelearning/issues/6260) 💬 2 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-10-23 | ✍️ CLA · [📘 guide](https://github.com/dotnet/machinelearning/blob/HEAD/CONTRIBUTING.md) |
 | [Cannot successfully assign a ListViewItem to a specified group in PropertyGrid](https://github.com/dotnet/winforms/issues/3439) 💬 4 | [dotnet/winforms](https://github.com/dotnet/winforms) | 4.9k | 🟡 help wanted | 2026-10-23 | [📘 guide](https://github.com/dotnet/winforms/blob/HEAD/CONTRIBUTING.md) |
 | [Stabilize OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EVENT_LOG_ATTRIBUTES](https://github.com/open-telemetry/opentelemetry-dotnet/issues/5462) 💬 5 | [open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) | 3.8k | 🟡 help wanted | 2026-10-23 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/open-telemetry/opentelemetry-dotnet/blob/HEAD/CONTRIBUTING.md) |
@@ -210,7 +212,5 @@
 | [Issues with the fixer for xUnit2023](https://github.com/xunit/xunit/issues/3336) 💬 11 | [xunit/xunit](https://github.com/xunit/xunit) | 4.6k | 🟡 help wanted | 2026-08-22 |  |
 | [Eliminate redundant user-facing docs from /docs](https://github.com/open-telemetry/opentelemetry-dotnet/issues/6435) 💬 4 | [open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) | 3.8k | 🟡 help wanted | 2026-08-22 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/open-telemetry/opentelemetry-dotnet/blob/HEAD/CONTRIBUTING.md) |
 | [Guidance for instrumentation authors of libraries built upon other instrumented libraries](https://github.com/open-telemetry/opentelemetry-dotnet/issues/5417) 💬 2 | [open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) | 3.8k | 🟡 help wanted | 2026-08-22 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/open-telemetry/opentelemetry-dotnet/blob/HEAD/CONTRIBUTING.md) |
-| [Support for dropped attributes, events, links count - non-otlp exporters](https://github.com/open-telemetry/opentelemetry-dotnet/issues/4160) 💬 2 | [open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) | 3.8k | 🟡 help wanted | 2026-08-22 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/open-telemetry/opentelemetry-dotnet/blob/HEAD/CONTRIBUTING.md) |
-| [Configurable Error Handler](https://github.com/open-telemetry/opentelemetry-dotnet/issues/4159) 💬 2 | [open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) | 3.8k | 🟡 help wanted | 2026-08-22 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/open-telemetry/opentelemetry-dotnet/blob/HEAD/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 296 on the website.
+Showing the 200 most recently updated. See all 298 on the website.
