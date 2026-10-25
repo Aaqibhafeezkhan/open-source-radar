@@ -1,10 +1,10 @@
 # Java issues
 
-**271** open issues (113 labeled for beginners) across **77** active Java projects.
+**272** open issues (114 labeled for beginners) across **77** active Java projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/java.xml)
 
-> Updated automatically on **2026-10-24 20:14 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-25 10:37 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,20 +12,20 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [DistinctFilter returns String "null" instead of null, causing falsy values to evaluate as truthy](https://github.com/kestra-io/kestra/issues/21643) 💬 9 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-25 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Replace Bootstrap utility classes in 'MainFilter.vue'](https://github.com/kestra-io/kestra/issues/21021) 💬 12 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-25 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Pulsar Functions Leak Database Credentials to Logs](https://github.com/apache/pulsar/issues/9462) 💬 3 | [apache/pulsar](https://github.com/apache/pulsar) | 15.4k | 🟡 help wanted | 2026-10-25 | ⚠️ AI restricted · ✍️ CLA · [📘 guide](https://github.com/apache/pulsar/blob/HEAD/CONTRIBUTING.md) |
+| [\[Feature\]\[Connector-v2\]\[MySQL\] Support dynamic discovery of new tables for regex-based multi-table sync](https://github.com/apache/seatunnel/issues/10203) 💬 39 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟢 beginner | 2026-10-25 | ✍️ CLA |
 | [Crash while scrolling comments section or playing popup and rotating the phone](https://github.com/TeamNewPipe/NewPipe/issues/11708) 💬 8 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 40.3k | 🟢 beginner | 2026-10-24 | 📄 AI policy · [📘 guide](https://github.com/TeamNewPipe/NewPipe/blob/HEAD/.github/CONTRIBUTING.md) |
-| [OTPFormAuthenticator succeeds with credential type 'otp', but the terminal LOGIN event does not retain it; Web](https://github.com/keycloak/keycloak/issues/52725) 💬 4 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.5k | 🟡 help wanted | 2026-10-24 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/keycloak/keycloak/blob/HEAD/CONTRIBUTING.md) |
-| [UploadFiles with filesMap drops the slash between destination and file name](https://github.com/kestra-io/kestra/issues/21799) | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
-| [Logs download ignores the time range picked in the Download dialog](https://github.com/kestra-io/kestra/issues/21796) | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
-| [Settings time-zone offsets stay stale when another region enters daylight saving time](https://github.com/kestra-io/kestra/issues/21731) 💬 6 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Settings time-zone offsets stay stale when another region enters daylight saving time](https://github.com/kestra-io/kestra/issues/21731) 💬 7 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [cURL command in Execute dialog fills current date/time for empty optional DATE/TIME inputs](https://github.com/kestra-io/kestra/issues/21735) 💬 10 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [NOT_EQUALS and NOT_IN filters leave out executions and logs where the field is empty](https://github.com/kestra-io/kestra/issues/21736) 💬 6 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Backfill "Execute backfill" button stays disabled when the flow has an optional input with a value](https://github.com/kestra-io/kestra/issues/21483) 💬 11 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
-| [Read compacted flag is needed in pulsar client CLI](https://github.com/apache/pulsar/issues/25593) 💬 1 | [apache/pulsar](https://github.com/apache/pulsar) | 15.4k | 🟢 beginner | 2026-10-24 | ⚠️ AI restricted · ✍️ CLA · [📘 guide](https://github.com/apache/pulsar/blob/HEAD/CONTRIBUTING.md) |
-| [\[Feature\]\[Connector-v2\]\[MySQL\] Support dynamic discovery of new tables for regex-based multi-table sync](https://github.com/apache/seatunnel/issues/10203) 💬 38 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.8k | 🟢 beginner | 2026-10-24 | ✍️ CLA |
+| [\[improve\]\[CLI\] show environment variables in CLI and optimize them to '--config-file' argument](https://github.com/apache/pulsar/issues/19526) 💬 1 | [apache/pulsar](https://github.com/apache/pulsar) | 15.4k | 🟢 beginner | 2026-10-24 | ⚠️ AI restricted · ✍️ CLA · [📘 guide](https://github.com/apache/pulsar/blob/HEAD/CONTRIBUTING.md) |
+| [Clean up methods used to create ack command](https://github.com/apache/pulsar/issues/21580) | [apache/pulsar](https://github.com/apache/pulsar) | 15.4k | 🟢 beginner | 2026-10-24 | ⚠️ AI restricted · ✍️ CLA · [📘 guide](https://github.com/apache/pulsar/blob/HEAD/CONTRIBUTING.md) |
 | [Generate cli for Pinot REST Api](https://github.com/apache/pinot/issues/5590) 💬 6 | [apache/pinot](https://github.com/apache/pinot) | 6.2k | 🟢 beginner | 2026-10-24 | ✍️ CLA · [📘 guide](https://github.com/apache/pinot/blob/HEAD/CONTRIBUTING.md) |
 | [GitHub Actions for Automating Updates of SPDX Licences and CWE Dictionaries](https://github.com/DependencyTrack/dependency-track/issues/3011) 💬 2 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟢 beginner | 2026-10-24 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/DependencyTrack/dependency-track/blob/HEAD/CONTRIBUTING.md) |
 | [FilterItems and DeduplicateItems load the whole input file into memory since 2.0.0, so large files fail with O](https://github.com/kestra-io/kestra/issues/21656) 💬 8 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-23 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
-| ['SecretFunctionTest.getSecret()' has been silently skipped since 2024, and its flow no longer runs](https://github.com/kestra-io/kestra/issues/21375) 💬 7 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-23 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Evaluate trivy-db as source for vulnerability database](https://github.com/DependencyTrack/dependency-track/issues/4526) 💬 2 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟡 help wanted | 2026-10-23 | ⚠️ AI restricted · 🔏 DCO · [📘 guide](https://github.com/DependencyTrack/dependency-track/blob/HEAD/CONTRIBUTING.md) |
 | [建议ChatBI增加问数过程输出并查看分布执行情况](https://github.com/jeecgboot/jimureport/issues/4824) 💬 1 | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.5k | 🟡 help wanted | 2026-10-22 |  |
 | [(mediaCCC) audio language changes when switching to background player](https://github.com/TeamNewPipe/NewPipe/issues/10720) 💬 11 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 40.3k | 🟢 beginner | 2026-10-21 | 📄 AI policy · [📘 guide](https://github.com/TeamNewPipe/NewPipe/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -213,4 +213,4 @@
 | [Use kiali to build a microservices governance console](https://github.com/alibaba/spring-cloud-alibaba/issues/3118) 💬 2 | [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 29.2k | 🟢 beginner | 2026-07-21 |  |
 | [Regarding the GA version issue](https://github.com/alibaba/spring-cloud-alibaba/issues/4100) 💬 6 | [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 29.2k | 🟢 beginner | 2026-07-21 |  |
 
-Showing the 200 most recently updated. See all 271 on the website.
+Showing the 200 most recently updated. See all 272 on the website.
