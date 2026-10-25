@@ -1,10 +1,10 @@
 # Java issues
 
-**272** open issues (114 labeled for beginners) across **77** active Java projects.
+**268** open issues (113 labeled for beginners) across **77** active Java projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/java.xml)
 
-> Updated automatically on **2026-10-25 10:37 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-25 20:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [NOT_EQUALS and NOT_IN filters leave out executions and logs where the field is empty](https://github.com/kestra-io/kestra/issues/21736) 💬 7 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-25 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [DistinctFilter returns String "null" instead of null, causing falsy values to evaluate as truthy](https://github.com/kestra-io/kestra/issues/21643) 💬 9 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-25 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Replace Bootstrap utility classes in 'MainFilter.vue'](https://github.com/kestra-io/kestra/issues/21021) 💬 12 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-25 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Pulsar Functions Leak Database Credentials to Logs](https://github.com/apache/pulsar/issues/9462) 💬 3 | [apache/pulsar](https://github.com/apache/pulsar) | 15.4k | 🟡 help wanted | 2026-10-25 | ⚠️ AI restricted · ✍️ CLA · [📘 guide](https://github.com/apache/pulsar/blob/HEAD/CONTRIBUTING.md) |
@@ -19,7 +20,6 @@
 | [Crash while scrolling comments section or playing popup and rotating the phone](https://github.com/TeamNewPipe/NewPipe/issues/11708) 💬 8 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 40.3k | 🟢 beginner | 2026-10-24 | 📄 AI policy · [📘 guide](https://github.com/TeamNewPipe/NewPipe/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Settings time-zone offsets stay stale when another region enters daylight saving time](https://github.com/kestra-io/kestra/issues/21731) 💬 7 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [cURL command in Execute dialog fills current date/time for empty optional DATE/TIME inputs](https://github.com/kestra-io/kestra/issues/21735) 💬 10 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
-| [NOT_EQUALS and NOT_IN filters leave out executions and logs where the field is empty](https://github.com/kestra-io/kestra/issues/21736) 💬 6 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Backfill "Execute backfill" button stays disabled when the flow has an optional input with a value](https://github.com/kestra-io/kestra/issues/21483) 💬 11 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[improve\]\[CLI\] show environment variables in CLI and optimize them to '--config-file' argument](https://github.com/apache/pulsar/issues/19526) 💬 1 | [apache/pulsar](https://github.com/apache/pulsar) | 15.4k | 🟢 beginner | 2026-10-24 | ⚠️ AI restricted · ✍️ CLA · [📘 guide](https://github.com/apache/pulsar/blob/HEAD/CONTRIBUTING.md) |
 | [Clean up methods used to create ack command](https://github.com/apache/pulsar/issues/21580) | [apache/pulsar](https://github.com/apache/pulsar) | 15.4k | 🟢 beginner | 2026-10-24 | ⚠️ AI restricted · ✍️ CLA · [📘 guide](https://github.com/apache/pulsar/blob/HEAD/CONTRIBUTING.md) |
@@ -182,7 +182,6 @@
 | [Support cast from varchar to day-time interval type](https://github.com/trinodb/trino/issues/4697) 💬 5 | [trinodb/trino](https://github.com/trinodb/trino) | 13.4k | 🟢 beginner | 2026-08-16 | ✍️ CLA · [📘 guide](https://github.com/trinodb/trino/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Feature\]: Add ArgumentHexColor](https://github.com/Minestom/Minestom/issues/3199) 💬 3 | [Minestom/Minestom](https://github.com/Minestom/Minestom) | 3.3k | 🟢 beginner | 2026-08-16 | [📘 guide](https://github.com/Minestom/Minestom/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Elasticsearch connector does not support a path prefix](https://github.com/trinodb/trino/issues/26930) 💬 6 | [trinodb/trino](https://github.com/trinodb/trino) | 13.4k | 🟢 beginner | 2026-08-15 | ✍️ CLA · [📘 guide](https://github.com/trinodb/trino/blob/HEAD/.github/CONTRIBUTING.md) |
-| [Improve testing of InetAddressPattern used in ConditionalHandler](https://github.com/jetty/jetty.project/issues/15589) | [jetty/jetty.project](https://github.com/jetty/jetty.project) | 4.1k | 🟡 help wanted | 2026-08-14 | [📘 guide](https://github.com/jetty/jetty.project/blob/HEAD/CONTRIBUTING.md) |
 | [Ignore SET pkfield=excluded.pkfield in INSERT ON CONFLICT](https://github.com/crate/crate/issues/17834) 💬 3 | [crate/crate](https://github.com/crate/crate) | 4.4k | 🟡 help wanted | 2026-08-13 | ⚠️ AI restricted · ✍️ CLA · [📘 guide](https://github.com/crate/crate/blob/HEAD/CONTRIBUTING.rst) |
 | [Improve coverage reporting for partially covered expressions](https://github.com/tlaplus/tlaplus/issues/845) 💬 5 | [tlaplus/tlaplus](https://github.com/tlaplus/tlaplus) | 3.1k | 🟡 help wanted | 2026-08-13 | 🔏 DCO · [📘 guide](https://github.com/tlaplus/tlaplus/blob/HEAD/CONTRIBUTING.md) |
 | [Optimize jdk.internal.misc.Unsafe.storeStoreFence() into no-op on x86 platforms](https://github.com/eclipse-openj9/openj9/issues/19042) 💬 3 | [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) | 3.5k | 🟢 beginner | 2026-08-12 | 🤖 disclose AI use · ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/eclipse-openj9/openj9/blob/HEAD/CONTRIBUTING.md) |
@@ -212,5 +211,6 @@
 | [Whether contain spring-cloud-loadbalancer dependency in nacos-discovery module](https://github.com/alibaba/spring-cloud-alibaba/issues/3115) 💬 3 | [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 29.2k | 🟢 beginner | 2026-07-21 |  |
 | [Use kiali to build a microservices governance console](https://github.com/alibaba/spring-cloud-alibaba/issues/3118) 💬 2 | [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 29.2k | 🟢 beginner | 2026-07-21 |  |
 | [Regarding the GA version issue](https://github.com/alibaba/spring-cloud-alibaba/issues/4100) 💬 6 | [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 29.2k | 🟢 beginner | 2026-07-21 |  |
+| [Oracle Geometry type not handled / not queryable in Trino](https://github.com/trinodb/trino/issues/30020) 💬 3 | [trinodb/trino](https://github.com/trinodb/trino) | 13.4k | 🟢 beginner | 2026-07-21 | ✍️ CLA · [📘 guide](https://github.com/trinodb/trino/blob/HEAD/.github/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 272 on the website.
+Showing the 200 most recently updated. See all 268 on the website.
