@@ -214,7 +214,7 @@ Thank you to everyone who has made the radar better:
 - [@ardianwn](https://github.com/ardianwn): locale menu test ([#288](https://github.com/TanbirRamim/open-source-radar/pull/288))
 - [@Aaqibhafeezkhan](https://github.com/Aaqibhafeezkhan): German website ([#283](https://github.com/TanbirRamim/open-source-radar/pull/283))
 - [@anessha-5D](https://github.com/anessha-5D): Scala quickstart ([#306](https://github.com/TanbirRamim/open-source-radar/pull/306))
-- [@divejikan-yuvarajah](https://github.com/divejikan-yuvarajah): locale picker border fix ([#316](https://github.com/TanbirRamim/open-source-radar/pull/316))
+- [@divejikan-yuvarajah](https://github.com/divejikan-yuvarajah): locale picker border fix ([#316](https://github.com/TanbirRamim/open-source-radar/pull/316)), truncate before escaping in the projects page ([#347](https://github.com/TanbirRamim/open-source-radar/pull/347))
 - [@Dev-GA-Arjun](https://github.com/Dev-GA-Arjun): Japanese website ([#322](https://github.com/TanbirRamim/open-source-radar/pull/322))
 - [@jdabid](https://github.com/jdabid): Spanish guide link fix ([#327](https://github.com/TanbirRamim/open-source-radar/pull/327))
 - [@OR3-D3V](https://github.com/OR3-D3V): Simplified Chinese website ([#328](https://github.com/TanbirRamim/open-source-radar/pull/328))
