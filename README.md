@@ -206,7 +206,7 @@ Thank you to everyone who has made the radar better:
 - [@Sohamsonawane31](https://github.com/Sohamsonawane31): test for topic RSS feed URLs ([#239](https://github.com/TanbirRamim/open-source-radar/pull/239))
 - [@kw-1129](https://github.com/kw-1129): Hindi translation of chapter 3 ([#241](https://github.com/TanbirRamim/open-source-radar/pull/241))
 - [@rahul05ranjan](https://github.com/rahul05ranjan): Hindi chapter 9 and the Spanish glossary ([#244](https://github.com/TanbirRamim/open-source-radar/pull/244), [#245](https://github.com/TanbirRamim/open-source-radar/pull/245))
-- [@gopikrishnamahalingam](https://github.com/gopikrishnamahalingam): project license on issue cards ([#259](https://github.com/TanbirRamim/open-source-radar/pull/259))
+- [@gopikrishnamahalingam](https://github.com/gopikrishnamahalingam): project license on issue cards ([#259](https://github.com/TanbirRamim/open-source-radar/pull/259)), browser language preference ([#305](https://github.com/TanbirRamim/open-source-radar/pull/305))
 - [@shantan1213](https://github.com/shantan1213): tests for repository discovery ([#261](https://github.com/TanbirRamim/open-source-radar/pull/261))
 - [@MarioACo](https://github.com/MarioACo): Spanish website and license search ([#265](https://github.com/TanbirRamim/open-source-radar/pull/265), [#266](https://github.com/TanbirRamim/open-source-radar/pull/266))
 - [@maayaankk](https://github.com/maayaankk): Hindi website ([#271](https://github.com/TanbirRamim/open-source-radar/pull/271))
