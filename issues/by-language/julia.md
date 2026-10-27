@@ -1,10 +1,10 @@
 # Julia issues
 
-**54** open issues (42 labeled for beginners) across **15** active Julia projects.
+**55** open issues (42 labeled for beginners) across **16** active Julia projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/julia.xml)
 
-> Updated automatically on **2026-10-27 11:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-27 22:06 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Roadmap and ideas for Molly.jl development](https://github.com/JuliaMolSim/Molly.jl/issues/2) 💬 53 | [JuliaMolSim/Molly.jl](https://github.com/JuliaMolSim/Molly.jl) | 500 | 🟢 beginner | 2026-10-27 |  |
 | [\[Feature Request\] Determinant Function](https://github.com/JuliaGPU/CUDA.jl/issues/110) 💬 10 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
 | [lmul!(::LinearAlgebra.Givens, ::CuArray) mapping to cublasXrot?](https://github.com/JuliaGPU/CUDA.jl/issues/115) 💬 1 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
 | [Support for matrix exp](https://github.com/JuliaGPU/CUDA.jl/issues/168) 💬 1 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
@@ -41,11 +42,11 @@
 | [Accept static sizes as keyword arguments](https://github.com/JuliaGPU/KernelAbstractions.jl/issues/570) 💬 2 | [JuliaGPU/KernelAbstractions.jl](https://github.com/JuliaGPU/KernelAbstractions.jl) | 533 | 🟢 beginner | 2026-10-19 |  |
 | ['KA.copyto!' between gpu arrays not tested.](https://github.com/JuliaGPU/KernelAbstractions.jl/issues/474) | [JuliaGPU/KernelAbstractions.jl](https://github.com/JuliaGPU/KernelAbstractions.jl) | 533 | 🟢 beginner | 2026-10-19 |  |
 | [Implement 'KernelAbstractions.get_backend(::Memory{Float64})'](https://github.com/JuliaGPU/KernelAbstractions.jl/issues/691) 💬 2 | [JuliaGPU/KernelAbstractions.jl](https://github.com/JuliaGPU/KernelAbstractions.jl) | 533 | 🟢 beginner | 2026-10-19 |  |
+| [Support authentication when downloading files (e.g. artifacts)](https://github.com/JuliaLang/Pkg.jl/issues/4247) 💬 4 | [JuliaLang/Pkg.jl](https://github.com/JuliaLang/Pkg.jl) | 677 | 🟡 help wanted | 2026-10-07 |  |
 | [Core.bitcast to LLVMPtr from Float64 generates invalid inttoptr, aborts compilation](https://github.com/JuliaLang/julia/issues/63218) 💬 4 | [JuliaLang/julia](https://github.com/JuliaLang/julia) | 49.2k | 🟢 beginner | 2026-10-06 | 🤖 disclose AI use · [📘 guide](https://github.com/JuliaLang/julia/blob/HEAD/CONTRIBUTING.md) |
 | [Conjugate heat transfer, requires implementation of new temperature scalar transport equation](https://github.com/WaterLily-jl/WaterLily.jl/issues/172) 💬 15 | [WaterLily-jl/WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl) | 853 | 🟡 help wanted | 2026-09-27 |  |
 | [Missing Rmath derivatives](https://github.com/EnzymeAD/Enzyme.jl/issues/1620) 💬 2 | [EnzymeAD/Enzyme.jl](https://github.com/EnzymeAD/Enzyme.jl) | 591 | 🟡 help wanted | 2026-09-14 | [📘 guide](https://github.com/EnzymeAD/Enzyme.jl/blob/HEAD/CONTRIBUTING.md) |
 | [Can't turn off range and indexing parentheses](https://github.com/JuliaEditorSupport/JuliaFormatter.jl/issues/877) 💬 1 | [JuliaEditorSupport/JuliaFormatter.jl](https://github.com/JuliaEditorSupport/JuliaFormatter.jl) | 646 | 🟢 beginner | 2026-09-10 |  |
-| [Roadmap and ideas for Molly.jl development](https://github.com/JuliaMolSim/Molly.jl/issues/2) 💬 52 | [JuliaMolSim/Molly.jl](https://github.com/JuliaMolSim/Molly.jl) | 500 | 🟢 beginner | 2026-09-03 |  |
 | [Utilize DocumenterCodeblocks.jl in all subpackages of the ecosystem](https://github.com/JuliaDynamics/DynamicalSystems.jl/issues/270) | [JuliaDynamics/DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) | 956 | 🟢 beginner | 2026-08-18 | [📘 guide](https://github.com/JuliaDynamics/DynamicalSystems.jl/blob/HEAD/CONTRIBUTING.md) |
 | [Functional equivalents missing for some layers](https://github.com/FluxML/Flux.jl/issues/2013) 💬 4 | [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) | 4.8k | 🟢 beginner | 2026-08-12 | [📘 guide](https://github.com/FluxML/Flux.jl/blob/HEAD/CONTRIBUTING.md) |
 | [Better error message when uuid is not present in Project.toml](https://github.com/JuliaLang/PackageCompiler.jl/issues/1033) 💬 2 | [JuliaLang/PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) | 1.6k | 🟢 beginner | 2026-08-11 |  |
@@ -53,7 +54,7 @@
 | [Reactivate devdocs](https://github.com/JuliaLang/PackageCompiler.jl/issues/842) 💬 2 | [JuliaLang/PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) | 1.6k | 🟡 help wanted | 2026-07-31 |  |
 | [\[FR\] Do basic checks before compilation](https://github.com/JuliaLang/PackageCompiler.jl/issues/735) 💬 1 | [JuliaLang/PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) | 1.6k | 🟢 beginner | 2026-07-31 |  |
 | [Request: Warning for lack of appropriate compiler](https://github.com/JuliaLang/PackageCompiler.jl/issues/714) 💬 2 | [JuliaLang/PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) | 1.6k | 🟢 beginner | 2026-07-31 |  |
-| [Testing apps should ideally upload the app somewhere and then download it on another machine which doesn't hav](https://github.com/JuliaLang/PackageCompiler.jl/issues/322) 💬 5 | [JuliaLang/PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) | 1.6k | 🟡 help wanted | 2026-07-31 |  |
+| [Testing apps should ideally upload the app somewhere and then download it on another machine which doesn't ha…](https://github.com/JuliaLang/PackageCompiler.jl/issues/322) 💬 5 | [JuliaLang/PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) | 1.6k | 🟡 help wanted | 2026-07-31 |  |
 | [More refined handling of (top-level) semicolons](https://github.com/JuliaEditorSupport/JuliaFormatter.jl/issues/1239) 💬 1 | [JuliaEditorSupport/JuliaFormatter.jl](https://github.com/JuliaEditorSupport/JuliaFormatter.jl) | 646 | 🟢 beginner | 2026-07-26 |  |
 | [CI job to push automated fixes to PRs](https://github.com/JuliaDocs/Documenter.jl/issues/2229) 💬 6 | [JuliaDocs/Documenter.jl](https://github.com/JuliaDocs/Documenter.jl) | 924 | 🟢 beginner | 2026-07-23 | 🤖 disclose AI use |
 | [Some Projects that are Available for Future Work](https://github.com/QuantEcon/QuantEcon.jl/issues/83) 💬 16 | [QuantEcon/QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl) | 555 | 🟡 help wanted | 2026-07-15 |  |
