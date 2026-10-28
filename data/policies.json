@@ -359,7 +359,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-21T20:42:05+00:00"
+    "scanned_at": "2026-10-28T22:25:09+00:00"
   },
   "AeneasVerif/aeneas": {
     "ai": "none",
@@ -7688,7 +7688,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-18T19:37:37+00:00"
+    "scanned_at": "2026-10-28T22:25:09+00:00"
   },
   "SuiteCRM/SuiteCRM": {
     "ai": "none",
@@ -18089,7 +18089,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-21T20:59:42+00:00"
+    "scanned_at": "2026-10-28T22:25:09+00:00"
   },
   "falcosecurity/falco": {
     "ai": "none",
@@ -18099,7 +18099,7 @@
     "files": [
       ".github/PULL_REQUEST_TEMPLATE.md"
     ],
-    "scanned_at": "2026-10-21T20:59:42+00:00"
+    "scanned_at": "2026-10-28T22:25:09+00:00"
   },
   "farion1231/cc-switch": {
     "ai": "restricted",
@@ -18110,7 +18110,7 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-21T20:59:42+00:00"
+    "scanned_at": "2026-10-28T22:25:09+00:00"
   },
   "farm-fe/farm": {
     "ai": "none",
@@ -23342,7 +23342,7 @@
     "files": [
       ".github/pull_request_template.md"
     ],
-    "scanned_at": "2026-10-21T21:06:15+00:00"
+    "scanned_at": "2026-10-28T22:25:09+00:00"
   },
   "juanfont/headscale": {
     "ai": "restricted",
@@ -25741,7 +25741,7 @@
       ".github/CONTRIBUTING.md",
       ".github/PULL_REQUEST_TEMPLATE.md"
     ],
-    "scanned_at": "2026-10-21T21:08:45+00:00"
+    "scanned_at": "2026-10-28T22:25:12+00:00"
   },
   "maester365/maester": {
     "ai": "none",
@@ -25761,7 +25761,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-10-21T21:08:45+00:00"
+    "scanned_at": "2026-10-28T22:25:12+00:00"
   },
   "magento/magento2": {
     "ai": "none",
@@ -26430,6 +26430,62 @@
       "CONTRIBUTING.md"
     ],
     "scanned_at": "2026-10-27T21:49:49+00:00"
+  },
+  "meta/flow": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": true,
+    "dco": false,
+    "files": [
+      ".github/pull_request_template.md",
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-10-28T22:25:12+00:00"
+  },
+  "meta/fresco": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": true,
+    "dco": false,
+    "files": [
+      ".github/PULL_REQUEST_TEMPLATE.md",
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-10-28T22:25:12+00:00"
+  },
+  "meta/pyrefly": {
+    "ai": "policy",
+    "ai_file": "CONTRIBUTING.md",
+    "cla": true,
+    "dco": false,
+    "files": [
+      ".github/pull_request_template.md",
+      "AGENTS.md",
+      "AI_POLICY.md",
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-10-28T22:25:12+00:00"
+  },
+  "meta/relay": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": true,
+    "dco": false,
+    "files": [
+      ".github/CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-10-28T22:25:12+00:00"
+  },
+  "meta/zstd": {
+    "ai": "disclose",
+    "ai_file": "CONTRIBUTING.md",
+    "cla": true,
+    "dco": false,
+    "files": [
+      ".github/PULL_REQUEST_TEMPLATE.md",
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-10-28T22:25:13+00:00"
   },
   "metabase/metabase": {
     "ai": "none",
