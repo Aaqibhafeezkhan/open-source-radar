@@ -59,6 +59,7 @@ window_days = 90
 "C++" = "cpp"
 "C" = "c"
 "PHP" = "php"
+"PowerShell" = "powershell"
 "Ruby" = "ruby"
 "Swift" = "swift"
 "Dart" = "dart"
