@@ -2,7 +2,7 @@
 
 **178** open issues (80 labeled for beginners) across **65** active JavaScript projects.
 
-[RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/javascript.xml)
+[JavaScript quickstart](../../languages/javascript.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/javascript.xml)
 
 > Updated automatically on **2026-10-31 21:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >

@@ -2,7 +2,7 @@
 
 **178** open issues (68 labeled for beginners) across **71** active Kotlin projects.
 
-[RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/kotlin.xml)
+[Kotlin quickstart](../../languages/kotlin.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/kotlin.xml)
 
 > Updated automatically on **2026-10-31 21:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >

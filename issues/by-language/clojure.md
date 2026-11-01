@@ -2,7 +2,7 @@
 
 **17** open issues (14 labeled for beginners) across **10** active Clojure projects.
 
-[RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/clojure.xml)
+[Clojure quickstart](../../languages/clojure.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/clojure.xml)
 
 > Updated automatically on **2026-10-31 21:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >

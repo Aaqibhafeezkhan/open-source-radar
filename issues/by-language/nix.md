@@ -2,7 +2,7 @@
 
 **12** open issues (5 labeled for beginners) across **9** active Nix projects.
 
-[RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/nix.xml)
+[Nix quickstart](../../languages/nix.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/nix.xml)
 
 > Updated automatically on **2026-10-31 21:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >

@@ -2,7 +2,7 @@
 
 **14** open issues (12 labeled for beginners) across **4** active CSS projects.
 
-[RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/css.xml)
+[CSS quickstart](../../languages/html-css.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/css.xml)
 
 > Updated automatically on **2026-10-31 21:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
