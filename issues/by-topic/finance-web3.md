@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**29** open issues (17 labeled for beginners) across **9** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `cryptocurrenc`.
+**30** open issues (17 labeled for beginners) across **10** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `cryptocurrenc`.
 
-> Updated automatically on **2026-11-01 22:04 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-02 14:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -31,6 +31,7 @@
 | [\[Bug\]: Unable to type in fields when editing reports on mobile browsers](https://github.com/actualbudget/actual/issues/4285) 💬 3 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.9k | 🟡 help wanted | 2026-07-21 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: App not loading on mobile / Safari iOS](https://github.com/actualbudget/actual/issues/3575) 💬 5 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.9k | 🟡 help wanted | 2026-07-21 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Actual only supports RS256](https://github.com/actualbudget/actual/issues/6524) 💬 1 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.9k | 🟡 help wanted | 2026-07-21 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
+| [feat(StdStorage): support writing to packed storage slots](https://github.com/foundry-rs/forge-std/issues/32) 💬 1 | [foundry-rs/forge-std](https://github.com/foundry-rs/forge-std) | 1.1k | 🟡 help wanted | 2026-07-11 | [📘 guide](https://github.com/foundry-rs/forge-std/blob/HEAD/CONTRIBUTING.md) |
 | [Provide better message for transactionAPI](https://github.com/saleor/saleor/issues/13951) 💬 5 | [saleor/saleor](https://github.com/saleor/saleor) | 23.5k | 🟢 beginner | 2026-07-01 | [📘 guide](https://github.com/saleor/saleor/blob/HEAD/CONTRIBUTING.md) |
 | [parseLedgerHashes accepts negative int then throws on asUInt conversion](https://github.com/XRPLF/rippled/issues/6768) 💬 1 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-06-26 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |
 | [Notify user, when response of Hub Authentication takes a long time](https://github.com/cryptomator/cryptomator/issues/3162) 💬 3 | [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) | 16.4k | 🟢 beginner | 2026-06-24 | [📘 guide](https://github.com/cryptomator/cryptomator/blob/HEAD/.github/CONTRIBUTING.md) |
