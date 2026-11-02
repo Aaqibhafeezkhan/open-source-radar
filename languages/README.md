@@ -21,6 +21,7 @@ Short, practical notes on how projects in each language are usually built, teste
 | [C++](cpp.md) | CMake + a compiler | [issues](../issues/by-language/cpp.md) |
 | [C](c.md) | Make/CMake/Meson + a compiler | [issues](../issues/by-language/c.md) |
 | [PHP](php.md) | PHP + Composer | [issues](../issues/by-language/php.md) |
+| [PowerShell](powershell.md) | PowerShell 7 + Pester | [issues](../issues/by-language/powershell.md) |
 | [Lua](lua.md) | Lua + LuaRocks | [issues](../issues/by-language/lua.md) |
 | [Perl](perl.md) | Perl + cpanm / Carton | [issues](../issues/by-language/perl.md) |
 | [Solidity](solidity.md) | Foundry / Hardhat | [issues](../issues/by-language/solidity.md) |
