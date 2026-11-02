@@ -43,4 +43,4 @@ Open PowerShell issues: [PowerShell issue list](../issues/by-language/powershell
 
 Useful references: [PowerShell documentation](https://learn.microsoft.com/powershell/), [Pester](https://pester.dev/), and [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer).
 
-Back to [all language quickstarts](README.md) · [Guide](../guide/README.md)
+Back to [all languages](README.md) · [Guide](../guide/README.md)
