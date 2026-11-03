@@ -4,7 +4,7 @@
 
 [Nix quickstart](../../languages/nix.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/nix.xml)
 
-> Updated automatically on **2026-11-03 00:47 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-03 13:46 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
