@@ -1,10 +1,10 @@
 # PowerShell issues
 
-**12** open issues (6 labeled for beginners) across **7** active PowerShell projects.
+**22** open issues (16 labeled for beginners) across **7** active PowerShell projects.
 
 [PowerShell quickstart](../../languages/powershell.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/powershell.xml)
 
-> Updated automatically on **2026-11-03 13:46 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-04 13:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,17 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Scuba Apps: Support Dynamic Parameters - Part 11](https://github.com/cisagov/ScubaGear/issues/2539) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
+| [Shared Support Functions: Support Dynamic Parameters - Part 10](https://github.com/cisagov/ScubaGear/issues/2538) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
+| [ScubaPermissions helper: Support Dynamic Parameters - Part 9](https://github.com/cisagov/ScubaGear/issues/2537) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
+| [Power Platform Provider: Support Dynamic Parameters - Part 8](https://github.com/cisagov/ScubaGear/issues/2536) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
+| [Power BI Provider: Support Dynamic Parameters - Part 7](https://github.com/cisagov/ScubaGear/issues/2535) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
+| [Security Suite Provider: Support Dynamic Parameters - Part 6](https://github.com/cisagov/ScubaGear/issues/2534) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
+| [Microsoft Teams Provider: Support Dynamic Parameters - Part 5](https://github.com/cisagov/ScubaGear/issues/2533) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
+| [SharePoint Online Provider: Support Dynamic Parameters - Part 4](https://github.com/cisagov/ScubaGear/issues/2532) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
+| [Exchange Online Provider: Support Dynamic Parameters - Part 3](https://github.com/cisagov/ScubaGear/issues/2531) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
+| [AAD Provider: Support Dynamic Parameters - Part 2](https://github.com/cisagov/ScubaGear/issues/2530) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
+| [\[Feature\] - "Add Prevent automatic download of applications associated with device metadata" to Windows User…](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline/issues/233) 💬 3 | [SkipToTheEndpoint/OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline) | 1.6k | 🟡 help wanted | 2026-11-03 |  |
 | [Request: DNS Plugin for Network Solutions](https://github.com/rmbolger/Posh-ACME/issues/710) 💬 1 | [rmbolger/Posh-ACME](https://github.com/rmbolger/Posh-ACME) | 936 | 🟡 help wanted | 2026-11-03 | [📘 guide](https://github.com/rmbolger/Posh-ACME/blob/HEAD/CONTRIBUTING.md) |
 | [Proposal: Create a new Defender policy to disable PowerShell access to inboxes from non-administrative users](https://github.com/cisagov/ScubaGear/issues/1418) 💬 2 | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-10-28 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
 | [breitbandmessung@3.13.0: download failed](https://github.com/ScoopInstaller/Extras/issues/19170) 💬 1 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-10-28 |  |
@@ -19,7 +30,6 @@
 | [\[Feature\] - Missing auditRuleInformation causes mismatch with monitoring tools](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline/issues/236) 💬 2 | [SkipToTheEndpoint/OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline) | 1.6k | 🟡 help wanted | 2026-10-07 |  |
 | [ScubaGear progress bar shows incorrect product count](https://github.com/cisagov/ScubaGear/issues/1893) 💬 2 | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
 | [Investigate Rego policy evaluation via WASM](https://github.com/cisagov/ScubaGear/issues/891) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-09-08 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
-| [\[Feature\] - "Add Prevent automatic download of applications associated with device metadata" to Windows User…](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline/issues/233) 💬 2 | [SkipToTheEndpoint/OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline) | 1.6k | 🟡 help wanted | 2026-08-30 |  |
 | [Add 'MEP_MachineVariables' CRED technique](https://github.com/subat0mik/Misconfiguration-Manager/issues/25) 💬 1 | [subat0mik/Misconfiguration-Manager](https://github.com/subat0mik/Misconfiguration-Manager) | 1.2k | 🟢 beginner | 2026-08-28 | [📘 guide](https://github.com/subat0mik/Misconfiguration-Manager/blob/HEAD/CONTRIBUTING.md) |
 | [\[Work Item\] Check TLS settings against any computer](https://github.com/microsoft/CSS-Exchange/issues/1738) 💬 1 | [microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange) | 1.3k | 🟢 beginner | 2026-08-07 | [📘 guide](https://github.com/microsoft/CSS-Exchange/blob/HEAD/CONTRIBUTING.md) |
 | [Mocks don't return useful information when failing parameter filter tests](https://github.com/pester/Pester/issues/1160) 💬 8 | [pester/Pester](https://github.com/pester/Pester) | 3.4k | 🟡 help wanted | 2026-07-15 | [📘 guide](https://github.com/pester/Pester/blob/HEAD/CONTRIBUTING.md) |
