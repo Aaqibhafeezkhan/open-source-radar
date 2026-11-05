@@ -1,10 +1,10 @@
 # PowerShell issues
 
-**22** open issues (16 labeled for beginners) across **7** active PowerShell projects.
+**23** open issues (16 labeled for beginners) across **7** active PowerShell projects.
 
 [PowerShell quickstart](../../languages/powershell.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/powershell.xml)
 
-> Updated automatically on **2026-11-04 23:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-05 14:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [xnview@2.52.5: download failed](https://github.com/ScoopInstaller/Extras/issues/19248) 💬 1 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-11-05 |  |
 | [Scuba Apps: Support Dynamic Parameters - Part 11](https://github.com/cisagov/ScubaGear/issues/2539) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
 | [Shared Support Functions: Support Dynamic Parameters - Part 10](https://github.com/cisagov/ScubaGear/issues/2538) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
 | [ScubaPermissions helper: Support Dynamic Parameters - Part 9](https://github.com/cisagov/ScubaGear/issues/2537) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |

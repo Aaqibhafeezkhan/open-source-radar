@@ -1,10 +1,10 @@
 # Scala issues
 
-**28** open issues (15 labeled for beginners) across **16** active Scala projects.
+**29** open issues (16 labeled for beginners) across **16** active Scala projects.
 
 [Scala quickstart](../../languages/scala.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/scala.xml)
 
-> Updated automatically on **2026-11-04 23:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-05 14:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [:memo: Fix/Add config section of deployment on kubernetes](https://github.com/apache/kyuubi/issues/5085) 💬 3 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-11-05 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/kyuubi/blob/HEAD/CONTRIBUTING.md) |
 | [chore: Improve cast MapType to String](https://github.com/apache/datafusion-comet/issues/4631) 💬 5 | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-11-01 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [Deduplicate field-major struct append paths in shuffle spark_unsafe/row.rs](https://github.com/apache/datafusion-comet/issues/6977) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟡 help wanted | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
 | [Deduplicate Legacy/Ansi/Try integer SUM accumulators in sum_int.rs](https://github.com/apache/datafusion-comet/issues/6976) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟡 help wanted | 2026-10-18 | ✍️ CLA · [📘 guide](https://github.com/apache/datafusion-comet/blob/HEAD/CONTRIBUTING.md) |
