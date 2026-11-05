@@ -1,10 +1,10 @@
 # Shell issues
 
-**101** open issues (39 labeled for beginners) across **50** active Shell projects.
+**102** open issues (40 labeled for beginners) across **50** active Shell projects.
 
 [Shell quickstart](../../languages/shell.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/shell.xml)
 
-> Updated automatically on **2026-11-05 14:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-05 23:29 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [App Request: Chunker by HiveGamesOSS](https://github.com/wimpysworld/deb-get/issues/2092) | [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) | 1.8k | 🟢 beginner | 2026-11-05 | [📘 guide](https://github.com/wimpysworld/deb-get/blob/HEAD/CONTRIBUTING.md) |
 | [Can you please do for GetX](https://github.com/evanca/flutter-ai-rules/issues/2) 💬 1 | [evanca/flutter-ai-rules](https://github.com/evanca/flutter-ai-rules) | 669 | 🟢 beginner | 2026-11-05 |  |
 | [Add "ignore failed upgrades" option for at least Modrinth](https://github.com/itzg/docker-minecraft-server/issues/3922) 💬 3 | [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) | 14.5k | 🟡 help wanted | 2026-11-04 |  |
 | [App Request: PattN](https://github.com/wimpysworld/deb-get/issues/2090) | [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) | 1.8k | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/wimpysworld/deb-get/blob/HEAD/CONTRIBUTING.md) |
@@ -20,12 +21,12 @@
 | [Windows MSI: VSCodium not starting after update (manual re-install or repair necessary)](https://github.com/VSCodium/vscodium/issues/2274) 💬 42 | [VSCodium/vscodium](https://github.com/VSCodium/vscodium) | 34k | 🟡 help wanted | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/VSCodium/vscodium/blob/HEAD/CONTRIBUTING.md) |
 | [No stats export with itzg/mc-monitor](https://github.com/itzg/docker-minecraft-bedrock-server/issues/701) 💬 6 | [itzg/docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) | 1.9k | 🟡 help wanted | 2026-11-03 |  |
 | [App Request: GridCoin](https://github.com/wimpysworld/deb-get/issues/2084) | [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) | 1.8k | 🟢 beginner | 2026-11-03 | [📘 guide](https://github.com/wimpysworld/deb-get/blob/HEAD/CONTRIBUTING.md) |
-| [License Activation Timeout](https://github.com/shibco/ableton-linux/issues/364) 💬 2 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 838 | 🟡 help wanted | 2026-11-03 |  |
+| [License Activation Timeout](https://github.com/shibco/ableton-linux/issues/364) 💬 2 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 843 | 🟡 help wanted | 2026-11-03 |  |
 | [\[Cinnamon 6.6.7\] Missing icons](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues/4239) 💬 2 | [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) | 8.2k | 🟡 help wanted | 2026-11-02 |  |
 | [Auto-continue block comments (draw aligned stars)](https://github.com/clangd/clangd/issues/174) 💬 20 | [clangd/clangd](https://github.com/clangd/clangd) | 2.3k | 🟡 help wanted | 2026-11-02 |  |
 | [Missing icon: PhotoCraft](https://github.com/SylEleuth/gruvbox-plus-icon-pack/issues/564) 💬 1 | [SylEleuth/gruvbox-plus-icon-pack](https://github.com/SylEleuth/gruvbox-plus-icon-pack) | 825 | 🟡 help wanted | 2026-11-02 |  |
-| [Dragging video into Ableton imports as audio](https://github.com/shibco/ableton-linux/issues/363) 💬 2 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 838 | 🟡 help wanted | 2026-11-01 |  |
-| [&gt; PipeWire is unavailable; start the desktop audio service and try again.](https://github.com/shibco/ableton-linux/issues/355) 💬 14 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 838 | 🟡 help wanted | 2026-11-01 |  |
+| [Dragging video into Ableton imports as audio](https://github.com/shibco/ableton-linux/issues/363) 💬 2 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 843 | 🟡 help wanted | 2026-11-01 |  |
+| [&gt; PipeWire is unavailable; start the desktop audio service and try again.](https://github.com/shibco/ableton-linux/issues/355) 💬 14 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 843 | 🟡 help wanted | 2026-11-01 |  |
 | [\[Task\]: Orange Pi 4A (T527/A523) Sony IMX219 MIPI CSI-2 / CSI capture support](https://github.com/armbian/build/issues/10905) 💬 3 | [armbian/build](https://github.com/armbian/build) | 5.5k | 🟢 beginner | 2026-10-31 | [📘 guide](https://github.com/armbian/build/blob/HEAD/CONTRIBUTING.md) |
 | [Create initial SDK swift library](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker/issues/210) 💬 4 | [Visual-Regression-Tracker/Visual-Regression-Tracker](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) | 725 | 🟡 help wanted | 2026-10-31 |  |
 | [\[FEATURE\] CLI support preflight check for Talos Linux](https://github.com/longhorn/longhorn/issues/9950) 💬 3 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8.1k | 🟢 beginner | 2026-10-30 | 🔏 DCO · [📘 guide](https://github.com/longhorn/longhorn/blob/HEAD/CONTRIBUTING.md) |
@@ -35,11 +36,11 @@
 | [Spreadsheets: Insert row below](https://github.com/Euro-Office/DocumentServer/issues/225) 💬 4 | [Euro-Office/DocumentServer](https://github.com/Euro-Office/DocumentServer) | 1.9k | 🟢 beginner | 2026-10-26 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/Euro-Office/DocumentServer/blob/HEAD/CONTRIBUTING.md) |
 | [Build for 'dm1q' Samsung Galaxy S23 has never worked](https://github.com/lineageos4microg/docker-lineage-cicd/issues/947) 💬 2 | [lineageos4microg/docker-lineage-cicd](https://github.com/lineageos4microg/docker-lineage-cicd) | 556 | 🟡 help wanted | 2026-10-26 |  |
 | [Renegade X Using HTTPS](https://github.com/uklans/cache-domains/issues/232) 💬 12 | [uklans/cache-domains](https://github.com/uklans/cache-domains) | 700 | 🟡 help wanted | 2026-10-25 |  |
-| [PCIe Gen 3/4 support](https://github.com/amoghmunikote/cmpunlocker/issues/9) 💬 20 | [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) | 830 | 🟡 help wanted | 2026-10-24 | [📘 guide](https://github.com/amoghmunikote/cmpunlocker/blob/HEAD/docs/CONTRIBUTING.md) |
+| [PCIe Gen 3/4 support](https://github.com/amoghmunikote/cmpunlocker/issues/9) 💬 20 | [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) | 832 | 🟡 help wanted | 2026-10-24 | [📘 guide](https://github.com/amoghmunikote/cmpunlocker/blob/HEAD/docs/CONTRIBUTING.md) |
 | [\[Swift\] Initial support](https://github.com/sublimehq/Packages/issues/3918) 💬 8 | [sublimehq/Packages](https://github.com/sublimehq/Packages) | 3k | 🟡 help wanted | 2026-10-23 |  |
 | [Request: Option to set environment variables per installed app](https://github.com/ivan-hc/AM/issues/2832) 💬 11 | [ivan-hc/AM](https://github.com/ivan-hc/AM) | 1.5k | 🟡 help wanted | 2026-10-22 | [📘 guide](https://github.com/ivan-hc/AM/blob/HEAD/CONTRIBUTING.md) |
-| [Ableton Live 11.2.6 Suite does not launch](https://github.com/shibco/ableton-linux/issues/353) 💬 9 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 838 | 🟡 help wanted | 2026-10-22 |  |
-| [32bit plugins via jBridge dont work](https://github.com/shibco/ableton-linux/issues/343) | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 838 | 🟡 help wanted | 2026-10-17 |  |
+| [Ableton Live 11.2.6 Suite does not launch](https://github.com/shibco/ableton-linux/issues/353) 💬 9 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 843 | 🟡 help wanted | 2026-10-22 |  |
+| [32bit plugins via jBridge dont work](https://github.com/shibco/ableton-linux/issues/343) | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 843 | 🟡 help wanted | 2026-10-17 |  |
 | [\[FEATURE\] Expose metrics of data plane's underlying components including share manager/nfs ganesha and spdk d…](https://github.com/longhorn/longhorn/issues/12046) | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8.1k | 🟡 help wanted | 2026-10-14 | 🔏 DCO · [📘 guide](https://github.com/longhorn/longhorn/blob/HEAD/CONTRIBUTING.md) |
 | [App Request: FileApex](https://github.com/wimpysworld/deb-get/issues/2047) | [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) | 1.8k | 🟢 beginner | 2026-10-14 | [📘 guide](https://github.com/wimpysworld/deb-get/blob/HEAD/CONTRIBUTING.md) |
 | [Add to individual password manager FIDO2 allowlists for better passkey support](https://github.com/jqssun/android-titanium-browser/issues/24) 💬 7 | [jqssun/android-titanium-browser](https://github.com/jqssun/android-titanium-browser) | 3.1k | 🟡 help wanted | 2026-10-08 |  |
@@ -47,7 +48,7 @@
 | [add documentation to build lunatik on-tree using make menuconfig](https://github.com/luainkernel/lunatik/issues/413) | [luainkernel/lunatik](https://github.com/luainkernel/lunatik) | 611 | 🟢 beginner | 2026-10-07 |  |
 | [add a maintainers/contributors section on README.md](https://github.com/luainkernel/lunatik/issues/409) | [luainkernel/lunatik](https://github.com/luainkernel/lunatik) | 611 | 🟢 beginner | 2026-10-07 |  |
 | [\[BUG\] Backup engine SIGSEGV on aarch64 with 16K page size kernel (Fedora Asahi Remix / Apple Silicon) — v1.11…](https://github.com/longhorn/longhorn/issues/12929) 💬 3 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8.1k | 🟡 help wanted | 2026-10-04 | 🔏 DCO · [📘 guide](https://github.com/longhorn/longhorn/blob/HEAD/CONTRIBUTING.md) |
-| [NVLink](https://github.com/amoghmunikote/cmpunlocker/issues/13) 💬 8 | [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) | 830 | 🟡 help wanted | 2026-10-04 | [📘 guide](https://github.com/amoghmunikote/cmpunlocker/blob/HEAD/docs/CONTRIBUTING.md) |
+| [NVLink](https://github.com/amoghmunikote/cmpunlocker/issues/13) 💬 8 | [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) | 832 | 🟡 help wanted | 2026-10-04 | [📘 guide](https://github.com/amoghmunikote/cmpunlocker/blob/HEAD/docs/CONTRIBUTING.md) |
 | [CAPTCHA Issues (Mismatched Desktop UA)](https://github.com/jqssun/android-titanium-browser/issues/50) 💬 12 | [jqssun/android-titanium-browser](https://github.com/jqssun/android-titanium-browser) | 3.1k | 🟡 help wanted | 2026-09-30 |  |
 | [\[FEATURE\] Node Affinity support for longhorn component deployment](https://github.com/longhorn/longhorn/issues/6035) 💬 2 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8.1k | 🟢 beginner | 2026-09-28 | 🔏 DCO · [📘 guide](https://github.com/longhorn/longhorn/blob/HEAD/CONTRIBUTING.md) |
 | [\[BUG\] v2 volumes get stuck in unknown loading state if all nodes are labeled with 'disable-v2-data-engine=tru…](https://github.com/longhorn/longhorn/issues/11831) 💬 9 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8.1k | 🟢 beginner | 2026-09-28 | 🔏 DCO · [📘 guide](https://github.com/longhorn/longhorn/blob/HEAD/CONTRIBUTING.md) |

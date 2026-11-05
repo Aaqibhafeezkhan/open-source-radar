@@ -1,10 +1,10 @@
 # C# issues
 
-**259** open issues (78 labeled for beginners) across **83** active C# projects.
+**258** open issues (78 labeled for beginners) across **82** active C# projects.
 
 [C# quickstart](../../languages/csharp.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/csharp.xml)
 
-> Updated automatically on **2026-11-05 14:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-05 23:29 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -47,6 +47,7 @@
 | [Possibly too aggressive cleaning](https://github.com/builtbybel/FluentCleaner/issues/51) 💬 11 | [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner) | 6.7k | 🟡 help wanted | 2026-10-30 |  |
 | [\[Enhancement\] Label Autofit Font](https://github.com/dotnet/maui/issues/10884) 💬 5 | [dotnet/maui](https://github.com/dotnet/maui) | 23.3k | 🟢 beginner | 2026-10-29 | ✍️ CLA · [📘 guide](https://github.com/dotnet/maui/blob/HEAD/.github/CONTRIBUTING.md) |
 | [With nothing focused, key events are raised above Window.Content, so KeyDown handlers on Window.Content stop…](https://github.com/unoplatform/uno/issues/25004) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/unoplatform/uno/blob/HEAD/CONTRIBUTING.md) |
+| [WASM (Skia): wheel events are always preventDefault'ed, so an embedded Uno app traps the host page's scrolling](https://github.com/unoplatform/uno/issues/25007) 💬 1 | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/unoplatform/uno/blob/HEAD/CONTRIBUTING.md) |
 | [Auto-evo exploring tool should list happened patch events for future reference](https://github.com/Revolutionary-Games/Thrive/issues/5667) 💬 6 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.8k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
 | [Add "Keyboard.None"](https://github.com/dotnet/maui/issues/10331) 💬 6 | [dotnet/maui](https://github.com/dotnet/maui) | 23.3k | 🟡 help wanted | 2026-10-28 | ✍️ CLA · [📘 guide](https://github.com/dotnet/maui/blob/HEAD/.github/CONTRIBUTING.md) |
 | [FlyoutPage.IsPresented behaves different to Xamarin 5](https://github.com/dotnet/maui/issues/10101) 💬 2 | [dotnet/maui](https://github.com/dotnet/maui) | 23.3k | 🟡 help wanted | 2026-10-28 | ✍️ CLA · [📘 guide](https://github.com/dotnet/maui/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -56,8 +57,6 @@
 | [Implement "desktop dialogs" e.g.: FileOpenDialog, FolderBrowserDialog, PrintDialog, etc.](https://github.com/dotnet/maui/issues/4795) 💬 2 | [dotnet/maui](https://github.com/dotnet/maui) | 23.3k | 🟢 beginner | 2026-10-28 | ✍️ CLA · [📘 guide](https://github.com/dotnet/maui/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Enhancement\] Allow text selection and copy in Entry and Editor controls](https://github.com/dotnet/maui/issues/605) 💬 7 | [dotnet/maui](https://github.com/dotnet/maui) | 23.3k | 🟢 beginner | 2026-10-28 | ✍️ CLA · [📘 guide](https://github.com/dotnet/maui/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Implement TD Sequential Candlestick Indicator](https://github.com/QuantConnect/Lean/issues/6620) 💬 3 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 22.4k | 🟢 beginner | 2026-10-28 | [📘 guide](https://github.com/QuantConnect/Lean/blob/HEAD/CONTRIBUTING.md) |
-| [Add support for linux-musl-arm64](https://github.com/dlemstra/Magick.NET/issues/1688) 💬 7 | [dlemstra/Magick.NET](https://github.com/dlemstra/Magick.NET) | 4k | 🟡 help wanted | 2026-10-27 | [📘 guide](https://github.com/dlemstra/Magick.NET/blob/HEAD/.github/CONTRIBUTING.md) |
-| [More granular JSExceptions for JSInterop](https://github.com/dotnet/aspnetcore/issues/53620) 💬 12 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38.5k | 🟢 beginner | 2026-10-26 | ✍️ CLA · [📘 guide](https://github.com/dotnet/aspnetcore/blob/HEAD/CONTRIBUTING.md) |
 | [The editor config should allow specifying whether a warning is included in code cleanup](https://github.com/dotnet/roslyn/issues/73321) 💬 3 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.8k | 🟡 help wanted | 2026-10-26 | ✍️ CLA · [📘 guide](https://github.com/dotnet/roslyn/blob/HEAD/CONTRIBUTING.md) |
 | [MudTimePicker Menu closes prematurely. Doesn't allow for user to Select PM or AM after selecting time.](https://github.com/MudBlazor/MudBlazor/issues/13128) 💬 4 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.7k | 🟡 help wanted | 2026-10-26 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\] Extend Database Migrations to NoSQL stores](https://github.com/BrighterCommand/Brighter/issues/4156) 💬 1 | [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) | 2.5k | 🟡 help wanted | 2026-10-26 | ✍️ CLA · [📘 guide](https://github.com/BrighterCommand/Brighter/blob/HEAD/CONTRIBUTING.md) |
@@ -212,5 +211,6 @@
 | [Animated image frame speed control](https://github.com/Ruben2776/PicView/issues/222) 💬 1 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.7k | 🟡 help wanted | 2026-08-06 | [📘 guide](https://github.com/Ruben2776/PicView/blob/HEAD/CONTRIBUTING.md) |
 | [Need HDR support](https://github.com/Ruben2776/PicView/issues/310) 💬 4 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.7k | 🟡 help wanted | 2026-08-06 | [📘 guide](https://github.com/Ruben2776/PicView/blob/HEAD/CONTRIBUTING.md) |
 | [Image Position And Pixel Info](https://github.com/Ruben2776/PicView/issues/151) 💬 1 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.7k | 🟡 help wanted | 2026-08-06 | [📘 guide](https://github.com/Ruben2776/PicView/blob/HEAD/CONTRIBUTING.md) |
+| [Add support for cropping function to work when zoomed in](https://github.com/Ruben2776/PicView/issues/44) 💬 1 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.7k | 🟡 help wanted | 2026-08-06 | [📘 guide](https://github.com/Ruben2776/PicView/blob/HEAD/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 259 on the website.
+Showing the 200 most recently updated. See all 258 on the website.

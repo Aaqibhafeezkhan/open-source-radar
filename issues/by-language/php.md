@@ -1,10 +1,10 @@
 # PHP issues
 
-**137** open issues (62 labeled for beginners) across **51** active PHP projects.
+**140** open issues (66 labeled for beginners) across **51** active PHP projects.
 
 [PHP quickstart](../../languages/php.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/php.xml)
 
-> Updated automatically on **2026-11-05 14:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-05 23:29 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,13 +12,17 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Replace remaining native confirm() dialogs with bootbox.confirm](https://github.com/ChurchCRM/CRM/issues/1108) 💬 4 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 986 | 🟢 beginner | 2026-11-05 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
-| [Inconsistent Output Format when performing CSV Export by Families](https://github.com/ChurchCRM/CRM/issues/1375) 💬 17 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 986 | 🟢 beginner | 2026-11-05 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
-| [Copy "Birthdays by month" to member dashboard](https://github.com/ChurchCRM/CRM/issues/819) 💬 4 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 986 | 🟢 beginner | 2026-11-05 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
-| [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
-| [Add all attendees to cart from the event view](https://github.com/ChurchCRM/CRM/issues/11157) | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 986 | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
-| [Family verify email: link to the member portal instead of a PDF](https://github.com/ChurchCRM/CRM/issues/11145) 💬 1 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 986 | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
-| [docs: Update event attendance / Did Not Attend documentation for new email, export, and permission changes](https://github.com/ChurchCRM/CRM/issues/9524) | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 986 | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
+| [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-11-05 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
+| [Create New Admin account on successful installation.](https://github.com/ChurchCRM/CRM/issues/5327) 💬 5 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 987 | 🟢 beginner | 2026-11-05 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
+| [Deposit Chart Dashboard Split Funds](https://github.com/ChurchCRM/CRM/issues/3688) 💬 4 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 987 | 🟢 beginner | 2026-11-05 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
+| [Use Cart to Set Properties](https://github.com/ChurchCRM/CRM/issues/4355) 💬 2 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 987 | 🟢 beginner | 2026-11-05 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
+| [Setup Wizard DB Prompts](https://github.com/ChurchCRM/CRM/issues/2750) 💬 5 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 987 | 🟢 beginner | 2026-11-05 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
+| [Replace remaining native confirm() dialogs with bootbox.confirm](https://github.com/ChurchCRM/CRM/issues/1108) 💬 4 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 987 | 🟢 beginner | 2026-11-05 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
+| [Inconsistent Output Format when performing CSV Export by Families](https://github.com/ChurchCRM/CRM/issues/1375) 💬 17 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 987 | 🟢 beginner | 2026-11-05 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
+| [Copy "Birthdays by month" to member dashboard](https://github.com/ChurchCRM/CRM/issues/819) 💬 4 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 987 | 🟢 beginner | 2026-11-05 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
+| [Add all attendees to cart from the event view](https://github.com/ChurchCRM/CRM/issues/11157) | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 987 | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
+| [Family verify email: link to the member portal instead of a PDF](https://github.com/ChurchCRM/CRM/issues/11145) 💬 1 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 987 | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
+| [docs: Update event attendance / Did Not Attend documentation for new email, export, and permission changes](https://github.com/ChurchCRM/CRM/issues/9524) | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 987 | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Hebrew (he)](https://github.com/symfony/symfony/issues/64499) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-11-03 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Armenian (hy)](https://github.com/symfony/symfony/issues/64481) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-31 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [\[Enhancement\]: Add timeframe parameters into wc_get_customer_total_spent](https://github.com/woocommerce/woocommerce/issues/32342) 💬 5 | [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) | 10.6k | 🟢 beginner | 2026-10-31 | ⚠️ AI restricted · [📘 guide](https://github.com/woocommerce/woocommerce/blob/HEAD/CONTRIBUTING.md) |
@@ -42,7 +46,6 @@
 | [Missing translations for Azerbaijani (az)](https://github.com/symfony/symfony/issues/64482) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Afrikaans (af)](https://github.com/symfony/symfony/issues/64478) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [intersection types and conditional types](https://github.com/vimeo/psalm/issues/6942) 💬 19 | [vimeo/psalm](https://github.com/vimeo/psalm) | 5.9k | 🟡 help wanted | 2026-10-29 | [📘 guide](https://github.com/vimeo/psalm/blob/HEAD/CONTRIBUTING.md) |
-| [Psalter with MissingPureAnnotation makes unnecessary docblock changes](https://github.com/vimeo/psalm/issues/8893) 💬 7 | [vimeo/psalm](https://github.com/vimeo/psalm) | 5.9k | 🟡 help wanted | 2026-10-29 | [📘 guide](https://github.com/vimeo/psalm/blob/HEAD/CONTRIBUTING.md) |
 | [Permissions in Laratrust panel don't acknowledge teams](https://github.com/santigarcor/laratrust/issues/572) 💬 6 | [santigarcor/laratrust](https://github.com/santigarcor/laratrust) | 2.3k | 🟡 help wanted | 2026-10-26 |  |
 | [Missing translations for Tagalog (tl)](https://github.com/symfony/symfony/issues/67434) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Norwegian Bokmål (nb)](https://github.com/symfony/symfony/issues/64507) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
@@ -120,7 +123,7 @@
 | [magnet links get interpreted as relative links](https://github.com/nextcloud/news/issues/3840) 💬 1 | [nextcloud/news](https://github.com/nextcloud/news) | 1k | 🟡 help wanted | 2026-07-16 | 🔏 DCO · [📘 guide](https://github.com/nextcloud/news/blob/HEAD/CONTRIBUTING.md) |
 | [Add info to Report Search tooltip](https://github.com/matomo-org/matomo/issues/19042) 💬 3 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 22k | 🟡 help wanted | 2026-07-11 | [📘 guide](https://github.com/matomo-org/matomo/blob/HEAD/CONTRIBUTING.md) |
 | [When autofilling a search term on info page, the wrong background is selected in the form field](https://github.com/matomo-org/matomo/issues/18857) 💬 1 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 22k | 🟡 help wanted | 2026-07-11 | [📘 guide](https://github.com/matomo-org/matomo/blob/HEAD/CONTRIBUTING.md) |
-| [Неверное склонение городов](https://github.com/wapmorgan/Morphos/issues/142) 💬 4 | [wapmorgan/Morphos](https://github.com/wapmorgan/Morphos) | 831 | 🟡 help wanted | 2026-07-09 | [📘 guide](https://github.com/wapmorgan/Morphos/blob/HEAD/CONTRIBUTING.md) |
+| [Неверное склонение городов](https://github.com/wapmorgan/Morphos/issues/142) 💬 4 | [wapmorgan/Morphos](https://github.com/wapmorgan/Morphos) | 830 | 🟡 help wanted | 2026-07-09 | [📘 guide](https://github.com/wapmorgan/Morphos/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\] more batch "mark as read" tools](https://github.com/FreshRSS/FreshRSS/issues/8658) 💬 3 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.5k | 🟡 help wanted | 2026-07-06 | [📘 guide](https://github.com/FreshRSS/FreshRSS/blob/HEAD/CONTRIBUTING.md) |
 | [Uuid v7 generated in wrong order](https://github.com/ramsey/uuid/issues/536) 💬 29 | [ramsey/uuid](https://github.com/ramsey/uuid) | 12.6k | 🟡 help wanted | 2026-07-06 | [📘 guide](https://github.com/ramsey/uuid/blob/HEAD/CONTRIBUTING.md) |
 | [CodeMirror hint box should be wider](https://github.com/phpmyadmin/phpmyadmin/issues/17409) 💬 9 | [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) | 8k | 🟢 beginner | 2026-07-02 | 🔏 DCO · [📘 guide](https://github.com/phpmyadmin/phpmyadmin/blob/HEAD/CONTRIBUTING.md) |

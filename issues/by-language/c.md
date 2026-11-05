@@ -1,10 +1,10 @@
 # C issues
 
-**142** open issues (28 labeled for beginners) across **59** active C projects.
+**141** open issues (28 labeled for beginners) across **59** active C projects.
 
 [C quickstart](../../languages/c.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/c.xml)
 
-> Updated automatically on **2026-11-05 14:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-05 23:29 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Performance or graphical issues on older GPUs/iGPUs? Please attach your log here](https://github.com/Revivedx/SavageWindRecomp/issues/332) 💬 22 | [Revivedx/SavageWindRecomp](https://github.com/Revivedx/SavageWindRecomp) | 3.2k | 🟡 help wanted | 2026-11-05 | [📘 guide](https://github.com/Revivedx/SavageWindRecomp/blob/HEAD/CONTRIBUTING.md) |
+| [x509: -in http:// URL with connection refused loops forever in BIO_do_connect_retry (100% CPU)](https://github.com/openssl/openssl/issues/33493) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.2k | 🟡 help wanted | 2026-11-05 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
+| [Performance or graphical issues on older GPUs/iGPUs? Please attach your log here](https://github.com/Revivedx/SavageWindRecomp/issues/332) 💬 24 | [Revivedx/SavageWindRecomp](https://github.com/Revivedx/SavageWindRecomp) | 3.2k | 🟡 help wanted | 2026-11-05 | [📘 guide](https://github.com/Revivedx/SavageWindRecomp/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\] PC not waking up from sleep](https://github.com/qmk/qmk_firmware/issues/26429) 💬 16 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-11-04 |  |
 | [Wayland: could Dunst pass activation tokens when invoking notification actions?](https://github.com/dunst-project/dunst/issues/1569) 💬 2 | [dunst-project/dunst](https://github.com/dunst-project/dunst) | 5.6k | 🟡 help wanted | 2026-11-04 | 🤖 disclose AI use · [📘 guide](https://github.com/dunst-project/dunst/blob/HEAD/CONTRIBUTING.md) |
 | [Filesystem time on stat from 'nftw' not faked](https://github.com/wolfcw/libfaketime/issues/476) 💬 5 | [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) | 3.1k | 🟡 help wanted | 2026-11-04 | [📘 guide](https://github.com/wolfcw/libfaketime/blob/HEAD/CONTRIBUTING.md) |
@@ -43,8 +44,6 @@
 | [AES-GCM: consider a 256-bit VAES/VPCLMULQDQ path for AMD EPYC Milan without AVX-512](https://github.com/openssl/openssl/issues/33345) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 31.2k | 🟡 help wanted | 2026-10-24 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature Request\] Full Desktop Zoom](https://github.com/yshui/picom/issues/43) 💬 33 | [yshui/picom](https://github.com/yshui/picom) | 4.8k | 🟡 help wanted | 2026-10-24 |  |
 | [CONF_modules_unload() loses module ownership on allocation failure](https://github.com/openssl/openssl/issues/33307) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 31.2k | 🟡 help wanted | 2026-10-23 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
-| [Failed thread-cleanup registration discards a nested error-state cleanup handler](https://github.com/openssl/openssl/issues/33305) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.2k | 🟡 help wanted | 2026-10-22 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
-| [Allocation-error reporting re-enters base initialization and error-state TLS setup](https://github.com/openssl/openssl/issues/33304) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 31.2k | 🟡 help wanted | 2026-10-22 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/openssl/openssl/blob/HEAD/CONTRIBUTING.md) |
 | [\[Preview Pane\] HEIC, WEBP File Explorer support](https://github.com/microsoft/PowerToys/issues/3990) 💬 12 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 140.6k | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/microsoft/PowerToys/blob/HEAD/CONTRIBUTING.md) |
 | [Update speed tests to measure GPU performance for cuPQC code](https://github.com/open-quantum-safe/liboqs/issues/2160) 💬 43 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
 | [Disabling columnstore does not pause columnstore policies](https://github.com/timescale/timescaledb/issues/8960) 💬 4 | [timescale/timescaledb](https://github.com/timescale/timescaledb) | 23.8k | 🟢 beginner | 2026-10-20 | ✍️ CLA · [📘 guide](https://github.com/timescale/timescaledb/blob/HEAD/CONTRIBUTING.md) |
@@ -74,7 +73,7 @@
 | [Adding FAEST](https://github.com/open-quantum-safe/liboqs/issues/2101) 💬 14 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-01 | [📘 guide](https://github.com/open-quantum-safe/liboqs/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\] GMMK Pro rev1 ANSI: LEDs on first AW20216S driver stay dark on master; fixed by lowering SPI speed](https://github.com/qmk/qmk_firmware/issues/26492) | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-09-30 |  |
 | [Bank MSB shouldn't always be ignored in XG mode](https://github.com/FluidSynth/fluidsynth/issues/1378) 💬 26 | [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) | 2.5k | 🟡 help wanted | 2026-09-29 | [📘 guide](https://github.com/FluidSynth/fluidsynth/blob/HEAD/CONTRIBUTING.md) |
-| [\[Experiment\] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 48k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/JustVugg/colibri/blob/HEAD/CONTRIBUTING.md) |
+| [\[Experiment\] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 48.2k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/JustVugg/colibri/blob/HEAD/CONTRIBUTING.md) |
 | [Extensions for browser support monitoring](https://github.com/axel-download-accelerator/axel/issues/346) 💬 5 | [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) | 3.4k | 🟡 help wanted | 2026-09-26 | [📘 guide](https://github.com/axel-download-accelerator/axel/blob/HEAD/CONTRIBUTING.md) |
 | [\[BUG\] Unable to restore the database](https://github.com/mydumper/mydumper/issues/2355) 💬 3 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.3k | 🟡 help wanted | 2026-09-24 |  |
 | [Investigate AddressSanitizer-like diagnostics for ThreadX](https://github.com/eclipse-threadx/threadx/issues/764) | [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) | 3.6k | 🟡 help wanted | 2026-09-22 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/eclipse-threadx/threadx/blob/HEAD/CONTRIBUTING.md) |

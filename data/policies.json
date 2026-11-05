@@ -701,7 +701,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "AGENTS.md"
     ],
-    "scanned_at": "2026-10-29T22:30:50+00:00"
+    "scanned_at": "2026-11-05T23:22:45+00:00"
   },
   "ArduPilot/ardupilot": {
     "ai": "disclose",
@@ -713,7 +713,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "AGENTS.md"
     ],
-    "scanned_at": "2026-10-29T22:30:50+00:00"
+    "scanned_at": "2026-11-05T23:22:45+00:00"
   },
   "Arindam200/awesome-ai-apps": {
     "ai": "none",
@@ -725,7 +725,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-29T22:30:50+00:00"
+    "scanned_at": "2026-11-05T23:22:45+00:00"
   },
   "Arize-ai/phoenix": {
     "ai": "none",
@@ -4616,7 +4616,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-25T19:45:42+00:00"
+    "scanned_at": "2026-11-05T23:22:45+00:00"
   },
   "Kotlin/kotlinx.coroutines": {
     "ai": "none",
@@ -8156,7 +8156,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-10-29T22:30:50+00:00"
+    "scanned_at": "2026-11-05T23:22:45+00:00"
   },
   "TeamAmaze/AmazeFileManager": {
     "ai": "none",
@@ -9024,6 +9024,16 @@
     "dco": false,
     "files": [],
     "scanned_at": "2026-11-04T13:44:25+00:00"
+  },
+  "WebAssembly/WASI": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-11-05T23:22:45+00:00"
   },
   "WebAssembly/wabt": {
     "ai": "none",
@@ -14538,7 +14548,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-10-29T22:30:50+00:00"
+    "scanned_at": "2026-11-05T23:22:46+00:00"
   },
   "coil-kt/coil": {
     "ai": "none",
@@ -23324,7 +23334,7 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-29T22:30:50+00:00"
+    "scanned_at": "2026-11-05T23:22:46+00:00"
   },
   "jellyfin/jellyfin-vue": {
     "ai": "none",
@@ -23418,7 +23428,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-29T22:30:51+00:00"
+    "scanned_at": "2026-11-05T23:22:46+00:00"
   },
   "jez500/pricebuddy": {
     "ai": "none",
@@ -23773,7 +23783,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-29T22:30:51+00:00"
+    "scanned_at": "2026-11-05T23:22:46+00:00"
   },
   "jtablesaw/tablesaw": {
     "ai": "none",
@@ -25200,7 +25210,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-29T22:30:51+00:00"
+    "scanned_at": "2026-11-05T23:22:46+00:00"
   },
   "lbjlaq/Antigravity-Manager": {
     "ai": "disclose",
@@ -25712,7 +25722,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-29T22:30:51+00:00"
+    "scanned_at": "2026-11-05T23:22:46+00:00"
   },
   "livereload/livereload-js": {
     "ai": "none",
@@ -25728,7 +25738,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-10-29T22:30:51+00:00"
+    "scanned_at": "2026-11-05T23:22:48+00:00"
   },
   "lldap/lldap": {
     "ai": "none",
@@ -25738,7 +25748,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-29T22:30:51+00:00"
+    "scanned_at": "2026-11-05T23:22:48+00:00"
   },
   "llm-d/llm-d": {
     "ai": "disclose",
@@ -27800,7 +27810,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-29T22:30:52+00:00"
+    "scanned_at": "2026-11-05T23:22:48+00:00"
   },
   "miroiu/nodify": {
     "ai": "none",
@@ -27875,7 +27885,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-10-29T22:30:52+00:00"
+    "scanned_at": "2026-11-05T23:22:48+00:00"
   },
   "mklement0/fileicon": {
     "ai": "none",
@@ -39530,7 +39540,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-29T22:30:52+00:00"
+    "scanned_at": "2026-11-05T23:22:48+00:00"
   },
   "uken/fluent-plugin-elasticsearch": {
     "ai": "none",
@@ -39550,7 +39560,7 @@
     "files": [
       ".github/PULL_REQUEST_TEMPLATE.md"
     ],
-    "scanned_at": "2026-10-29T22:30:52+00:00"
+    "scanned_at": "2026-11-05T23:22:48+00:00"
   },
   "ultralytics/yolov5": {
     "ai": "none",
@@ -41643,7 +41653,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-27T11:27:22+00:00"
+    "scanned_at": "2026-11-05T23:22:48+00:00"
   },
   "yihui/xaringan": {
     "ai": "none",

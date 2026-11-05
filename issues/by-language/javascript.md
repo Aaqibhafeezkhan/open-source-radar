@@ -1,10 +1,10 @@
 # JavaScript issues
 
-**160** open issues (66 labeled for beginners) across **65** active JavaScript projects.
+**161** open issues (66 labeled for beginners) across **65** active JavaScript projects.
 
 [JavaScript quickstart](../../languages/javascript.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/javascript.xml)
 
-> Updated automatically on **2026-11-05 14:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-05 23:29 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Access ECR URI Natively](https://github.com/serverless/serverless/issues/12018) 💬 4 | [serverless/serverless](https://github.com/serverless/serverless) | 46.9k | 🟡 help wanted | 2026-11-05 | [📘 guide](https://github.com/serverless/serverless/blob/HEAD/CONTRIBUTING.md) |
 | [broken upside down mode with (Push) monitors' notifcation detection of important heatbeats](https://github.com/louislam/uptime-kuma/issues/5911) 💬 8 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 93.3k | 🟡 help wanted | 2026-11-04 | ⚠️ AI restricted · [📘 guide](https://github.com/louislam/uptime-kuma/blob/HEAD/CONTRIBUTING.md) |
 | [Simplify sometimes misorders monomials and introduces explicit multiplication](https://github.com/josdejong/mathjs/issues/2055) 💬 4 | [josdejong/mathjs](https://github.com/josdejong/mathjs) | 15.1k | 🟡 help wanted | 2026-11-04 | [📘 guide](https://github.com/josdejong/mathjs/blob/HEAD/CONTRIBUTING.md) |
 | [\[ACTION\] Simplify Notion upload image affordance](https://github.com/PipedreamHQ/pipedream/issues/20537) 💬 3 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.8k | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/PipedreamHQ/pipedream/blob/HEAD/CONTRIBUTING.md) |
@@ -111,8 +112,8 @@
 | [macOS: installer window cannot be moved and the submit button falls off-screen on short displays](https://github.com/HarnessMD/munder-difflin/issues/305) | [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) | 9.4k | 🟢 beginner | 2026-09-02 | [📘 guide](https://github.com/HarnessMD/munder-difflin/blob/HEAD/CONTRIBUTING.md) |
 | [No way to raise or silence the per-agent token limit bubbles without removing limits entirely](https://github.com/HarnessMD/munder-difflin/issues/291) | [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) | 9.4k | 🟢 beginner | 2026-09-02 | [📘 guide](https://github.com/HarnessMD/munder-difflin/blob/HEAD/CONTRIBUTING.md) |
 | [Windows: Task Manager shows processes as the marketing tagline instead of "Munder Difflin"](https://github.com/HarnessMD/munder-difflin/issues/215) | [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) | 9.4k | 🟢 beginner | 2026-09-02 | [📘 guide](https://github.com/HarnessMD/munder-difflin/blob/HEAD/CONTRIBUTING.md) |
-| [Simplify vm.Module](https://github.com/nodejs/node/issues/43899) 💬 8 | [nodejs/node](https://github.com/nodejs/node) | 123.2k | 🟡 help wanted | 2026-09-01 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/nodejs/node/blob/HEAD/CONTRIBUTING.md) |
-| [Option to have a shared V8 library?](https://github.com/nodejs/node/issues/53509) 💬 17 | [nodejs/node](https://github.com/nodejs/node) | 123.2k | 🟡 help wanted | 2026-09-01 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/nodejs/node/blob/HEAD/CONTRIBUTING.md) |
+| [Simplify vm.Module](https://github.com/nodejs/node/issues/43899) 💬 8 | [nodejs/node](https://github.com/nodejs/node) | 123.3k | 🟡 help wanted | 2026-09-01 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/nodejs/node/blob/HEAD/CONTRIBUTING.md) |
+| [Option to have a shared V8 library?](https://github.com/nodejs/node/issues/53509) 💬 17 | [nodejs/node](https://github.com/nodejs/node) | 123.3k | 🟡 help wanted | 2026-09-01 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/nodejs/node/blob/HEAD/CONTRIBUTING.md) |
 | [Responsive images generated with contain fit and an aspect ratio that causes pillarboxing are missing high re…](https://github.com/gatsbyjs/gatsby/issues/33647) 💬 11 | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) | 55.9k | 🟡 help wanted | 2026-09-01 | [📘 guide](https://github.com/gatsbyjs/gatsby/blob/HEAD/CONTRIBUTING.md) |
 | [Catch and handle ChunkLoadError](https://github.com/gatsbyjs/gatsby/issues/33844) 💬 11 | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) | 55.9k | 🟡 help wanted | 2026-09-01 | [📘 guide](https://github.com/gatsbyjs/gatsby/blob/HEAD/CONTRIBUTING.md) |
 | [SSR: Restricting Access to Specific Pages Based on Authenticated User](https://github.com/gatsbyjs/gatsby/issues/36427) 💬 9 | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) | 55.9k | 🟡 help wanted | 2026-09-01 | [📘 guide](https://github.com/gatsbyjs/gatsby/blob/HEAD/CONTRIBUTING.md) |
@@ -168,7 +169,7 @@
 | [Support for Top-Level Global Mode](https://github.com/processing/p5.js/issues/7737) 💬 35 | [processing/p5.js](https://github.com/processing/p5.js) | 24.3k | 🟡 help wanted | 2026-06-01 | ⚠️ AI restricted · [📘 guide](https://github.com/processing/p5.js/blob/HEAD/CONTRIBUTING.md) |
 | [Add ping graph on the status page](https://github.com/louislam/uptime-kuma/issues/637) 💬 35 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 93.3k | 🟡 help wanted | 2026-05-27 | ⚠️ AI restricted · [📘 guide](https://github.com/louislam/uptime-kuma/blob/HEAD/CONTRIBUTING.md) |
 | [Expose Fuse to be used independently](https://github.com/Choices-js/Choices/issues/1370) 💬 1 | [Choices-js/Choices](https://github.com/Choices-js/Choices) | 6.8k | 🟢 beginner | 2026-05-25 | [📘 guide](https://github.com/Choices-js/Choices/blob/HEAD/CONTRIBUTING.md) |
-| [Allow changing the duration of zoom animations](https://github.com/Leaflet/Leaflet/issues/5332) 💬 8 | [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) | 45.8k | 🟡 help wanted | 2026-05-22 | [📘 guide](https://github.com/Leaflet/Leaflet/blob/HEAD/CONTRIBUTING.md) |
+| [Allow changing the duration of zoom animations](https://github.com/Leaflet/Leaflet/issues/5332) 💬 8 | [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) | 45.9k | 🟡 help wanted | 2026-05-22 | [📘 guide](https://github.com/Leaflet/Leaflet/blob/HEAD/CONTRIBUTING.md) |
 | [Full screen applications disable Stretchly](https://github.com/hovancik/stretchly/issues/355) 💬 32 | [hovancik/stretchly](https://github.com/hovancik/stretchly) | 6.6k | 🟡 help wanted | 2026-05-20 | 🤖 disclose AI use · [📘 guide](https://github.com/hovancik/stretchly/blob/HEAD/CONTRIBUTING.md) |
 | [&amp; TO & amp;](https://github.com/beautifier/js-beautify/issues/880) 💬 2 | [beautifier/js-beautify](https://github.com/beautifier/js-beautify) | 9k | 🟢 beginner | 2026-05-18 | [📘 guide](https://github.com/beautifier/js-beautify/blob/HEAD/CONTRIBUTING.md) |
 | [Demo tests in 'tests/basic.js' are broken.](https://github.com/sandstorm-io/sandstorm/issues/3615) 💬 1 | [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) | 7.1k | 🟢 beginner | 2026-05-12 | [📘 guide](https://github.com/sandstorm-io/sandstorm/blob/HEAD/CONTRIBUTING.md) |
