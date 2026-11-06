@@ -2101,6 +2101,18 @@
     ],
     "scanned_at": "2026-10-27T10:43:18+00:00"
   },
+  "Djihads80/Eglantine": {
+    "ai": "disclose",
+    "ai_file": "CONTRIBUTING.md",
+    "cla": false,
+    "dco": false,
+    "files": [
+      ".github/PULL_REQUEST_TEMPLATE.md",
+      "AGENTS.md",
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-11-06T22:45:09+00:00"
+  },
   "DmitryTsepelev/store_model": {
     "ai": "none",
     "ai_file": null,
@@ -8339,7 +8351,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-27T21:32:27+00:00"
+    "scanned_at": "2026-11-06T22:45:09+00:00"
   },
   "TheAlgorithms/C-Plus-Plus": {
     "ai": "none",
@@ -10949,7 +10961,7 @@
       "AGENTS.md",
       "docs/CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-26T11:21:43+00:00"
+    "scanned_at": "2026-11-06T22:45:09+00:00"
   },
   "apache/iceberg": {
     "ai": "restricted",
@@ -21586,6 +21598,18 @@
       "AGENTS.md"
     ],
     "scanned_at": "2026-10-19T11:13:21+00:00"
+  },
+  "headroomlabs-ai/headroom": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [
+      ".github/PULL_REQUEST_TEMPLATE.md",
+      "AGENTS.md",
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-11-06T22:45:09+00:00"
   },
   "hedgehogqa/haskell-hedgehog": {
     "ai": "none",
