@@ -1,10 +1,10 @@
 # C++ issues
 
-**331** open issues (110 labeled for beginners) across **102** active C++ projects.
+**330** open issues (110 labeled for beginners) across **102** active C++ projects.
 
 [C++ quickstart](../../languages/cpp.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/cpp.xml)
 
-> Updated automatically on **2026-11-05 23:29 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-06 13:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,13 +12,12 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Core: Generic Message '&lt;TopoShape&gt; TopoShapeExpansion.cpp(972): hasher mismatch' needs better wording for end…](https://github.com/FreeCAD/FreeCAD/issues/24567) 💬 28 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35.2k | 🟢 beginner | 2026-11-06 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [The toolbar breaks when changing the browser layout](https://github.com/zen-browser/desktop/issues/11595) 💬 8 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | 45.6k | 🟢 beginner | 2026-11-05 |  |
 | [Fillet can not round a face (Fixed in OCC 8.1.0)](https://github.com/FreeCAD/FreeCAD/issues/5561) 💬 21 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35.2k | 🟡 help wanted | 2026-11-05 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [Outdated version on the Snap Store stable channel.](https://github.com/flameshot-org/flameshot/issues/4439) 💬 12 | [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) | 31.4k | 🟡 help wanted | 2026-11-05 | [📘 guide](https://github.com/flameshot-org/flameshot/blob/HEAD/docs/CONTRIBUTING.md) |
 | [rbac: principals evaluation performance](https://github.com/envoyproxy/envoy/issues/12285) 💬 9 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29.2k | 🟡 help wanted | 2026-11-05 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/envoyproxy/envoy/blob/HEAD/CONTRIBUTING.md) |
 | [ROS2 Kilted Sync (2025-07-28) ~ 0.9.7-1 : Fails to resolve is_nothrow_invocable_v in magic_enum::detail](https://github.com/Neargye/magic_enum/issues/420) 💬 20 | [Neargye/magic_enum](https://github.com/Neargye/magic_enum) | 6.3k | 🟡 help wanted | 2026-11-05 |  |
-| [USD: GPU sparse blend shapes support](https://github.com/f3d-app/f3d/issues/3218) 💬 10 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 5k | 🟡 help wanted | 2026-11-05 | 🤖 disclose AI use · [📘 guide](https://github.com/f3d-app/f3d/blob/HEAD/CONTRIBUTING.md) |
-| [Core: Generic Message '&lt;TopoShape&gt; TopoShapeExpansion.cpp(972): hasher mismatch' needs better wording for end…](https://github.com/FreeCAD/FreeCAD/issues/24567) 💬 26 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35.2k | 🟢 beginner | 2026-11-04 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [CAM: Simulator (new) artifacts showing on complex body due to an edgecase (algorithm lacks complexity for cer…](https://github.com/FreeCAD/FreeCAD/issues/19368) 💬 14 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35.2k | 🟡 help wanted | 2026-11-04 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [PartDesign: Crash won't let me fuse two linked objects together (bug = user is not prevented from doing this)](https://github.com/FreeCAD/FreeCAD/issues/16025) 💬 13 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35.2k | 🟡 help wanted | 2026-11-04 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [Paste to current window intermittently fails quietly (no effect or empty paste) on Windows](https://github.com/hluk/CopyQ/issues/3744) 💬 5 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.6k | 🟡 help wanted | 2026-11-04 |  |
@@ -198,12 +197,12 @@
 | [Aggregator will have statistics about aggregated keys(min/max/any 100 values)](https://github.com/ClickHouse/ClickHouse/issues/77740) 💬 3 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 50.8k | 🟡 help wanted | 2026-09-11 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/ClickHouse/ClickHouse/blob/HEAD/CONTRIBUTING.md) |
 | [tray menu does not work with ubuntu 26](https://github.com/hluk/CopyQ/issues/3645) 💬 3 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.6k | 🟡 help wanted | 2026-09-11 |  |
 | [\[RFC\]: Hot Standby Mode for Master Service Metadata High Availability](https://github.com/kvcache-ai/Mooncake/issues/1200) 💬 4 | [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) | 7k | 🟢 beginner | 2026-09-11 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/kvcache-ai/Mooncake/blob/HEAD/CONTRIBUTING.md) |
-| [\[Feature\] TemplateMatch 增加可选灰度匹配参数（纯性能优化，默认关闭）](https://github.com/MaaXYZ/MaaFramework/issues/1483) 💬 2 | [MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework) | 5.1k | 🟡 help wanted | 2026-09-11 |  |
+| [\[Feature\] TemplateMatch 增加可选灰度匹配参数（纯性能优化，默认关闭）](https://github.com/MaaXYZ/MaaFramework/issues/1483) 💬 2 | [MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework) | 5.2k | 🟡 help wanted | 2026-09-11 |  |
 | [Consider feature adoption: Vector PP and Stanley within RPP package](https://github.com/ros-navigation/navigation2/issues/5952) 💬 10 | [ros-navigation/navigation2](https://github.com/ros-navigation/navigation2) | 5k | 🟡 help wanted | 2026-09-10 | 🔏 DCO · [📘 guide](https://github.com/ros-navigation/navigation2/blob/HEAD/CONTRIBUTING.md) |
 | [When you change the objective in a scenario that you have already failed it does not remove the failed object…](https://github.com/OpenRCT2/OpenRCT2/issues/16510) 💬 4 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.5k | 🟢 beginner | 2026-09-09 | [📘 guide](https://github.com/OpenRCT2/OpenRCT2/blob/HEAD/CONTRIBUTING.md) |
 | [Add Bluesky and Mastodon to the Edit Place screen](https://github.com/organicmaps/organicmaps/issues/10142) 💬 6 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.9k | 🟢 beginner | 2026-09-09 | 🔏 DCO · [📘 guide](https://github.com/organicmaps/organicmaps/blob/HEAD/CONTRIBUTING.md) |
 | [Translate "more..."](https://github.com/organicmaps/organicmaps/issues/13214) 💬 1 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.9k | 🟢 beginner | 2026-09-09 | 🔏 DCO · [📘 guide](https://github.com/organicmaps/organicmaps/blob/HEAD/CONTRIBUTING.md) |
-| [delay字段添加随机延迟功能，如pre_delay\[100,5000\],在100到5000ms之间随机延迟](https://github.com/MaaXYZ/MaaFramework/issues/1470) 💬 1 | [MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework) | 5.1k | 🟡 help wanted | 2026-09-09 |  |
+| [delay字段添加随机延迟功能，如pre_delay\[100,5000\],在100到5000ms之间随机延迟](https://github.com/MaaXYZ/MaaFramework/issues/1470) 💬 1 | [MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework) | 5.2k | 🟡 help wanted | 2026-09-09 |  |
 | [Signed releases](https://github.com/envoyproxy/envoy/issues/14076) 💬 19 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29.2k | 🟡 help wanted | 2026-09-08 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/envoyproxy/envoy/blob/HEAD/CONTRIBUTING.md) |
 | [clang-tidy: enable performance-*](https://github.com/alibaba/zvec/issues/291) 💬 3 | [alibaba/zvec](https://github.com/alibaba/zvec) | 16.2k | 🟡 help wanted | 2026-09-08 | [📘 guide](https://github.com/alibaba/zvec/blob/HEAD/CONTRIBUTING.md) |
 | [clang-tidy: enable clang-analyzer-*](https://github.com/alibaba/zvec/issues/292) | [alibaba/zvec](https://github.com/alibaba/zvec) | 16.2k | 🟡 help wanted | 2026-09-08 | [📘 guide](https://github.com/alibaba/zvec/blob/HEAD/CONTRIBUTING.md) |
@@ -212,5 +211,6 @@
 | [Add option for voice over language](https://github.com/diasurgical/DevilutionX/issues/5742) 💬 2 | [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) | 10k | 🟢 beginner | 2026-09-06 | [📘 guide](https://github.com/diasurgical/DevilutionX/blob/HEAD/docs/CONTRIBUTING.md) |
 | [\[BUG\] Python groupby rolling aggregations return index inconsistent with pandas](https://github.com/NVIDIA/cudf/issues/10249) 💬 6 | [NVIDIA/cudf](https://github.com/NVIDIA/cudf) | 9.8k | 🟢 beginner | 2026-09-06 | [📘 guide](https://github.com/NVIDIA/cudf/blob/HEAD/CONTRIBUTING.md) |
 | [Bazel rules for C#](https://github.com/protocolbuffers/protobuf/issues/18352) 💬 4 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 72.2k | 🟡 help wanted | 2026-09-03 | ✍️ CLA · [📘 guide](https://github.com/protocolbuffers/protobuf/blob/HEAD/CONTRIBUTING.md) |
+| [C++ \| Array size of enumeration not reliable in case of not consecutive numbers (actual size does not match)](https://github.com/protocolbuffers/protobuf/issues/15541) 💬 5 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 72.2k | 🟡 help wanted | 2026-09-03 | ✍️ CLA · [📘 guide](https://github.com/protocolbuffers/protobuf/blob/HEAD/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 331 on the website.
+Showing the 200 most recently updated. See all 330 on the website.
