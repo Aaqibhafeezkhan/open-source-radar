@@ -8089,7 +8089,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-27T21:32:11+00:00"
+    "scanned_at": "2026-11-07T21:35:42+00:00"
   },
   "TNG/ArchUnit": {
     "ai": "none",
@@ -8384,7 +8384,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-27T10:49:23+00:00"
+    "scanned_at": "2026-11-07T21:35:42+00:00"
   },
   "TheBoredTeam/boring.notch": {
     "ai": "none",
@@ -16907,6 +16907,17 @@
       "CONTRIBUTING.md"
     ],
     "scanned_at": "2026-10-26T11:28:40+00:00"
+  },
+  "downshift-js/downshift": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [
+      ".github/PULL_REQUEST_TEMPLATE.md",
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-11-07T21:35:42+00:00"
   },
   "doyensec/inql": {
     "ai": "none",
