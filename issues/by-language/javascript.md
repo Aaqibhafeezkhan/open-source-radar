@@ -1,10 +1,10 @@
 # JavaScript issues
 
-**163** open issues (68 labeled for beginners) across **65** active JavaScript projects.
+**161** open issues (67 labeled for beginners) across **64** active JavaScript projects.
 
 [JavaScript quickstart](../../languages/javascript.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/javascript.xml)
 
-> Updated automatically on **2026-11-06 22:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-07 12:34 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,7 +13,6 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Type tests for Meteor packages](https://github.com/meteor/meteor/issues/13676) 💬 12 | [meteor/meteor](https://github.com/meteor/meteor) | 44.8k | 🟢 beginner | 2026-11-06 | ✍️ CLA · [📘 guide](https://github.com/meteor/meteor/blob/HEAD/CONTRIBUTING.md) |
-| [tools/node-process-warnings.js throws on Error-valued warnings and drops emitWarning arguments](https://github.com/meteor/meteor/issues/14612) 💬 4 | [meteor/meteor](https://github.com/meteor/meteor) | 44.8k | 🟢 beginner | 2026-11-06 | ✍️ CLA · [📘 guide](https://github.com/meteor/meteor/blob/HEAD/CONTRIBUTING.md) |
 | [Feature request: return a stored source in full ('ctx_get')](https://github.com/mksglu/context-mode/issues/1325) 💬 2 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 33.6k | 🟡 help wanted | 2026-11-06 | [📘 guide](https://github.com/mksglu/context-mode/blob/HEAD/CONTRIBUTING.md) |
 | [Access ECR URI Natively](https://github.com/serverless/serverless/issues/12018) 💬 4 | [serverless/serverless](https://github.com/serverless/serverless) | 46.9k | 🟡 help wanted | 2026-11-05 | [📘 guide](https://github.com/serverless/serverless/blob/HEAD/CONTRIBUTING.md) |
 | [broken upside down mode with (Push) monitors' notifcation detection of important heatbeats](https://github.com/louislam/uptime-kuma/issues/5911) 💬 8 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 93.3k | 🟡 help wanted | 2026-11-04 | ⚠️ AI restricted · [📘 guide](https://github.com/louislam/uptime-kuma/blob/HEAD/CONTRIBUTING.md) |
@@ -38,7 +37,7 @@
 | [Parse results in multiple objects with the same key instead of one.](https://github.com/ljharb/qs/issues/241) | [ljharb/qs](https://github.com/ljharb/qs) | 9k | 🟡 help wanted | 2026-10-28 |  |
 | [Decoder function not being called](https://github.com/ljharb/qs/issues/284) 💬 3 | [ljharb/qs](https://github.com/ljharb/qs) | 9k | 🟡 help wanted | 2026-10-28 |  |
 | [\[Feature\] 开放桌宠层（状态 / 动画 / 触发器）给第三方，让开发者能做出行为不同的桌宠](https://github.com/rullerzhou-afk/clawd-on-desk/issues/1019) 💬 5 | [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 6.7k | 🟡 help wanted | 2026-10-28 | [📘 guide](https://github.com/rullerzhou-afk/clawd-on-desk/blob/HEAD/CONTRIBUTING.md) |
-| [📌 Feature Request: Add "Pin to Top" or "Favorite Collection" Feature for Better Collection Management](https://github.com/usebruno/bruno/issues/4298) 💬 3 | [usebruno/bruno](https://github.com/usebruno/bruno) | 48.2k | 🟢 beginner | 2026-10-26 |  |
+| [📌 Feature Request: Add "Pin to Top" or "Favorite Collection" Feature for Better Collection Management](https://github.com/usebruno/bruno/issues/4298) 💬 3 | [usebruno/bruno](https://github.com/usebruno/bruno) | 48.3k | 🟢 beginner | 2026-10-26 |  |
 | [Integration: Microsoft Login / MS Graph API](https://github.com/sahat/hackathon-starter/issues/1357) 💬 2 | [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) | 35.3k | 🟡 help wanted | 2026-10-26 |  |
 | [\[ACTION\]](https://github.com/PipedreamHQ/pipedream/issues/22341) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.8k | 🟢 beginner | 2026-10-26 | [📘 guide](https://github.com/PipedreamHQ/pipedream/blob/HEAD/CONTRIBUTING.md) |
 | [Alasql 2](https://github.com/AlaSQL/alasql/issues/94) 💬 10 | [AlaSQL/alasql](https://github.com/AlaSQL/alasql) | 7.3k | 🟡 help wanted | 2026-10-25 | [📘 guide](https://github.com/AlaSQL/alasql/blob/HEAD/CONTRIBUTING.md) |
@@ -68,7 +67,6 @@
 | [I can model a message element of a message flow](https://github.com/bpmn-io/bpmn-js/issues/447) 💬 3 | [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) | 9.7k | 🟢 beginner | 2026-10-14 | [📘 guide](https://github.com/bpmn-io/bpmn-js/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Show resize handles on hover](https://github.com/bpmn-io/bpmn-js/issues/561) 💬 4 | [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) | 9.7k | 🟡 help wanted | 2026-10-14 | [📘 guide](https://github.com/bpmn-io/bpmn-js/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Help\] catch-all那里现在需要email worker，咋办？](https://github.com/maillab/cloud-mail/issues/564) 💬 3 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 15.5k | 🟡 help wanted | 2026-10-13 |  |
-| [Generate JSON wire schemas for Python runtime types supported by Pydantic](https://github.com/microsoft/TypeChat/issues/454) | [microsoft/TypeChat](https://github.com/microsoft/TypeChat) | 8.7k | 🟡 help wanted | 2026-10-13 |  |
 | [Add a note for Windows 10 Firefox users to playready.html](https://github.com/Dash-Industry-Forum/dash.js/issues/4753) 💬 6 | [Dash-Industry-Forum/dash.js](https://github.com/Dash-Industry-Forum/dash.js) | 5.6k | 🟢 beginner | 2026-10-13 | [📘 guide](https://github.com/Dash-Industry-Forum/dash.js/blob/HEAD/CONTRIBUTING.md) |
 | [animate() in Chrome triggers hundreds of HTTP requests](https://github.com/jquery/jquery/issues/4968) 💬 9 | [jquery/jquery](https://github.com/jquery/jquery) | 59.9k | 🟡 help wanted | 2026-10-12 | ✍️ CLA · [📘 guide](https://github.com/jquery/jquery/blob/HEAD/CONTRIBUTING.md) |
 | [\[Help\] 换域名了，原域名没了，改绑新域名，怎么重新初始化？ 或怎么改？](https://github.com/maillab/cloud-mail/issues/593) 💬 1 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 15.5k | 🟡 help wanted | 2026-10-12 |  |
@@ -104,9 +102,9 @@
 | [\[Help\] worker已经设置admin，但是登录后，还是普通用户，不是管理员？](https://github.com/maillab/cloud-mail/issues/532) 💬 3 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 15.5k | 🟡 help wanted | 2026-09-06 |  |
 | [\[Help\] worker配置了admin，但部署登录后，admin是普通用户，没有系统设置！](https://github.com/maillab/cloud-mail/issues/567) | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 15.5k | 🟡 help wanted | 2026-09-05 |  |
 | [\[Help\] cloudflare里面的电子邮件路由消失了，咋办？](https://github.com/maillab/cloud-mail/issues/563) 💬 3 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 15.5k | 🟡 help wanted | 2026-09-05 |  |
-| [i18n: add a Swedish (sv) market mode](https://github.com/career-ops-hq/career-ops/issues/3847) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 80.7k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use · [📘 guide](https://github.com/career-ops-hq/career-ops/blob/HEAD/CONTRIBUTING.md) |
+| [i18n: add a Swedish (sv) market mode](https://github.com/career-ops-hq/career-ops/issues/3847) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 80.8k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use · [📘 guide](https://github.com/career-ops-hq/career-ops/blob/HEAD/CONTRIBUTING.md) |
 | [Generate PDF/A compliant document](https://github.com/parallax/jsPDF/issues/2882) 💬 6 | [parallax/jsPDF](https://github.com/parallax/jsPDF) | 31.3k | 🟡 help wanted | 2026-09-03 | [📘 guide](https://github.com/parallax/jsPDF/blob/HEAD/CONTRIBUTING.md) |
-| ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/react/react/issues/17355) 💬 154 | [react/react](https://github.com/react/react) | 252.2k | 🟢 beginner | 2026-09-02 | ✍️ CLA · [📘 guide](https://github.com/react/react/blob/HEAD/CONTRIBUTING.md) |
+| ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/react/react/issues/17355) 💬 154 | [react/react](https://github.com/react/react) | 252.3k | 🟢 beginner | 2026-09-02 | ✍️ CLA · [📘 guide](https://github.com/react/react/blob/HEAD/CONTRIBUTING.md) |
 | [Backmerging Module Federation v2](https://github.com/webpack/webpack/issues/18809) 💬 20 | [webpack/webpack](https://github.com/webpack/webpack) | 66k | 🟡 help wanted | 2026-09-02 | [📘 guide](https://github.com/webpack/webpack/blob/HEAD/CONTRIBUTING.md) |
 | [Module Federation Share should support layers/issuerLayer](https://github.com/webpack/webpack/issues/18988) 💬 9 | [webpack/webpack](https://github.com/webpack/webpack) | 66k | 🟡 help wanted | 2026-09-02 | [📘 guide](https://github.com/webpack/webpack/blob/HEAD/CONTRIBUTING.md) |
 | [📝 Docs: Give props to non-OpenCollective sponsors, services](https://github.com/mochajs/mocha/issues/3627) 💬 7 | [mochajs/mocha](https://github.com/mochajs/mocha) | 22.9k | 🟢 beginner | 2026-09-02 | ✍️ CLA · [📘 guide](https://github.com/mochajs/mocha/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -123,7 +121,7 @@
 | [\[Help\] 按教程创建了 Worker，但是电子邮件 Catch-all 找不到 Worker，提示没有已部署的 Email Worker](https://github.com/maillab/cloud-mail/issues/440) 💬 7 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 15.5k | 🟡 help wanted | 2026-08-28 |  |
 | [Print useful message when worker threads cannot be used due to Node.js flags](https://github.com/avajs/ava/issues/3025) 💬 4 | [avajs/ava](https://github.com/avajs/ava) | 20.8k | 🟡 help wanted | 2026-08-27 | [📘 guide](https://github.com/avajs/ava/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[To Do\] Add visual regression (Backstop) tests to Less](https://github.com/less/less.js/issues/3262) 💬 5 | [less/less.js](https://github.com/less/less.js) | 17k | 🟢 beginner | 2026-08-27 | [📘 guide](https://github.com/less/less.js/blob/HEAD/CONTRIBUTING.md) |
-| [Proxying should support HTTP and HTTPS at the same time](https://github.com/usebruno/bruno/issues/1985) 💬 3 | [usebruno/bruno](https://github.com/usebruno/bruno) | 48.2k | 🟢 beginner | 2026-08-26 |  |
+| [Proxying should support HTTP and HTTPS at the same time](https://github.com/usebruno/bruno/issues/1985) 💬 3 | [usebruno/bruno](https://github.com/usebruno/bruno) | 48.3k | 🟢 beginner | 2026-08-26 |  |
 | [Add a check to test if :hover styles require doubletapping links](https://github.com/GoogleChrome/lighthouse/issues/9474) 💬 9 | [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) | 31k | 🟢 beginner | 2026-08-26 | ✍️ CLA · [📘 guide](https://github.com/GoogleChrome/lighthouse/blob/HEAD/CONTRIBUTING.md) |
 | [\[RFC\]: Add C implementation for '@stdlib/stats/base/dists/beta/median'](https://github.com/stdlib-js/stdlib/issues/3429) 💬 2 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6k | 🟢 beginner | 2026-08-22 | 🤖 disclose AI use · [📘 guide](https://github.com/stdlib-js/stdlib/blob/HEAD/CONTRIBUTING.md) |
 | [\[RFC\]: Add C implementation for '@stdlib/stats/base/dists/chisquare/pdf'](https://github.com/stdlib-js/stdlib/issues/3508) 💬 2 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6k | 🟢 beginner | 2026-08-22 | 🤖 disclose AI use · [📘 guide](https://github.com/stdlib-js/stdlib/blob/HEAD/CONTRIBUTING.md) |
