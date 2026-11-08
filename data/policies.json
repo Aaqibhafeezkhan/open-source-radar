@@ -1672,7 +1672,7 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-01T12:37:59+00:00"
+    "scanned_at": "2026-11-08T21:53:37+00:00"
   },
   "Comfy-Org/ComfyUI": {
     "ai": "restricted",
@@ -3766,7 +3766,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-01T12:37:59+00:00"
+    "scanned_at": "2026-11-08T21:53:37+00:00"
   },
   "ImGuiNET/ImGui.NET": {
     "ai": "none",
@@ -3806,7 +3806,7 @@
       "AGENTS.md",
       "docs/CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-01T12:37:59+00:00"
+    "scanned_at": "2026-11-08T21:53:37+00:00"
   },
   "InfiniTimeOrg/InfiniTime": {
     "ai": "policy",
@@ -3826,7 +3826,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-01T12:37:59+00:00"
+    "scanned_at": "2026-11-08T21:53:37+00:00"
   },
   "Infisical/infisical": {
     "ai": "none",
@@ -4951,7 +4951,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-01T12:37:59+00:00"
+    "scanned_at": "2026-11-08T21:53:37+00:00"
   },
   "LinkStackOrg/linkstack-docker": {
     "ai": "none",
@@ -4969,7 +4969,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-01T12:38:00+00:00"
+    "scanned_at": "2026-11-08T21:53:37+00:00"
   },
   "Litote/kmongo": {
     "ai": "none",
@@ -5015,7 +5015,7 @@
     "files": [
       "AGENTS.md"
     ],
-    "scanned_at": "2026-11-01T12:38:00+00:00"
+    "scanned_at": "2026-11-08T21:53:39+00:00"
   },
   "Louis-CFM/coucou": {
     "ai": "none",
@@ -5025,7 +5025,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-01T12:38:00+00:00"
+    "scanned_at": "2026-11-08T21:53:39+00:00"
   },
   "LuaJIT/LuaJIT": {
     "ai": "none",
@@ -5131,6 +5131,18 @@
     "dco": false,
     "files": [],
     "scanned_at": "2026-10-27T21:29:22+00:00"
+  },
+  "MMFoundation/WallpaperMachine": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": true,
+    "files": [
+      ".github/pull_request_template.md",
+      "AGENTS.md",
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-11-08T21:53:39+00:00"
   },
   "MODSetter/SurfSense": {
     "ai": "none",
@@ -7165,7 +7177,7 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-01T12:38:00+00:00"
+    "scanned_at": "2026-11-08T21:53:39+00:00"
   },
   "Revolutionary-Games/Thrive": {
     "ai": "none",
@@ -18015,7 +18027,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-01T12:38:00+00:00"
+    "scanned_at": "2026-11-08T21:53:39+00:00"
   },
   "espeak-ng/espeak-ng": {
     "ai": "none",
@@ -18112,7 +18124,7 @@
       ".github/CONTRIBUTING.md",
       "AGENTS.md"
     ],
-    "scanned_at": "2026-11-01T12:38:02+00:00"
+    "scanned_at": "2026-11-08T21:53:39+00:00"
   },
   "eunomia-bpf/bpf-developer-tutorial": {
     "ai": "none",
@@ -18120,7 +18132,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-01T12:38:02+00:00"
+    "scanned_at": "2026-11-08T21:53:40+00:00"
   },
   "evan361425/flutter-pos-system": {
     "ai": "none",
@@ -20238,7 +20250,7 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-27T11:01:39+00:00"
+    "scanned_at": "2026-11-08T21:53:40+00:00"
   },
   "gnuton/asuswrt-merlin.ng": {
     "ai": "none",
@@ -29798,7 +29810,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-26T22:13:25+00:00"
+    "scanned_at": "2026-11-08T21:53:40+00:00"
   },
   "noraj/haiti": {
     "ai": "none",
@@ -31390,7 +31402,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-24T20:01:34+00:00"
+    "scanned_at": "2026-11-08T21:53:40+00:00"
   },
   "owntone/owntone-server": {
     "ai": "none",
@@ -36210,7 +36222,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-27T11:21:13+00:00"
+    "scanned_at": "2026-11-08T21:53:40+00:00"
   },
   "sitespeedio/sitespeed.io": {
     "ai": "disclose",
@@ -42431,7 +42443,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-01T12:38:02+00:00"
+    "scanned_at": "2026-11-08T21:53:40+00:00"
   },
   "zulip/docker-zulip": {
     "ai": "none",
