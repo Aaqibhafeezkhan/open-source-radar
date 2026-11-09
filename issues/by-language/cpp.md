@@ -1,10 +1,10 @@
 # C++ issues
 
-**330** open issues (115 labeled for beginners) across **103** active C++ projects.
+**330** open issues (116 labeled for beginners) across **102** active C++ projects.
 
 [C++ quickstart](../../languages/cpp.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/cpp.xml)
 
-> Updated automatically on **2026-11-09 08:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-09 14:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [DNS: Missing dns_CAA_reply handler in base/protocols/dns/main.zeek leaves answers, TTLs, rtt, AA, and RA unse…](https://github.com/zeek/zeek/issues/6027) 💬 1 | [zeek/zeek](https://github.com/zeek/zeek) | 8.2k | 🟢 beginner | 2026-11-09 | 🤖 disclose AI use · [📘 guide](https://github.com/zeek/zeek/blob/HEAD/CONTRIBUTING.md) |
 | [Allow UI setting to control max frame-rate](https://github.com/wesnoth/wesnoth/issues/2210) 💬 8 | [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) | 7k | 🟢 beginner | 2026-11-09 | [📘 guide](https://github.com/wesnoth/wesnoth/blob/HEAD/CONTRIBUTING.md) |
 | [Impossible to enable debug windows other that breakpoints](https://github.com/rizinorg/cutter/issues/3269) 💬 3 | [rizinorg/cutter](https://github.com/rizinorg/cutter) | 20.2k | 🟢 beginner | 2026-11-08 | 🤖 disclose AI use · [📘 guide](https://github.com/rizinorg/cutter/blob/HEAD/CONTRIBUTING.md) |
 | [No GRC blocks or examples for gr-wavelet](https://github.com/gnuradio/gnuradio/issues/4554) 💬 5 | [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) | 6.3k | 🟢 beginner | 2026-11-08 | 🔏 DCO · [📘 guide](https://github.com/gnuradio/gnuradio/blob/HEAD/CONTRIBUTING.md) |
@@ -134,7 +135,6 @@
 | [Rotate-only interaction mode](https://github.com/f3d-app/f3d/issues/3538) 💬 7 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 5k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · [📘 guide](https://github.com/f3d-app/f3d/blob/HEAD/CONTRIBUTING.md) |
 | [protobuf_generate() ignores --proto_path passed through PROTOC_OPTIONS](https://github.com/protocolbuffers/protobuf/issues/30162) 💬 5 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 72.2k | 🟡 help wanted | 2026-10-06 | ✍️ CLA · [📘 guide](https://github.com/protocolbuffers/protobuf/blob/HEAD/CONTRIBUTING.md) |
 | [Notice in UI on updating the Terminal app + Fix a Release Notes link to point to the actual release page and…](https://github.com/microsoft/terminal/issues/12886) 💬 18 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105.4k | 🟢 beginner | 2026-10-05 | 🤖 disclose AI use · [📘 guide](https://github.com/microsoft/terminal/blob/HEAD/CONTRIBUTING.md) |
-| [\[FEATURE\]CPU Scheduling algorithms](https://github.com/TheAlgorithms/C-Plus-Plus/issues/1574) 💬 19 | [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | 34.9k | 🟡 help wanted | 2026-10-05 | [📘 guide](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/CONTRIBUTING.md) |
 | [Do not offer "free entry to park" or "half-price entry to park" if there is no admission fee](https://github.com/OpenRCT2/OpenRCT2/issues/14778) 💬 4 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.6k | 🟢 beginner | 2026-10-05 | [📘 guide](https://github.com/OpenRCT2/OpenRCT2/blob/HEAD/CONTRIBUTING.md) |
 | [Ability to force the creation of a folder](https://github.com/transmission/transmission/issues/5614) 💬 8 | [transmission/transmission](https://github.com/transmission/transmission) | 15.4k | 🟡 help wanted | 2026-10-05 | [📘 guide](https://github.com/transmission/transmission/blob/HEAD/CONTRIBUTING.md) |
 | [Execution time limit annotations](https://github.com/nasa/fprime/issues/3688) 💬 4 | [nasa/fprime](https://github.com/nasa/fprime) | 11.9k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · [📘 guide](https://github.com/nasa/fprime/blob/HEAD/CONTRIBUTING.md) |

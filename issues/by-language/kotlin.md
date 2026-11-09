@@ -1,10 +1,10 @@
 # Kotlin issues
 
-**162** open issues (54 labeled for beginners) across **70** active Kotlin projects.
+**163** open issues (54 labeled for beginners) across **70** active Kotlin projects.
 
 [Kotlin quickstart](../../languages/kotlin.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/kotlin.xml)
 
-> Updated automatically on **2026-11-09 08:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-09 14:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [他人扫描自己的二维码后，自己的设备码无法变绿色](https://github.com/aquamarine5/ChaoxingSignFaker/issues/242) 💬 1 | [aquamarine5/ChaoxingSignFaker](https://github.com/aquamarine5/ChaoxingSignFaker) | 1k | 🟡 help wanted | 2026-11-09 | [📘 guide](https://github.com/aquamarine5/ChaoxingSignFaker/blob/HEAD/CONTRIBUTING.md) |
 | [PageTitle doesn't handle main namespace titles that contain a colon](https://github.com/commons-app/apps-android-commons/issues/7169) 💬 5 | [commons-app/apps-android-commons](https://github.com/commons-app/apps-android-commons) | 1.2k | 🟢 beginner | 2026-11-08 | [📘 guide](https://github.com/commons-app/apps-android-commons/blob/HEAD/CONTRIBUTING.md) |
 | [non-recoverable deletion of files](https://github.com/TeamAmaze/AmazeFileManager/issues/4721) 💬 14 | [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) | 6.5k | 🟡 help wanted | 2026-11-07 | [📘 guide](https://github.com/TeamAmaze/AmazeFileManager/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\]: InCallService - Add a option to whitelist allowed third-party apps package name](https://github.com/kitsumed/ShizuCallRecorder/issues/46) 💬 4 | [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) | 2k | 🟡 help wanted | 2026-11-07 | 🤖 disclose AI use · [📘 guide](https://github.com/kitsumed/ShizuCallRecorder/blob/HEAD/CONTRIBUTING.md) |
@@ -56,12 +57,12 @@
 | [RFC: Feature - Allow double-click to adopt new policy branch](https://github.com/yairm210/Unciv/issues/15719) | [yairm210/Unciv](https://github.com/yairm210/Unciv) | 11.5k | 🟡 help wanted | 2026-10-06 |  |
 | [Add hint to add compression on all API endpoints](https://github.com/zalando/zally/issues/1497) 💬 1 | [zalando/zally](https://github.com/zalando/zally) | 947 | 🟢 beginner | 2026-10-06 |  |
 | [Define standard abstract interfaces for microservices, similar to Spring Cloud, providing basic interfaces fo…](https://github.com/ktorio/ktor/issues/5043) 💬 3 | [ktorio/ktor](https://github.com/ktorio/ktor) | 14.6k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · [📘 guide](https://github.com/ktorio/ktor/blob/HEAD/CONTRIBUTING.md) |
-| [load extension from local file](https://github.com/sk2andy/candy-browser/issues/251) | [sk2andy/candy-browser](https://github.com/sk2andy/candy-browser) | 649 | 🟡 help wanted | 2026-10-04 |  |
+| [load extension from local file](https://github.com/sk2andy/candy-browser/issues/251) | [sk2andy/candy-browser](https://github.com/sk2andy/candy-browser) | 650 | 🟡 help wanted | 2026-10-04 |  |
 | [ContentProvider returns null unless app manually launched — request for background-initializable entry point](https://github.com/ankidroid/Anki-Android/issues/18286) 💬 16 | [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) | 12.2k | 🟡 help wanted | 2026-10-03 | 🤖 disclose AI use · [📘 guide](https://github.com/ankidroid/Anki-Android/blob/HEAD/CONTRIBUTING.md) |
 | [Support for Home Assistant (MDI) icons in template widgets](https://github.com/home-assistant/android/issues/4135) 💬 10 | [home-assistant/android](https://github.com/home-assistant/android) | 4k | 🟢 beginner | 2026-10-03 | ⚠️ AI restricted |
 | [Add support for Add to shortcut](https://github.com/home-assistant/android/issues/5625) 💬 6 | [home-assistant/android](https://github.com/home-assistant/android) | 4k | 🟢 beginner | 2026-10-01 | ⚠️ AI restricted |
 | [Sign in With Google either crashes or has no effect](https://github.com/thunderbird/thunderbird-android/issues/8697) 💬 1 | [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) | 14.2k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use · [📘 guide](https://github.com/thunderbird/thunderbird-android/blob/HEAD/docs/CONTRIBUTING.md) |
-| [Please don't open issues about adding settings for very small behavior changes](https://github.com/libre-tube/LibreTube/issues/8465) 💬 33 | [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) | 13k | 🟡 help wanted | 2026-09-30 | [📘 guide](https://github.com/libre-tube/LibreTube/blob/HEAD/CONTRIBUTING.md) |
+| [Please don't open issues about adding settings for very small behavior changes](https://github.com/libre-tube/LibreTube/issues/8465) 💬 34 | [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) | 13k | 🟡 help wanted | 2026-09-30 | [📘 guide](https://github.com/libre-tube/LibreTube/blob/HEAD/CONTRIBUTING.md) |
 | [Add Declarative KSP for MCP Server](https://github.com/modelcontextprotocol/kotlin-sdk/issues/102) 💬 7 | [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) | 1.5k | 🟡 help wanted | 2026-09-30 | [📘 guide](https://github.com/modelcontextprotocol/kotlin-sdk/blob/HEAD/CONTRIBUTING.md) |
 | [Sorting option based on file creation date](https://github.com/RetroMusicPlayer/RetroMusicPlayer/issues/1657) 💬 1 | [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) | 5.4k | 🟢 beginner | 2026-09-29 | [📘 guide](https://github.com/RetroMusicPlayer/RetroMusicPlayer/blob/HEAD/CONTRIBUTING.md) |
 | [SoundCloud Integration](https://github.com/MuwMx/YumaPlayer/issues/87) 💬 1 | [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer) | 1.2k | 🟡 help wanted | 2026-09-29 | [📘 guide](https://github.com/MuwMx/YumaPlayer/blob/HEAD/CONTRIBUTING.md) |
@@ -78,7 +79,7 @@
 | [osmdroid is now archived and will no longer receive updates or new releases](https://github.com/commons-app/apps-android-commons/issues/6380) 💬 3 | [commons-app/apps-android-commons](https://github.com/commons-app/apps-android-commons) | 1.2k | 🟢 beginner | 2026-09-21 | [📘 guide](https://github.com/commons-app/apps-android-commons/blob/HEAD/CONTRIBUTING.md) |
 | [Feature Request: Option For App-Dependent Background Colors](https://github.com/LawnchairLauncher/lawnicons/issues/1813) 💬 2 | [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) | 2.1k | 🟡 help wanted | 2026-09-18 | [📘 guide](https://github.com/LawnchairLauncher/lawnicons/blob/HEAD/CONTRIBUTING.md) |
 | [\[DISCUSSION\] Inclusion in default F-Droid repo](https://github.com/LawnchairLauncher/lawnicons/issues/897) 💬 8 | [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) | 2.1k | 🟡 help wanted | 2026-09-18 | [📘 guide](https://github.com/LawnchairLauncher/lawnicons/blob/HEAD/CONTRIBUTING.md) |
-| [Importing any extension](https://github.com/sk2andy/candy-browser/issues/162) | [sk2andy/candy-browser](https://github.com/sk2andy/candy-browser) | 649 | 🟡 help wanted | 2026-09-18 |  |
+| [Importing any extension](https://github.com/sk2andy/candy-browser/issues/162) | [sk2andy/candy-browser](https://github.com/sk2andy/candy-browser) | 650 | 🟡 help wanted | 2026-09-18 |  |
 | [Select current server URL when Server URL configuration dialog is launched](https://github.com/getodk/collect/issues/4574) 💬 12 | [getodk/collect](https://github.com/getodk/collect) | 802 | 🟢 beginner | 2026-09-17 | 🤖 disclose AI use · [📘 guide](https://github.com/getodk/collect/blob/HEAD/docs/CONTRIBUTING.md) |
 | ['androidCompileSdkExtension = "-"' silently becomes null, hiding the intended SDK extension level](https://github.com/wangzhishou/OneBox/issues/20) 💬 1 | [wangzhishou/OneBox](https://github.com/wangzhishou/OneBox) | 1.1k | 🟢 beginner | 2026-09-16 | [📘 guide](https://github.com/wangzhishou/OneBox/blob/HEAD/CONTRIBUTING.md) |
 | ["universal" ABI flavor produces identical APK to "arm64" — misleading name and wasted build time](https://github.com/wangzhishou/OneBox/issues/19) 💬 1 | [wangzhishou/OneBox](https://github.com/wangzhishou/OneBox) | 1.1k | 🟡 help wanted | 2026-09-16 | [📘 guide](https://github.com/wangzhishou/OneBox/blob/HEAD/CONTRIBUTING.md) |
@@ -93,7 +94,7 @@
 | [HTTP4K Connect - Amazon IRSA Support](https://github.com/http4k/http4k/issues/1388) 💬 2 | [http4k/http4k](https://github.com/http4k/http4k) | 2.8k | 🟢 beginner | 2026-09-09 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/http4k/http4k/blob/HEAD/CONTRIBUTING.md) |
 | [Adjust CE Bomb for wide screen, add documentation](https://github.com/Fate-Grand-Automata/FGA/issues/998) 💬 33 | [Fate-Grand-Automata/FGA](https://github.com/Fate-Grand-Automata/FGA) | 2.4k | 🟡 help wanted | 2026-09-08 | [📘 guide](https://github.com/Fate-Grand-Automata/FGA/blob/HEAD/CONTRIBUTING.md) |
 | [Shuffle if ther's no effective buster card](https://github.com/Fate-Grand-Automata/FGA/issues/864) | [Fate-Grand-Automata/FGA](https://github.com/Fate-Grand-Automata/FGA) | 2.4k | 🟢 beginner | 2026-09-08 | [📘 guide](https://github.com/Fate-Grand-Automata/FGA/blob/HEAD/CONTRIBUTING.md) |
-| [Native Debrid Integration Support](https://github.com/ProdigyV21/ARVIO/issues/198) 💬 3 | [ProdigyV21/ARVIO](https://github.com/ProdigyV21/ARVIO) | 832 | 🟡 help wanted | 2026-09-06 |  |
+| [Native Debrid Integration Support](https://github.com/ProdigyV21/ARVIO/issues/198) 💬 3 | [ProdigyV21/ARVIO](https://github.com/ProdigyV21/ARVIO) | 833 | 🟡 help wanted | 2026-09-06 |  |
 | [jellyfin源无法，播放strm流文件](https://github.com/open-ani/animeko/issues/2995) 💬 3 | [open-ani/animeko](https://github.com/open-ani/animeko) | 21.6k | 🟡 help wanted | 2026-09-05 | [📘 guide](https://github.com/open-ani/animeko/blob/HEAD/CONTRIBUTING.md) |
 | [应用崩溃 IllegalStateException](https://github.com/open-ani/animeko/issues/2328) 💬 2 | [open-ani/animeko](https://github.com/open-ani/animeko) | 21.6k | 🟡 help wanted | 2026-09-05 | [📘 guide](https://github.com/open-ani/animeko/blob/HEAD/CONTRIBUTING.md) |
 | [增加设置允许后台播放](https://github.com/open-ani/animeko/issues/59) 💬 5 | [open-ani/animeko](https://github.com/open-ani/animeko) | 21.6k | 🟡 help wanted | 2026-09-05 | [📘 guide](https://github.com/open-ani/animeko/blob/HEAD/CONTRIBUTING.md) |

@@ -1,10 +1,10 @@
 # Lua issues
 
-**31** open issues (19 labeled for beginners) across **13** active Lua projects.
+**29** open issues (18 labeled for beginners) across **13** active Lua projects.
 
 [Lua quickstart](../../languages/lua.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/lua.xml)
 
-> Updated automatically on **2026-11-09 08:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-09 14:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,7 +13,6 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [New Feed for NCRTC (Regional train)](https://github.com/public-transport/transitous/issues/1622) 💬 4 | [public-transport/transitous](https://github.com/public-transport/transitous) | 750 | 🟢 beginner | 2026-11-09 | 📄 AI policy |
-| [help request: plugins question that cant use grpc-transcode with ext-plugin-post-resp](https://github.com/apache/apisix/issues/10787) 💬 11 | [apache/apisix](https://github.com/apache/apisix) | 17.3k | 🟢 beginner | 2026-11-07 | ✍️ CLA · [📘 guide](https://github.com/apache/apisix/blob/HEAD/CONTRIBUTING.md) |
 | [Corroy depth charge issues](https://github.com/beyond-all-reason/Beyond-All-Reason/issues/3845) 💬 3 | [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) | 4.3k | 🟢 beginner | 2026-11-02 | 🤖 disclose AI use · [📘 guide](https://github.com/beyond-all-reason/Beyond-All-Reason/blob/HEAD/CONTRIBUTING.md) |
 | [Nano turrets stay permanently idle if tasked to assist something that's out of range](https://github.com/beyond-all-reason/Beyond-All-Reason/issues/2445) 💬 7 | [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) | 4.3k | 🟢 beginner | 2026-10-27 | 🤖 disclose AI use · [📘 guide](https://github.com/beyond-all-reason/Beyond-All-Reason/blob/HEAD/CONTRIBUTING.md) |
 | [Gamepad/controller support](https://github.com/CorsixTH/CorsixTH/issues/3176) 💬 3 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.7k | 🟡 help wanted | 2026-10-25 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
@@ -29,7 +28,6 @@
 | [Support for integrating with ClaudeCode's AskUserQuestion](https://github.com/carlos-algms/agentic.nvim/issues/274) 💬 9 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 657 | 🟡 help wanted | 2026-10-04 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |
 | [\[feature\] support rockspec](https://github.com/carlos-algms/agentic.nvim/issues/264) 💬 1 | [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) | 657 | 🟢 beginner | 2026-10-04 | [📘 guide](https://github.com/carlos-algms/agentic.nvim/blob/HEAD/CONTRIBUTING.md) |
 | [Long unknown keys are truncated to known keys in some request decoders](https://github.com/tarantool/tarantool/issues/13284) 💬 1 | [tarantool/tarantool](https://github.com/tarantool/tarantool) | 3.7k | 🟢 beginner | 2026-10-02 | [📘 guide](https://github.com/tarantool/tarantool/blob/HEAD/CONTRIBUTING.md) |
-| [Implement Level Complete movie](https://github.com/CorsixTH/CorsixTH/issues/3021) 💬 5 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.7k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
 | [docs: make route matching/filtering information more visible](https://github.com/apache/apisix/issues/10735) 💬 5 | [apache/apisix](https://github.com/apache/apisix) | 17.3k | 🟢 beginner | 2026-09-20 | ✍️ CLA · [📘 guide](https://github.com/apache/apisix/blob/HEAD/CONTRIBUTING.md) |
 | [docs: Rework the service discovery documentation in general and Eureka in particular](https://github.com/apache/apisix/issues/7342) 💬 3 | [apache/apisix](https://github.com/apache/apisix) | 17.3k | 🟢 beginner | 2026-09-19 | ✍️ CLA · [📘 guide](https://github.com/apache/apisix/blob/HEAD/CONTRIBUTING.md) |
 | [Chewbacca patients should be able to transform into females when they die](https://github.com/CorsixTH/CorsixTH/issues/177) 💬 12 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.7k | 🟡 help wanted | 2026-09-16 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
