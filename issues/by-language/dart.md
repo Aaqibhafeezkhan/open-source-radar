@@ -4,7 +4,7 @@
 
 [Dart quickstart](../../languages/dart.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/dart.xml)
 
-> Updated automatically on **2026-11-08 21:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-09 08:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -42,7 +42,7 @@
 | [Clean up feature controllers in Performance page](https://github.com/flutter/devtools/issues/5100) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-15 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
 | [Exit Offline Mode not restoring previous state](https://github.com/flutter/devtools/issues/5047) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-15 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
 | [DevTools, when left overnight, connected to app, causes device unresponsiveness.](https://github.com/flutter/devtools/issues/4995) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-15 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
-| [Port to KaiOS](https://github.com/localsend/localsend/issues/1511) 💬 4 | [localsend/localsend](https://github.com/localsend/localsend) | 97.9k | 🟡 help wanted | 2026-10-10 | [📘 guide](https://github.com/localsend/localsend/blob/HEAD/CONTRIBUTING.md) |
+| [Port to KaiOS](https://github.com/localsend/localsend/issues/1511) 💬 4 | [localsend/localsend](https://github.com/localsend/localsend) | 98k | 🟡 help wanted | 2026-10-10 | [📘 guide](https://github.com/localsend/localsend/blob/HEAD/CONTRIBUTING.md) |
 | [English translation](https://github.com/bepass-org/oblivion/issues/171) 💬 2 | [bepass-org/oblivion](https://github.com/bepass-org/oblivion) | 4.9k | 🟡 help wanted | 2026-10-09 |  |
 | [\[Feature Request\] implement a flickering method to introduce grayscale](https://github.com/fossasia/badgemagic-app/issues/1671) 💬 5 | [fossasia/badgemagic-app](https://github.com/fossasia/badgemagic-app) | 2k | 🟡 help wanted | 2026-10-08 |  |
 | [\[FR\] press Enter anywhere in the grid view to add a new row / shift + enter a new line](https://github.com/AppFlowy-IO/AppFlowy/issues/3074) 💬 3 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 78.5k | 🟡 help wanted | 2026-09-29 |  |
@@ -63,7 +63,7 @@
 | [Change message and flag icons on game page for clarity](https://github.com/lichess-org/mobile/issues/3484) 💬 5 | [lichess-org/mobile](https://github.com/lichess-org/mobile) | 2.7k | 🟢 beginner | 2026-08-08 | 🤖 disclose AI use · [📘 guide](https://github.com/lichess-org/mobile/blob/HEAD/CONTRIBUTING.md) |
 | [Add a method to check whether the platform supports dynamic theming](https://github.com/material-foundation/flutter-packages/issues/390) 💬 7 | [material-foundation/flutter-packages](https://github.com/material-foundation/flutter-packages) | 865 | 🟡 help wanted | 2026-08-07 | [📘 guide](https://github.com/material-foundation/flutter-packages/blob/HEAD/CONTRIBUTING.md) |
 | [Improve development experience](https://github.com/material-foundation/flutter-packages/issues/299) | [material-foundation/flutter-packages](https://github.com/material-foundation/flutter-packages) | 865 | 🟡 help wanted | 2026-08-07 | [📘 guide](https://github.com/material-foundation/flutter-packages/blob/HEAD/CONTRIBUTING.md) |
-| [iOS版本播放界面侧滑返回](https://github.com/Predidit/Kazumi/issues/2427) | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 41.7k | 🟡 help wanted | 2026-08-04 |  |
+| [iOS版本播放界面侧滑返回](https://github.com/Predidit/Kazumi/issues/2427) | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 41.8k | 🟡 help wanted | 2026-08-04 |  |
 | [Storage access to screen source folder only](https://github.com/AnsahMohammad/shots-studio/issues/203) 💬 1 | [AnsahMohammad/shots-studio](https://github.com/AnsahMohammad/shots-studio) | 685 | 🟢 beginner | 2026-08-03 | [📘 guide](https://github.com/AnsahMohammad/shots-studio/blob/HEAD/CONTRIBUTING.md) |
 | [gif 动态图打开后不会动态显示](https://github.com/fregie/pho/issues/28) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 | [📘 guide](https://github.com/fregie/pho/blob/HEAD/CONTRIBUTING.md) |
 | [希望可以加入收藏功能](https://github.com/fregie/pho/issues/5) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 | [📘 guide](https://github.com/fregie/pho/blob/HEAD/CONTRIBUTING.md) |

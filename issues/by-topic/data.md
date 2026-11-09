@@ -1,8 +1,8 @@
 # Data and databases issues
 
-**309** open issues (166 labeled for beginners) across **91** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
+**308** open issues (166 labeled for beginners) across **90** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
 
-> Updated automatically on **2026-11-08 21:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-09 08:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,8 +10,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [\[Bug\]: 'getAllTaskIds' ignores tasks defined in 'finally' and 'after' blocks](https://github.com/kestra-io/kestra/issues/20667) 💬 6 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30.2k | 🟢 beginner | 2026-11-09 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Refresh interval per panel](https://github.com/grafana/grafana/issues/73434) 💬 44 | [grafana/grafana](https://github.com/grafana/grafana) | 77.8k | 🟡 help wanted | 2026-11-08 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/grafana/grafana/blob/HEAD/CONTRIBUTING.md) |
-| [Add a unit test for KsBreadcrumbColumn](https://github.com/kestra-io/kestra/issues/22300) 💬 5 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 30.2k | 🟢 beginner | 2026-11-08 | [📘 guide](https://github.com/kestra-io/kestra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [control state of individual taskflow in mapped task-group](https://github.com/apache/airflow/issues/40543) 💬 13 | [apache/airflow](https://github.com/apache/airflow) | 47.4k | 🟢 beginner | 2026-11-07 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/airflow/blob/HEAD/CONTRIBUTING.rst) |
 | [Investigate the bottleneck in the search benchmark using toplev](https://github.com/quickwit-oss/tantivy/issues/1003) 💬 4 | [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) | 16.4k | 🟢 beginner | 2026-11-07 |  |
 | [Remove V1 API](https://github.com/paradedb/paradedb/issues/4391) 💬 15 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9.5k | 🟢 beginner | 2026-11-07 | ✍️ CLA · [📘 guide](https://github.com/paradedb/paradedb/blob/HEAD/CONTRIBUTING.md) |
@@ -47,7 +47,6 @@
 | [Geospatial types and GIS support](https://github.com/questdb/questdb/issues/4899) 💬 2 | [questdb/questdb](https://github.com/questdb/questdb) | 17.5k | 🟡 help wanted | 2026-10-28 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/questdb/questdb/blob/HEAD/CONTRIBUTING.md) |
 | [\[yugabyted\] Changing --listen after the cluster is started can cause cluster to fail to start](https://github.com/yugabyte/yugabyte-db/issues/27116) 💬 1 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.7k | 🟢 beginner | 2026-10-28 |  |
 | [\[DocDB\] All rocksdb_block_cache prometheus statistics are wrongly annotated as gauges, should be counters](https://github.com/yugabyte/yugabyte-db/issues/18040) 💬 3 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.7k | 🟢 beginner | 2026-10-27 |  |
-| [Improve OwnedValue Register in vdbe allocations](https://github.com/tursodatabase/turso/issues/1236) 💬 2 | [tursodatabase/turso](https://github.com/tursodatabase/turso) | 25.2k | 🟢 beginner | 2026-10-26 | 🤖 disclose AI use · [📘 guide](https://github.com/tursodatabase/turso/blob/HEAD/CONTRIBUTING.md) |
 | [Add 'cargo-dist' packaging for 'limbo' and 'liblimbo_sqlite3.a'](https://github.com/tursodatabase/turso/issues/162) 💬 4 | [tursodatabase/turso](https://github.com/tursodatabase/turso) | 25.2k | 🟢 beginner | 2026-10-26 | 🤖 disclose AI use · [📘 guide](https://github.com/tursodatabase/turso/blob/HEAD/CONTRIBUTING.md) |
 | [有人知道这个 10/26 17:32:58.635344 00062911 C QRY ERROR get table taosd_stream_failure meta with 0 failed cause of…](https://github.com/taosdata/TDengine/issues/35714) | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-10-26 |  |
 | [Improve docs of DBCore](https://github.com/dexie/Dexie.js/issues/1032) 💬 1 | [dexie/Dexie.js](https://github.com/dexie/Dexie.js) | 14.7k | 🟢 beginner | 2026-10-26 | [📘 guide](https://github.com/dexie/Dexie.js/blob/HEAD/CONTRIBUTING.md) |
@@ -76,6 +75,7 @@
 | [Disabling columnstore does not pause columnstore policies](https://github.com/timescale/timescaledb/issues/8960) 💬 4 | [timescale/timescaledb](https://github.com/timescale/timescaledb) | 23.8k | 🟢 beginner | 2026-10-20 | ✍️ CLA · [📘 guide](https://github.com/timescale/timescaledb/blob/HEAD/CONTRIBUTING.md) |
 | [WAL log entries incomplete in range \[211, 4673\], aligned with snaphotVer:610](https://github.com/taosdata/TDengine/issues/23321) 💬 4 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-10-19 |  |
 | [Enhance Marimo for PWA installation](https://github.com/marimo-team/marimo/issues/4134) 💬 6 | [marimo-team/marimo](https://github.com/marimo-team/marimo) | 23.5k | 🟡 help wanted | 2026-10-19 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/marimo-team/marimo/blob/HEAD/CONTRIBUTING.md) |
+| [DFs received by coordinator are unacked](https://github.com/trinodb/trino/issues/5429) 💬 3 | [trinodb/trino](https://github.com/trinodb/trino) | 13.5k | 🟢 beginner | 2026-10-19 | ✍️ CLA · [📘 guide](https://github.com/trinodb/trino/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Test: Add arbitrary + proptest for serde of various types](https://github.com/risingwavelabs/risingwave/issues/19550) 💬 1 | [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) | 9.4k | 🟢 beginner | 2026-10-19 | ✍️ CLA · [📘 guide](https://github.com/risingwavelabs/risingwave/blob/HEAD/CONTRIBUTING.md) |
 | [Alerting: Improve state history](https://github.com/grafana/grafana/issues/100059) 💬 4 | [grafana/grafana](https://github.com/grafana/grafana) | 77.8k | 🟢 beginner | 2026-10-17 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/grafana/grafana/blob/HEAD/CONTRIBUTING.md) |
 | [myloader connection failures with MariaDB 11.8.6](https://github.com/mydumper/mydumper/issues/2365) 💬 10 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.3k | 🟡 help wanted | 2026-10-16 |  |
@@ -211,4 +211,4 @@
 | [\[FEATURE\] Extract kyuubiClientPrincipal/kyuubiClientKeytab from JDBC connection properties](https://github.com/apache/kyuubi/issues/6689) 💬 1 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-08-31 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/kyuubi/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature Request\] Dark Mode](https://github.com/endoflife-date/endoflife.date/issues/1187) 💬 10 | [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) | 3.4k | 🟢 beginner | 2026-08-28 | [📘 guide](https://github.com/endoflife-date/endoflife.date/blob/HEAD/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 309 on the website.
+Showing the 200 most recently updated. See all 308 on the website.

@@ -1,10 +1,10 @@
 # Julia issues
 
-**53** open issues (40 labeled for beginners) across **16** active Julia projects.
+**52** open issues (39 labeled for beginners) across **16** active Julia projects.
 
 [Julia quickstart](../../languages/julia.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/julia.xml)
 
-> Updated automatically on **2026-11-08 21:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-09 08:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Document Mem.pin more explicitly to make it more findable](https://github.com/JuliaGPU/CUDA.jl/issues/1570) 💬 1 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-11-04 |  |
 | [Roadmap and ideas for Molly.jl development](https://github.com/JuliaMolSim/Molly.jl/issues/2) 💬 53 | [JuliaMolSim/Molly.jl](https://github.com/JuliaMolSim/Molly.jl) | 502 | 🟢 beginner | 2026-10-27 |  |
 | [\[Feature Request\] Determinant Function](https://github.com/JuliaGPU/CUDA.jl/issues/110) 💬 10 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
 | [Support for matrix exp](https://github.com/JuliaGPU/CUDA.jl/issues/168) 💬 1 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
