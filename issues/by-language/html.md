@@ -1,10 +1,10 @@
 # HTML issues
 
-**87** open issues (30 labeled for beginners) across **31** active HTML projects.
+**88** open issues (30 labeled for beginners) across **31** active HTML projects.
 
 [HTML quickstart](../../languages/html-css.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/html.xml)
 
-> Updated automatically on **2026-11-10 14:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-10 23:12 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [\[HELP\] Cannot create Folder on WebDav Server over Reverse Proxy](https://github.com/tobychui/zoraxy/issues/1361) | [tobychui/zoraxy](https://github.com/tobychui/zoraxy) | 5.6k | 🟡 help wanted | 2026-11-10 |  |
 | [\[BUG\] Download Button Suddenly Disappear](https://github.com/EltonChou/TwitterMediaHarvest/issues/382) 💬 23 | [EltonChou/TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) | 1.3k | 🟡 help wanted | 2026-11-09 | [📘 guide](https://github.com/EltonChou/TwitterMediaHarvest/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Marketplace\] Add Resend plugin](https://github.com/ToolJet/ToolJet/issues/18236) 💬 4 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41.2k | 🟡 help wanted | 2026-11-05 | 🤖 disclose AI use · [📘 guide](https://github.com/ToolJet/ToolJet/blob/HEAD/CONTRIBUTING.md) |
 | [emoji request: vegan symbol (Ⓥ) and vegetarian indicator](https://github.com/hfg-gmuend/openmoji/issues/620) 💬 5 | [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) | 4.6k | 🟡 help wanted | 2026-11-05 | [📘 guide](https://github.com/hfg-gmuend/openmoji/blob/HEAD/CONTRIBUTING.md) |
@@ -53,7 +54,7 @@
 | [Confirm new ubuntu-latest GH runner image is fine](https://github.com/mozilla/bedrock/issues/17386) 💬 1 | [mozilla/bedrock](https://github.com/mozilla/bedrock) | 1.3k | 🟡 help wanted | 2026-09-18 | [📘 guide](https://github.com/mozilla/bedrock/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Allow disable generating full mobile navigation tree](https://github.com/imfing/hextra/issues/275) 💬 1 | [imfing/hextra](https://github.com/imfing/hextra) | 2.4k | 🟢 beginner | 2026-09-15 | [📘 guide](https://github.com/imfing/hextra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [输入 【介绍一下html-anything】，导出html单文件出现错误 1. 第一页只展示一半 2. 左右键不起作用 3. 从第二页开始都是黑底空白页 4. 。。。。。。](https://github.com/nexu-io/html-anything/issues/152) 💬 2 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 9.5k | 🟡 help wanted | 2026-09-14 | ✍️ CLA · [📘 guide](https://github.com/nexu-io/html-anything/blob/HEAD/CONTRIBUTING.md) |
-| [\[feat\] no new X chat dm sending?](https://github.com/nirholas/XActions/issues/37) 💬 4 | [nirholas/XActions](https://github.com/nirholas/XActions) | 651 | 🟡 help wanted | 2026-09-14 | [📘 guide](https://github.com/nirholas/XActions/blob/HEAD/CONTRIBUTING.md) |
+| [\[feat\] no new X chat dm sending?](https://github.com/nirholas/XActions/issues/37) 💬 4 | [nirholas/XActions](https://github.com/nirholas/XActions) | 653 | 🟡 help wanted | 2026-09-14 | [📘 guide](https://github.com/nirholas/XActions/blob/HEAD/CONTRIBUTING.md) |
 | [Headscale with reverse proxy Zoraxy not working because allegedly WebSockets are not passing through](https://github.com/tobychui/zoraxy/issues/1012) 💬 9 | [tobychui/zoraxy](https://github.com/tobychui/zoraxy) | 5.6k | 🟡 help wanted | 2026-09-09 |  |
 | [Check for obsoletes](https://github.com/mgaudet/CompilerJobs/issues/83) 💬 5 | [mgaudet/CompilerJobs](https://github.com/mgaudet/CompilerJobs) | 782 | 🟢 beginner | 2026-09-08 |  |
 | [update HTTPProxy status reporting documentation](https://github.com/projectcontour/contour/issues/3144) 💬 2 | [projectcontour/contour](https://github.com/projectcontour/contour) | 4k | 🟢 beginner | 2026-08-30 | 🔏 DCO · [📘 guide](https://github.com/projectcontour/contour/blob/HEAD/CONTRIBUTING.md) |

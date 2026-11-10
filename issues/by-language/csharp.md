@@ -1,10 +1,10 @@
 # C# issues
 
-**259** open issues (76 labeled for beginners) across **80** active C# projects.
+**258** open issues (76 labeled for beginners) across **80** active C# projects.
 
 [C# quickstart](../../languages/csharp.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/csharp.xml)
 
-> Updated automatically on **2026-11-10 14:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-10 23:12 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,6 +13,7 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Buffered FileStream incorrectly reads past end of FileStream, causing IOException on raw disk device streams.](https://github.com/dotnet/runtime/issues/122521) 💬 6 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.4k | 🟡 help wanted | 2026-11-10 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
+| [Credits scroll doesn't work in tall aspect ratio](https://github.com/Revolutionary-Games/Thrive/issues/7474) 💬 3 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.9k | 🟢 beginner | 2026-11-10 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
 | [Freeze processing in EventPipeEventSource if uncaught exception is thrown in callback.](https://github.com/microsoft/perfview/issues/1290) 💬 1 | [microsoft/perfview](https://github.com/microsoft/perfview) | 4.8k | 🟡 help wanted | 2026-11-09 | [📘 guide](https://github.com/microsoft/perfview/blob/HEAD/CONTRIBUTING.md) |
 | [Make editor growth order label font size grow based on camera distance](https://github.com/Revolutionary-Games/Thrive/issues/7480) | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.9k | 🟢 beginner | 2026-11-09 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\]: Option to disable/hide serial verbose during boot](https://github.com/CosmosOS/Cosmos/issues/3391) 💬 3 | [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos) | 3.2k | 🟢 beginner | 2026-11-09 | [📘 guide](https://github.com/CosmosOS/Cosmos/blob/HEAD/CONTRIBUTING.md) |
@@ -44,7 +45,6 @@
 | [Graphics backend negotiation drops the exception message when a context factory throws, so a failed start giv…](https://github.com/unoplatform/uno/issues/26153) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-11-06 | [📘 guide](https://github.com/unoplatform/uno/blob/HEAD/CONTRIBUTING.md) |
 | ['RenderTargetBitmap.RenderAsync' crashes the process from a finalizer when the render size has a zero dimensi…](https://github.com/unoplatform/uno/issues/26150) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-11-06 | [📘 guide](https://github.com/unoplatform/uno/blob/HEAD/CONTRIBUTING.md) |
 | [Add support for 'OAuth2Manager'](https://github.com/unoplatform/uno/issues/19787) 💬 14 | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟡 help wanted | 2026-11-06 | [📘 guide](https://github.com/unoplatform/uno/blob/HEAD/CONTRIBUTING.md) |
-| [Credits scroll doesn't work in tall aspect ratio](https://github.com/Revolutionary-Games/Thrive/issues/7474) | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.9k | 🟢 beginner | 2026-11-06 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
 | [Crash just after loading screen due to 'ERROR: Parameter "tex" is null'](https://github.com/Revolutionary-Games/Thrive/issues/6981) 💬 12 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.9k | 🟡 help wanted | 2026-11-06 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
 | [\[API Proposal\]: ChannelOptions.ProcessingOrder](https://github.com/dotnet/runtime/issues/125923) 💬 4 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.4k | 🟡 help wanted | 2026-11-05 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
 | [Enhancement: create ActorTaskScheduler overload that schedules Task to dispatcher without blocking current ac…](https://github.com/akkadotnet/akka.net/issues/4363) 💬 3 | [akkadotnet/akka.net](https://github.com/akkadotnet/akka.net) | 5.1k | 🟡 help wanted | 2026-11-05 |  |
@@ -213,4 +213,4 @@
 | [Implement cache tagging (RemoveByTagAsync + tagged writes)](https://github.com/FoundatioFx/Foundatio/issues/8) 💬 6 | [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio) | 2.1k | 🟡 help wanted | 2026-08-13 |  |
 | [【可视化】GUI/WebUI 收集](https://github.com/nilaoda/N_m3u8DL-RE/issues/239) 💬 34 | [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) | 9.1k | 🟢 beginner | 2026-08-12 |  |
 
-Showing the 200 most recently updated. See all 259 on the website.
+Showing the 200 most recently updated. See all 258 on the website.
