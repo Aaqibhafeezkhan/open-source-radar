@@ -4,7 +4,7 @@
 
 [PowerShell quickstart](../../languages/powershell.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/powershell.xml)
 
-> Updated automatically on **2026-11-09 14:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-10 01:32 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -24,7 +24,7 @@
 | [SharePoint Online Provider: Support Dynamic Parameters - Part 4](https://github.com/cisagov/ScubaGear/issues/2532) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
 | [AAD Provider: Support Dynamic Parameters - Part 2](https://github.com/cisagov/ScubaGear/issues/2530) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\] - "Add Prevent automatic download of applications associated with device metadata" to Windows User…](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline/issues/233) 💬 3 | [SkipToTheEndpoint/OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline) | 1.6k | 🟡 help wanted | 2026-11-03 |  |
-| [Request: DNS Plugin for Network Solutions](https://github.com/rmbolger/Posh-ACME/issues/710) 💬 1 | [rmbolger/Posh-ACME](https://github.com/rmbolger/Posh-ACME) | 936 | 🟡 help wanted | 2026-11-03 | [📘 guide](https://github.com/rmbolger/Posh-ACME/blob/HEAD/CONTRIBUTING.md) |
+| [Request: DNS Plugin for Network Solutions](https://github.com/rmbolger/Posh-ACME/issues/710) 💬 1 | [rmbolger/Posh-ACME](https://github.com/rmbolger/Posh-ACME) | 937 | 🟡 help wanted | 2026-11-03 | [📘 guide](https://github.com/rmbolger/Posh-ACME/blob/HEAD/CONTRIBUTING.md) |
 | [Proposal: Create a new Defender policy to disable PowerShell access to inboxes from non-administrative users](https://github.com/cisagov/ScubaGear/issues/1418) 💬 2 | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-10-28 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
 | [Entra section 7 policies can produce inaccurate results if two privileged users have the same name](https://github.com/cisagov/ScubaGear/issues/2541) 💬 1 | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-10-27 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
 | [Enhance UpdateCachedConditionalAccessPolicyByName functional test helper to make Entra tests more resilient](https://github.com/cisagov/ScubaGear/issues/2191) 💬 4 | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-10-19 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |

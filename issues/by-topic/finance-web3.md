@@ -2,7 +2,7 @@
 
 **40** open issues (16 labeled for beginners) across **10** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `cryptocurrenc`.
 
-> Updated automatically on **2026-11-09 14:44 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-10 01:32 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,8 +10,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [\[Bug\]: ios - export budget does not work](https://github.com/actualbudget/actual/issues/9441) 💬 2 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.1k | 🟡 help wanted | 2026-11-09 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [Syncing archive node from era files](https://github.com/ethereum/go-ethereum/issues/35354) 💬 5 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 51.5k | 🟡 help wanted | 2026-11-08 | [📘 guide](https://github.com/ethereum/go-ethereum/blob/HEAD/.github/CONTRIBUTING.md) |
-| [\[Bug\]: ios - export budget does not work](https://github.com/actualbudget/actual/issues/9441) 💬 1 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.1k | 🟡 help wanted | 2026-11-08 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feat\] ios - native keyboard support](https://github.com/actualbudget/actual/issues/9449) | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.1k | 🟡 help wanted | 2026-11-07 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[TechDebt\] ios - ci pipeline for testing](https://github.com/actualbudget/actual/issues/9447) 💬 1 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.1k | 🟡 help wanted | 2026-11-07 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feat\] ios - faceid / passcode / biometrics](https://github.com/actualbudget/actual/issues/9444) | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.1k | 🟡 help wanted | 2026-11-07 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
@@ -46,7 +46,7 @@
 | [Provide better message for transactionAPI](https://github.com/saleor/saleor/issues/13951) 💬 5 | [saleor/saleor](https://github.com/saleor/saleor) | 23.5k | 🟢 beginner | 2026-07-01 | [📘 guide](https://github.com/saleor/saleor/blob/HEAD/CONTRIBUTING.md) |
 | [parseLedgerHashes accepts negative int then throws on asUInt conversion](https://github.com/XRPLF/rippled/issues/6768) 💬 1 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-06-26 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |
 | [Missing type validation on public_key parameter in manifest handler](https://github.com/XRPLF/rippled/issues/6794) 💬 1 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-06-26 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |
-| [Notify user, when response of Hub Authentication takes a long time](https://github.com/cryptomator/cryptomator/issues/3162) 💬 3 | [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) | 16.5k | 🟢 beginner | 2026-06-24 | [📘 guide](https://github.com/cryptomator/cryptomator/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Notify user, when response of Hub Authentication takes a long time](https://github.com/cryptomator/cryptomator/issues/3162) 💬 3 | [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) | 16.5k | 🟢 beginner | 2026-06-24 |  |
 | [AccountLines: missing type validation on peer parameter](https://github.com/XRPLF/rippled/issues/6760) 💬 1 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-06-22 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |
 | [\[FR\] RTL BiDi Support](https://github.com/PrivateBin/PrivateBin/issues/1849) 💬 1 | [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | 8.7k | 🟡 help wanted | 2026-06-04 | 🤖 disclose AI use · [📘 guide](https://github.com/PrivateBin/PrivateBin/blob/HEAD/.github/CONTRIBUTING.md) |
 | [api_version as large unsigned int causes exception instead of clean rejection](https://github.com/XRPLF/rippled/issues/6776) 💬 1 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-05-15 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |
