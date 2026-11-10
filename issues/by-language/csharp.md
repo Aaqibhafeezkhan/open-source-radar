@@ -1,10 +1,10 @@
 # C# issues
 
-**257** open issues (75 labeled for beginners) across **80** active C# projects.
+**259** open issues (76 labeled for beginners) across **80** active C# projects.
 
 [C# quickstart](../../languages/csharp.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/csharp.xml)
 
-> Updated automatically on **2026-11-10 01:32 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-10 14:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Buffered FileStream incorrectly reads past end of FileStream, causing IOException on raw disk device streams.](https://github.com/dotnet/runtime/issues/122521) 💬 6 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.4k | 🟡 help wanted | 2026-11-10 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
 | [Freeze processing in EventPipeEventSource if uncaught exception is thrown in callback.](https://github.com/microsoft/perfview/issues/1290) 💬 1 | [microsoft/perfview](https://github.com/microsoft/perfview) | 4.8k | 🟡 help wanted | 2026-11-09 | [📘 guide](https://github.com/microsoft/perfview/blob/HEAD/CONTRIBUTING.md) |
 | [Make editor growth order label font size grow based on camera distance](https://github.com/Revolutionary-Games/Thrive/issues/7480) | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.9k | 🟢 beginner | 2026-11-09 | [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\]: Option to disable/hide serial verbose during boot](https://github.com/CosmosOS/Cosmos/issues/3391) 💬 3 | [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos) | 3.2k | 🟢 beginner | 2026-11-09 | [📘 guide](https://github.com/CosmosOS/Cosmos/blob/HEAD/CONTRIBUTING.md) |
@@ -58,6 +59,7 @@
 | [TextHighlighters are drawn on the wrong characters in RichTextBlockOverflow columns (Skia)](https://github.com/unoplatform/uno/issues/25466) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-11-02 | [📘 guide](https://github.com/unoplatform/uno/blob/HEAD/CONTRIBUTING.md) |
 | [Language.CurrentInputMethodLanguageTag throws NotImplementedException on Skia desktop](https://github.com/unoplatform/uno/issues/25451) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-11-02 | [📘 guide](https://github.com/unoplatform/uno/blob/HEAD/CONTRIBUTING.md) |
 | [\[6.7\] NavigationView throws NullReferenceException in UpdateTitleBarPadding when Content is replaced before t…](https://github.com/unoplatform/uno/issues/24925) 💬 1 | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-11-02 | [📘 guide](https://github.com/unoplatform/uno/blob/HEAD/CONTRIBUTING.md) |
+| [Win32 Skia head never raises UISettings.TextScaleFactorChanged, so text size changes need an app restart](https://github.com/unoplatform/uno/issues/24900) 💬 1 | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-11-02 | [📘 guide](https://github.com/unoplatform/uno/blob/HEAD/CONTRIBUTING.md) |
 | [Can't export my model from unity](https://github.com/vrm-c/UniVRM/issues/2836) 💬 3 | [vrm-c/UniVRM](https://github.com/vrm-c/UniVRM) | 3.4k | 🟡 help wanted | 2026-11-02 |  |
 | [Created System.ServiceProcess Service fail on Win Server](https://github.com/dotnet/runtime/issues/120163) 💬 2 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.4k | 🟡 help wanted | 2026-11-01 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
 | [dotnet sln: support for custom configurations](https://github.com/dotnet/sdk/issues/10359) 💬 11 | [dotnet/sdk](https://github.com/dotnet/sdk) | 3.2k | 🟡 help wanted | 2026-11-01 |  |
@@ -210,7 +212,5 @@
 | [Feature: Use IPTC Location metadata fields instead of reverse geocoding addresses](https://github.com/files-community/Files/issues/10472) 💬 2 | [files-community/Files](https://github.com/files-community/Files) | 46.6k | 🟢 beginner | 2026-08-14 | [📘 guide](https://github.com/files-community/Files/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Implement cache tagging (RemoveByTagAsync + tagged writes)](https://github.com/FoundatioFx/Foundatio/issues/8) 💬 6 | [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio) | 2.1k | 🟡 help wanted | 2026-08-13 |  |
 | [【可视化】GUI/WebUI 收集](https://github.com/nilaoda/N_m3u8DL-RE/issues/239) 💬 34 | [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) | 9.1k | 🟢 beginner | 2026-08-12 |  |
-| [macOS: Cannot open image by double-click when path contains special characters like \[\]&lt;&gt;](https://github.com/Ruben2776/PicView/issues/336) 💬 1 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.8k | 🟡 help wanted | 2026-08-10 | [📘 guide](https://github.com/Ruben2776/PicView/blob/HEAD/CONTRIBUTING.md) |
-| [Illustrator (.ai) Files?](https://github.com/Ruben2776/PicView/issues/339) | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.8k | 🟡 help wanted | 2026-08-06 | [📘 guide](https://github.com/Ruben2776/PicView/blob/HEAD/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 257 on the website.
+Showing the 200 most recently updated. See all 259 on the website.
