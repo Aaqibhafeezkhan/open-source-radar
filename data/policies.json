@@ -9209,7 +9209,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-10-06T21:51:44+00:00"
+    "scanned_at": "2026-11-11T13:28:53+00:00"
   },
   "WordPress/gutenberg": {
     "ai": "disclose",
@@ -14664,6 +14664,16 @@
     "files": [],
     "scanned_at": "2026-11-05T23:22:46+00:00"
   },
+  "cogwheel0/luci-mobile": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-11-11T13:28:53+00:00"
+  },
   "coil-kt/coil": {
     "ai": "none",
     "ai_file": null,
@@ -14673,7 +14683,7 @@
       ".github/pull_request_template.md",
       "AGENTS.md"
     ],
-    "scanned_at": "2026-10-22T10:31:49+00:00"
+    "scanned_at": "2026-11-11T13:28:53+00:00"
   },
   "coliff/dark-mode-switch": {
     "ai": "none",
@@ -16884,7 +16894,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-02T14:21:03+00:00"
+    "scanned_at": "2026-11-11T13:28:53+00:00"
   },
   "dotnet/runtime": {
     "ai": "none",
@@ -23354,7 +23364,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-03T00:38:58+00:00"
+    "scanned_at": "2026-11-11T13:28:53+00:00"
   },
   "jaywcjlove/awesome-mac": {
     "ai": "policy",
@@ -24829,7 +24839,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-03T13:38:44+00:00"
+    "scanned_at": "2026-11-11T13:28:53+00:00"
   },
   "kubernetes/website": {
     "ai": "none",
@@ -27645,7 +27655,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-03T13:38:49+00:00"
+    "scanned_at": "2026-11-11T13:28:54+00:00"
   },
   "microsoft/markitdown": {
     "ai": "none",
@@ -27686,7 +27696,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-03T00:39:21+00:00"
+    "scanned_at": "2026-11-11T13:28:54+00:00"
   },
   "microsoft/msquic": {
     "ai": "none",
@@ -31680,7 +31690,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-26T22:16:31+00:00"
+    "scanned_at": "2026-11-11T13:28:54+00:00"
   },
   "pardeike/Harmony": {
     "ai": "none",
