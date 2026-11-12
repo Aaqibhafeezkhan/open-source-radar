@@ -339,7 +339,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-27T21:25:17+00:00"
+    "scanned_at": "2026-11-12T14:32:56+00:00"
   },
   "ActivityWatch/activitywatch": {
     "ai": "none",
@@ -2607,7 +2607,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-29T12:19:26+00:00"
+    "scanned_at": "2026-11-12T14:32:56+00:00"
   },
   "FaridSafi/react-native-gifted-chat": {
     "ai": "none",
@@ -3706,6 +3706,16 @@
     "dco": false,
     "files": [],
     "scanned_at": "2026-10-25T19:44:42+00:00"
+  },
+  "HydeYYHH/Litube": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-11-12T14:32:56+00:00"
   },
   "IHP-GmbH/IHP-Open-PDK": {
     "ai": "none",
@@ -5779,6 +5789,17 @@
     "dco": false,
     "files": [],
     "scanned_at": "2026-10-27T10:46:48+00:00"
+  },
+  "NVIDIA/nccl": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": true,
+    "files": [
+      ".github/pull_request_template.md",
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-11-12T14:32:56+00:00"
   },
   "Nandanrmenon/florid": {
     "ai": "none",
@@ -9827,7 +9848,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-26T11:20:18+00:00"
+    "scanned_at": "2026-11-12T14:32:56+00:00"
   },
   "agentscope-ai/agentscope": {
     "ai": "policy",
@@ -22675,7 +22696,7 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-27T11:04:22+00:00"
+    "scanned_at": "2026-11-12T14:32:56+00:00"
   },
   "imgproxy/imgproxy": {
     "ai": "none",
@@ -31578,6 +31599,17 @@
     ],
     "scanned_at": "2026-10-26T22:16:18+00:00"
   },
+  "pakerwreah/Calendr": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [
+      "AGENTS.md",
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-11-12T14:32:57+00:00"
+  },
   "palantir/blueprint": {
     "ai": "none",
     "ai_file": null,
@@ -35716,7 +35748,7 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-26T22:23:32+00:00"
+    "scanned_at": "2026-11-12T14:32:57+00:00"
   },
   "semaphoreio/semaphore": {
     "ai": "none",
@@ -41529,7 +41561,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-27T11:26:59+00:00"
+    "scanned_at": "2026-11-12T14:32:57+00:00"
   },
   "xfangfang/wiliwili": {
     "ai": "none",
