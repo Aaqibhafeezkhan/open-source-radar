@@ -1,8 +1,8 @@
 # Data and databases issues
 
-**319** open issues (168 labeled for beginners) across **94** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
+**317** open issues (168 labeled for beginners) across **93** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
 
-> Updated automatically on **2026-11-12 14:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-12 23:29 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,7 +13,7 @@
 | [多个纵向分组列导致报表导出性能很差(大约20多个列需要纵向分组)](https://github.com/jeecgboot/jimureport/issues/4846) 💬 1 | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.6k | 🟡 help wanted | 2026-11-12 |  |
 | [SIGSEGV (exit 134) in bundled 'rightstr()' when the length argument is a large negative number](https://github.com/xerial/sqlite-jdbc/issues/1508) | [xerial/sqlite-jdbc](https://github.com/xerial/sqlite-jdbc) | 3.3k | 🟡 help wanted | 2026-11-12 | [📘 guide](https://github.com/xerial/sqlite-jdbc/blob/HEAD/CONTRIBUTING.md) |
 | [\[BUG\] Concurrent --exec workers can abort with "pid not found"](https://github.com/mydumper/mydumper/issues/2366) 💬 4 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.3k | 🟡 help wanted | 2026-11-12 |  |
-| [Table: Allow pill backgrounds to match configured value mapping colors](https://github.com/grafana/grafana/issues/137608) 💬 1 | [grafana/grafana](https://github.com/grafana/grafana) | 77.9k | 🟡 help wanted | 2026-11-11 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/grafana/grafana/blob/HEAD/CONTRIBUTING.md) |
+| [Hub Contributions Ideas](https://github.com/apache/hamilton/issues/559) 💬 3 | [apache/hamilton](https://github.com/apache/hamilton) | 2.6k | 🟢 beginner | 2026-11-12 | ✍️ CLA · [📘 guide](https://github.com/apache/hamilton/blob/HEAD/CONTRIBUTING.md) |
 | [Text v2: Avoid eager fmt formatting with lazy getters](https://github.com/grafana/grafana/issues/137610) | [grafana/grafana](https://github.com/grafana/grafana) | 77.9k | 🟡 help wanted | 2026-11-11 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/grafana/grafana/blob/HEAD/CONTRIBUTING.md) |
 | [函数计算字段选择优化建议](https://github.com/jeecgboot/jimureport/issues/4842) 💬 1 | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.6k | 🟡 help wanted | 2026-11-11 |  |
 | [Add typing to chronicler](https://github.com/chaoss/grimoirelab/issues/896) | [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab) | 641 | 🟢 beginner | 2026-11-11 | [📘 guide](https://github.com/chaoss/grimoirelab/blob/HEAD/CONTRIBUTING.md) |
@@ -209,6 +209,6 @@
 | [include git commit id in status information and artifact README](https://github.com/yacy/yacy_search_server/issues/466) 💬 1 | [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) | 4.1k | 🟢 beginner | 2026-09-06 | [📘 guide](https://github.com/yacy/yacy_search_server/blob/HEAD/CONTRIBUTING.md) |
 | [Improve discovery for F# explicit fields](https://github.com/dotnet/efcore/issues/12923) 💬 3 | [dotnet/efcore](https://github.com/dotnet/efcore) | 14.8k | 🟡 help wanted | 2026-09-05 | ✍️ CLA · [📘 guide](https://github.com/dotnet/efcore/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Webhook source: support HTTP GET verification handshake for providers like Meta/Facebook, WhatsApp, Instagram](https://github.com/risingwavelabs/risingwave/issues/26236) 💬 2 | [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) | 9.4k | 🟢 beginner | 2026-09-05 | ✍️ CLA · [📘 guide](https://github.com/risingwavelabs/risingwave/blob/HEAD/CONTRIBUTING.md) |
-| [Refresh CHYT benchmark results](https://github.com/ClickHouse/ClickBench/issues/1459) | [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) | 1.2k | 🟡 help wanted | 2026-09-03 |  |
+| [Style Issues caused by RTL](https://github.com/directus/directus/issues/25599) 💬 6 | [directus/directus](https://github.com/directus/directus) | 38.7k | 🟡 help wanted | 2026-09-02 |  |
 
-Showing the 200 most recently updated. See all 319 on the website.
+Showing the 200 most recently updated. See all 317 on the website.
