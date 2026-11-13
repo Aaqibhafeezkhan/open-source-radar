@@ -1,10 +1,10 @@
 # PowerShell issues
 
-**22** open issues (14 labeled for beginners) across **7** active PowerShell projects.
+**21** open issues (13 labeled for beginners) across **7** active PowerShell projects.
 
 [PowerShell quickstart](../../languages/powershell.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/powershell.xml)
 
-> Updated automatically on **2026-11-12 23:29 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-13 13:56 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -28,7 +28,6 @@
 | [Entra section 7 policies can produce inaccurate results if two privileged users have the same name](https://github.com/cisagov/ScubaGear/issues/2541) 💬 1 | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-10-27 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
 | [Enhance UpdateCachedConditionalAccessPolicyByName functional test helper to make Entra tests more resilient](https://github.com/cisagov/ScubaGear/issues/2191) 💬 4 | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-10-19 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\] - Missing auditRuleInformation causes mismatch with monitoring tools](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline/issues/236) 💬 2 | [SkipToTheEndpoint/OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline) | 1.6k | 🟡 help wanted | 2026-10-07 |  |
-| [ScubaGear progress bar shows incorrect product count](https://github.com/cisagov/ScubaGear/issues/1893) 💬 2 | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
 | [Investigate Rego policy evaluation via WASM](https://github.com/cisagov/ScubaGear/issues/891) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-09-08 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
 | [Add 'MEP_MachineVariables' CRED technique](https://github.com/subat0mik/Misconfiguration-Manager/issues/25) 💬 1 | [subat0mik/Misconfiguration-Manager](https://github.com/subat0mik/Misconfiguration-Manager) | 1.2k | 🟢 beginner | 2026-08-28 | [📘 guide](https://github.com/subat0mik/Misconfiguration-Manager/blob/HEAD/CONTRIBUTING.md) |
 | [\[Work Item\] Check TLS settings against any computer](https://github.com/microsoft/CSS-Exchange/issues/1738) 💬 1 | [microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange) | 1.3k | 🟢 beginner | 2026-08-07 | [📘 guide](https://github.com/microsoft/CSS-Exchange/blob/HEAD/CONTRIBUTING.md) |

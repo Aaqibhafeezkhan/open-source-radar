@@ -709,7 +709,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "AGENTS.md"
     ],
-    "scanned_at": "2026-11-05T23:22:45+00:00"
+    "scanned_at": "2026-11-13T13:49:29+00:00"
   },
   "ArduPilot/ardupilot": {
     "ai": "disclose",
@@ -721,7 +721,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "AGENTS.md"
     ],
-    "scanned_at": "2026-11-05T23:22:45+00:00"
+    "scanned_at": "2026-11-13T13:49:29+00:00"
   },
   "Arindam200/awesome-ai-apps": {
     "ai": "none",
@@ -733,7 +733,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-05T23:22:45+00:00"
+    "scanned_at": "2026-11-13T13:49:29+00:00"
   },
   "Arize-ai/phoenix": {
     "ai": "none",
@@ -2303,7 +2303,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-11T11:30:44+00:00"
+    "scanned_at": "2026-11-13T13:49:29+00:00"
   },
   "EdgeTX/edgetx": {
     "ai": "none",
@@ -8271,7 +8271,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-05T23:22:45+00:00"
+    "scanned_at": "2026-11-13T13:49:29+00:00"
   },
   "TeamAmaze/AmazeFileManager": {
     "ai": "none",
@@ -14720,7 +14720,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-05T23:22:46+00:00"
+    "scanned_at": "2026-11-13T13:49:29+00:00"
   },
   "cogwheel0/luci-mobile": {
     "ai": "none",
@@ -20981,7 +20981,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-10T11:41:31+00:00"
+    "scanned_at": "2026-11-13T13:49:31+00:00"
   },
   "googlemaps/android-maps-compose": {
     "ai": "policy",
@@ -23575,7 +23575,7 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-05T23:22:46+00:00"
+    "scanned_at": "2026-11-13T13:49:31+00:00"
   },
   "jellyfin/jellyfin-vue": {
     "ai": "none",
@@ -23669,7 +23669,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-05T23:22:46+00:00"
+    "scanned_at": "2026-11-13T13:49:31+00:00"
   },
   "jez500/pricebuddy": {
     "ai": "none",
@@ -24024,7 +24024,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-05T23:22:46+00:00"
+    "scanned_at": "2026-11-13T13:49:31+00:00"
   },
   "jtablesaw/tablesaw": {
     "ai": "none",
@@ -24464,7 +24464,7 @@
       ".github/pull_request_template.md",
       "AGENTS.md"
     ],
-    "scanned_at": "2026-11-05T13:58:33+00:00"
+    "scanned_at": "2026-11-13T13:49:31+00:00"
   },
   "keycloak/keycloak": {
     "ai": "disclose",
@@ -25000,6 +25000,18 @@
     ],
     "scanned_at": "2026-11-10T23:06:00+00:00"
   },
+  "kylecorry31/Trail-Sense": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [
+      ".github/pull_request_template.md",
+      "AGENTS.md",
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-11-13T13:49:31+00:00"
+  },
   "kysely-org/kysely": {
     "ai": "restricted",
     "ai_file": "AGENTS.md",
@@ -25451,7 +25463,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-05T23:22:46+00:00"
+    "scanned_at": "2026-11-13T13:49:34+00:00"
   },
   "lbjlaq/Antigravity-Manager": {
     "ai": "disclose",
@@ -25963,7 +25975,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-05T23:22:46+00:00"
+    "scanned_at": "2026-11-13T13:49:34+00:00"
   },
   "livereload/livereload-js": {
     "ai": "none",
@@ -25979,7 +25991,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-05T23:22:48+00:00"
+    "scanned_at": "2026-11-13T13:49:34+00:00"
   },
   "lldap/lldap": {
     "ai": "none",
@@ -25989,7 +26001,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-05T23:22:48+00:00"
+    "scanned_at": "2026-11-13T13:49:34+00:00"
   },
   "llm-d/llm-d": {
     "ai": "disclose",
@@ -28063,7 +28075,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-05T23:22:48+00:00"
+    "scanned_at": "2026-11-13T13:49:34+00:00"
   },
   "miroiu/nodify": {
     "ai": "none",
@@ -28138,7 +28150,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-05T23:22:48+00:00"
+    "scanned_at": "2026-11-13T13:49:34+00:00"
   },
   "mklement0/fileicon": {
     "ai": "none",
@@ -30784,7 +30796,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-25T20:09:20+00:00"
+    "scanned_at": "2026-11-13T13:49:38+00:00"
   },
   "openbq-org/OpenBB": {
     "ai": "none",
@@ -32382,7 +32394,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-26T22:17:19+00:00"
+    "scanned_at": "2026-11-13T13:49:38+00:00"
   },
   "plasma-umass/scalene": {
     "ai": "none",
@@ -33983,6 +33995,14 @@
       "CONTRIBUTING.md"
     ],
     "scanned_at": "2026-10-26T22:19:39+00:00"
+  },
+  "red-data-tools/pycall.rb": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [],
+    "scanned_at": "2026-11-13T13:49:38+00:00"
   },
   "redis/ioredis": {
     "ai": "none",
@@ -36964,7 +36984,7 @@
     "files": [
       ".github/PULL_REQUEST_TEMPLATE.md"
     ],
-    "scanned_at": "2026-11-05T13:58:33+00:00"
+    "scanned_at": "2026-11-13T13:49:38+00:00"
   },
   "spring-cloud/spring-cloud-gateway": {
     "ai": "none",
@@ -39817,7 +39837,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-05T23:22:48+00:00"
+    "scanned_at": "2026-11-13T13:49:38+00:00"
   },
   "uken/fluent-plugin-elasticsearch": {
     "ai": "none",
@@ -39837,7 +39857,7 @@
     "files": [
       ".github/PULL_REQUEST_TEMPLATE.md"
     ],
-    "scanned_at": "2026-11-05T23:22:48+00:00"
+    "scanned_at": "2026-11-13T13:49:38+00:00"
   },
   "ultralytics/yolov5": {
     "ai": "none",
@@ -40836,6 +40856,14 @@
       ".github/pull_request_template.md"
     ],
     "scanned_at": "2026-10-27T22:04:56+00:00"
+  },
+  "wasi-master/wmkeyboard": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [],
+    "scanned_at": "2026-11-13T13:49:39+00:00"
   },
   "wasm-bindgen/wasm-bindgen": {
     "ai": "none",
