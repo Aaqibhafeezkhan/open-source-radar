@@ -5334,7 +5334,7 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-06T13:37:26+00:00"
+    "scanned_at": "2026-11-13T23:17:52+00:00"
   },
   "MarlinFirmware/Configurations": {
     "ai": "none",
@@ -5733,7 +5733,7 @@
       "CONTRIBUTING.md",
       "docs/CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-03T13:38:14+00:00"
+    "scanned_at": "2026-11-13T23:17:52+00:00"
   },
   "NVIDIA/OpenShell": {
     "ai": "disclose",
@@ -5941,7 +5941,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-06T13:37:26+00:00"
+    "scanned_at": "2026-11-13T23:17:52+00:00"
   },
   "NirmalScaria/le-git-graph": {
     "ai": "none",
@@ -5962,7 +5962,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-06T13:37:26+00:00"
+    "scanned_at": "2026-11-13T23:17:52+00:00"
   },
   "NixOS/nix.dev": {
     "ai": "none",
@@ -5993,7 +5993,7 @@
       ".github/CONTRIBUTING.md",
       ".github/PULL_REQUEST_TEMPLATE.md"
     ],
-    "scanned_at": "2026-11-06T13:37:26+00:00"
+    "scanned_at": "2026-11-13T23:17:52+00:00"
   },
   "Notsfsssf/pixez-flutter": {
     "ai": "none",
@@ -6021,7 +6021,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-06T13:37:26+00:00"
+    "scanned_at": "2026-11-13T23:17:52+00:00"
   },
   "NuGetPackageExplorer/NuGetPackageExplorer": {
     "ai": "none",
@@ -6869,7 +6869,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-25T19:47:56+00:00"
+    "scanned_at": "2026-11-13T23:17:53+00:00"
   },
   "PyO3/maturin": {
     "ai": "none",
@@ -7997,7 +7997,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-28T22:25:09+00:00"
+    "scanned_at": "2026-11-13T23:17:53+00:00"
   },
   "SuiteCRM/SuiteCRM": {
     "ai": "none",
@@ -8381,7 +8381,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-06T13:37:27+00:00"
+    "scanned_at": "2026-11-13T23:17:53+00:00"
   },
   "TencentCloud/CubeSandbox": {
     "ai": "disclose",
@@ -11942,7 +11942,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-06T13:37:27+00:00"
+    "scanned_at": "2026-11-13T23:17:53+00:00"
   },
   "aspnet-contrib/AspNet.Security.OAuth.Providers": {
     "ai": "none",
@@ -13001,7 +13001,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-05T13:58:29+00:00"
+    "scanned_at": "2026-11-13T23:17:53+00:00"
   },
   "bloomberg/memray": {
     "ai": "none",
@@ -14784,7 +14784,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-06T13:37:27+00:00"
+    "scanned_at": "2026-11-13T23:17:53+00:00"
   },
   "com-lihaoyi/mill": {
     "ai": "none",
@@ -16940,7 +16940,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-26T11:28:16+00:00"
+    "scanned_at": "2026-11-13T23:17:55+00:00"
   },
   "dotnet/roslyn": {
     "ai": "none",
@@ -18849,7 +18849,7 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-06T13:37:27+00:00"
+    "scanned_at": "2026-11-13T23:17:55+00:00"
   },
   "felangel/bloc": {
     "ai": "none",
@@ -18860,7 +18860,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-06T13:37:27+00:00"
+    "scanned_at": "2026-11-13T23:17:55+00:00"
   },
   "felddy/foundryvtt-docker": {
     "ai": "none",
@@ -18889,7 +18889,7 @@
       ".github/CONTRIBUTING.md",
       ".github/PULL_REQUEST_TEMPLATE.md"
     ],
-    "scanned_at": "2026-11-06T13:37:27+00:00"
+    "scanned_at": "2026-11-13T23:17:55+00:00"
   },
   "fengyuanchen/cropperjs": {
     "ai": "none",
@@ -21939,7 +21939,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-03T00:38:48+00:00"
+    "scanned_at": "2026-11-13T23:17:55+00:00"
   },
   "hfg-gmuend/openmoji": {
     "ai": "none",
@@ -22365,7 +22365,7 @@
       ".github/CONTRIBUTING.md",
       "AGENTS.md"
     ],
-    "scanned_at": "2026-11-06T13:37:28+00:00"
+    "scanned_at": "2026-11-13T23:17:55+00:00"
   },
   "huynhsontung/Screenbox": {
     "ai": "policy",
@@ -24486,7 +24486,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-03T20:23:11+00:00"
+    "scanned_at": "2026-11-13T23:17:58+00:00"
   },
   "khoj-ai/khoj": {
     "ai": "none",
@@ -25610,7 +25610,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-26T22:08:03+00:00"
+    "scanned_at": "2026-11-13T23:17:58+00:00"
   },
   "libgdx/libgdx": {
     "ai": "none",
@@ -26166,7 +26166,7 @@
     "files": [
       ".github/pull_request_template.md"
     ],
-    "scanned_at": "2026-11-06T13:37:28+00:00"
+    "scanned_at": "2026-11-13T23:17:58+00:00"
   },
   "lovell/sharp": {
     "ai": "policy",
@@ -26204,7 +26204,7 @@
     "files": [
       "AGENTS.md"
     ],
-    "scanned_at": "2026-11-06T13:37:28+00:00"
+    "scanned_at": "2026-11-13T23:17:58+00:00"
   },
   "luanti-org/luanti": {
     "ai": "disclose",
@@ -26215,7 +26215,7 @@
       ".github/CONTRIBUTING.md",
       ".github/PULL_REQUEST_TEMPLATE.md"
     ],
-    "scanned_at": "2026-11-06T13:37:28+00:00"
+    "scanned_at": "2026-11-13T23:17:58+00:00"
   },
   "luanti-org/minetest_game": {
     "ai": "none",
@@ -26223,7 +26223,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-06T13:37:28+00:00"
+    "scanned_at": "2026-11-13T23:17:58+00:00"
   },
   "luarocks/luarocks": {
     "ai": "none",
@@ -28168,7 +28168,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-06T13:37:31+00:00"
+    "scanned_at": "2026-11-13T23:18:00+00:00"
   },
   "ml-explore/mlx-swift-examples": {
     "ai": "none",
@@ -33213,7 +33213,20 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "AGENTS.md"
     ],
-    "scanned_at": "2026-10-27T21:56:20+00:00"
+    "scanned_at": "2026-11-13T23:18:00+00:00"
+  },
+  "pyrefly-org/pyrefly": {
+    "ai": "policy",
+    "ai_file": "CONTRIBUTING.md",
+    "cla": true,
+    "dco": false,
+    "files": [
+      ".github/pull_request_template.md",
+      "AGENTS.md",
+      "AI_POLICY.md",
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-11-13T23:18:00+00:00"
   },
   "pystardust/ani-cli": {
     "ai": "policy",
@@ -33965,7 +33978,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-06T13:37:31+00:00"
+    "scanned_at": "2026-11-13T23:18:00+00:00"
   },
   "recloudstream/cloudstream": {
     "ai": "none",
@@ -34983,7 +34996,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-06T13:37:31+00:00"
+    "scanned_at": "2026-11-13T23:18:00+00:00"
   },
   "runelite/runelite": {
     "ai": "none",
@@ -35021,7 +35034,7 @@
       "AI_POLICY.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-06T13:37:31+00:00"
+    "scanned_at": "2026-11-13T23:18:00+00:00"
   },
   "rust-lang/rust-clippy": {
     "ai": "disclose",
@@ -35661,7 +35674,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-06T13:37:32+00:00"
+    "scanned_at": "2026-11-13T23:18:02+00:00"
   },
   "scinfu/SwiftSoup": {
     "ai": "none",
@@ -36475,7 +36488,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-06T13:37:32+00:00"
+    "scanned_at": "2026-11-13T23:18:02+00:00"
   },
   "slimphp/Slim": {
     "ai": "none",
@@ -38625,7 +38638,7 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-06T13:37:32+00:00"
+    "scanned_at": "2026-11-13T23:18:02+00:00"
   },
   "thheller/shadow-cljs": {
     "ai": "none",
@@ -39940,7 +39953,7 @@
     "files": [
       ".github/pull_request_template.md"
     ],
-    "scanned_at": "2026-10-27T11:25:13+00:00"
+    "scanned_at": "2026-11-13T23:18:02+00:00"
   },
   "unitycatalog/unitycatalog": {
     "ai": "disclose",
@@ -40193,7 +40206,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-06T13:37:32+00:00"
+    "scanned_at": "2026-11-13T23:18:02+00:00"
   },
   "vapor/vapor": {
     "ai": "restricted",
@@ -40788,7 +40801,7 @@
     "files": [
       "AGENTS.md"
     ],
-    "scanned_at": "2026-11-06T13:37:33+00:00"
+    "scanned_at": "2026-11-13T23:18:02+00:00"
   },
   "walkor/webman": {
     "ai": "none",

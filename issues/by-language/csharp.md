@@ -1,10 +1,10 @@
 # C# issues
 
-**259** open issues (79 labeled for beginners) across **80** active C# projects.
+**260** open issues (79 labeled for beginners) across **81** active C# projects.
 
 [C# quickstart](../../languages/csharp.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/csharp.xml)
 
-> Updated automatically on **2026-11-13 13:56 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-13 23:24 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,8 +12,10 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Buffered FileStream incorrectly reads past end of FileStream, causing IOException on raw disk device streams.](https://github.com/dotnet/runtime/issues/122521) 💬 7 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.4k | 🟡 help wanted | 2026-11-13 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
 | [Update all possible %result% text messages/errors/warning with quotation marks (") to single quotation marks…](https://github.com/duplicati/duplicati/issues/2493) 💬 1 | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | 🟡 help wanted | 2026-11-13 |  |
 | [CsProjNativeAotToolchain failed when using .NET 11 on windows(arm64)](https://github.com/dotnet/BenchmarkDotNet/issues/3329) 💬 1 | [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) | 11.5k | 🟡 help wanted | 2026-11-13 | [📘 guide](https://github.com/dotnet/BenchmarkDotNet/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Add GrainCancellationTokenSource.Cancel(CancellationToken) overload](https://github.com/dotnet/orleans/issues/8634) 💬 1 | [dotnet/orleans](https://github.com/dotnet/orleans) | 10.9k | 🟡 help wanted | 2026-11-13 | ✍️ CLA · [📘 guide](https://github.com/dotnet/orleans/blob/HEAD/CONTRIBUTING.md) |
 | [MudTable: Allow changing sort direction on mobile](https://github.com/MudBlazor/MudBlazor/issues/3125) 💬 3 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.7k | 🟢 beginner | 2026-11-13 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
 | [MudTextField with Mask enabled has unexpected behavior on mobile browsers](https://github.com/MudBlazor/MudBlazor/issues/4487) 💬 31 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.7k | 🟡 help wanted | 2026-11-13 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
 | [TeachingTip LeftTop/LeftBottom/RightTop/RightBottom fall back to TopLeft instead of Top when the side does no…](https://github.com/unoplatform/uno/issues/26429) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-11-13 | [📘 guide](https://github.com/unoplatform/uno/blob/HEAD/CONTRIBUTING.md) |
@@ -33,7 +35,6 @@
 | [IDE0004 Cast is redundant false positive VB](https://github.com/dotnet/roslyn/issues/78185) 💬 1 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.8k | 🟡 help wanted | 2026-11-11 | ✍️ CLA · [📘 guide](https://github.com/dotnet/roslyn/blob/HEAD/CONTRIBUTING.md) |
 | [MudDataGrid: Add row number or index to the row context](https://github.com/MudBlazor/MudBlazor/issues/11167) 💬 2 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.7k | 🟢 beginner | 2026-11-11 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\] xUnit1051 code fix incorrectly replaces a named argument instead of inserting the CancellationToken](https://github.com/xunit/xunit/issues/3671) | [xunit/xunit](https://github.com/xunit/xunit) | 4.6k | 🟡 help wanted | 2026-11-11 |  |
-| [Buffered FileStream incorrectly reads past end of FileStream, causing IOException on raw disk device streams.](https://github.com/dotnet/runtime/issues/122521) 💬 6 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.4k | 🟡 help wanted | 2026-11-10 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
 | [Freeze processing in EventPipeEventSource if uncaught exception is thrown in callback.](https://github.com/microsoft/perfview/issues/1290) 💬 1 | [microsoft/perfview](https://github.com/microsoft/perfview) | 4.8k | 🟡 help wanted | 2026-11-09 | [📘 guide](https://github.com/microsoft/perfview/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\]: Option to disable/hide serial verbose during boot](https://github.com/CosmosOS/Cosmos/issues/3391) 💬 3 | [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos) | 3.2k | 🟢 beginner | 2026-11-09 | [📘 guide](https://github.com/CosmosOS/Cosmos/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\]: Accelerate build by caching patched assemblies](https://github.com/CosmosOS/Cosmos/issues/3405) | [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos) | 3.2k | 🟡 help wanted | 2026-11-08 | [📘 guide](https://github.com/CosmosOS/Cosmos/blob/HEAD/CONTRIBUTING.md) |
@@ -104,6 +105,7 @@
 | [\[Feature\] Azure Service Bus: the producer creates and closes a ServiceBusSender for every message](https://github.com/BrighterCommand/Brighter/issues/4486) 💬 1 | [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) | 2.5k | 🟡 help wanted | 2026-10-23 | ✍️ CLA · [📘 guide](https://github.com/BrighterCommand/Brighter/blob/HEAD/CONTRIBUTING.md) |
 | [Support SNS fifo and SQS standard in pubsub configuration](https://github.com/BrighterCommand/Brighter/issues/4637) 💬 1 | [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) | 2.5k | 🟡 help wanted | 2026-10-23 | ✍️ CLA · [📘 guide](https://github.com/BrighterCommand/Brighter/blob/HEAD/CONTRIBUTING.md) |
 | [Add IconProperties to unify icon, size, color, and viewport settings](https://github.com/MudBlazor/MudBlazor/issues/7561) 💬 10 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.7k | 🟡 help wanted | 2026-10-22 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
+| [Add MinTime and MaxTime properties to MudTimePicker](https://github.com/MudBlazor/MudBlazor/issues/8025) 💬 2 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.7k | 🟢 beginner | 2026-10-22 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
 | [Option to Normalize Results by an Additive Baseline](https://github.com/dotnet/BenchmarkDotNet/issues/431) 💬 5 | [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) | 11.5k | 🟢 beginner | 2026-10-21 | [📘 guide](https://github.com/dotnet/BenchmarkDotNet/blob/HEAD/.github/CONTRIBUTING.md) |
 | [MudDateRangePicker: Mask ignored when Editable=true (unlike MudDatePicker)](https://github.com/MudBlazor/MudBlazor/issues/4933) 💬 5 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.7k | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
 | [MudSelect list does not close on mobile](https://github.com/MudBlazor/MudBlazor/issues/12661) 💬 1 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.7k | 🟡 help wanted | 2026-10-20 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
@@ -120,7 +122,6 @@
 | [HTTP/3: QPack dynamic compression and decompression](https://github.com/dotnet/runtime/issues/49561) 💬 9 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.4k | 🟡 help wanted | 2026-10-16 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
 | [\[FEATURE REQUEST\] Update 'About &gt; Open Source Licenses' section in settings](https://github.com/unchihugo/FluentFlyout/issues/1021) 💬 4 | [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout) | 4.9k | 🟢 beginner | 2026-10-16 | [📘 guide](https://github.com/unchihugo/FluentFlyout/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Bug: Libraries folder (root) cannot be pinned](https://github.com/files-community/Files/issues/16857) 💬 15 | [files-community/Files](https://github.com/files-community/Files) | 46.6k | 🟡 help wanted | 2026-10-15 | [📘 guide](https://github.com/files-community/Files/blob/HEAD/.github/CONTRIBUTING.md) |
-| [MudTabs: Add support for header content before and after the toolbar](https://github.com/MudBlazor/MudBlazor/issues/7502) 💬 2 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.7k | 🟢 beginner | 2026-10-15 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
 | [Mcp23017 initialization resets pin values](https://github.com/dotnet/iot/issues/1663) 💬 6 | [dotnet/iot](https://github.com/dotnet/iot) | 2.4k | 🟡 help wanted | 2026-10-15 |  |
 | [\[Bug\]: Print stuck in infinite loading state on Windows 11](https://github.com/Ruben2776/PicView/issues/411) 💬 2 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.8k | 🟡 help wanted | 2026-10-14 | [📘 guide](https://github.com/Ruben2776/PicView/blob/HEAD/CONTRIBUTING.md) |
 | [Investigate whether we can improve DAG lowering of 'is' patterns](https://github.com/dotnet/roslyn/issues/85025) 💬 5 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.8k | 🟡 help wanted | 2026-10-13 | ✍️ CLA · [📘 guide](https://github.com/dotnet/roslyn/blob/HEAD/CONTRIBUTING.md) |
@@ -211,6 +212,5 @@
 | [\[question\] No OpenTelemetry-based tracing data captured when proxies are not instrumented](https://github.com/open-telemetry/opentelemetry-dotnet/issues/5919) 💬 10 | [open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) | 3.8k | 🟡 help wanted | 2026-08-22 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/open-telemetry/opentelemetry-dotnet/blob/HEAD/CONTRIBUTING.md) |
 | [Unable to download a private video with cookies ('401 Unauthorized')](https://github.com/Tyrrrz/YoutubeExplode/issues/781) 💬 14 | [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) | 3.8k | 🟡 help wanted | 2026-08-19 |  |
 | [\[BUG\]: Not loading cuda backend on laptop](https://github.com/SciSharp/LLamaSharp/issues/990) 💬 10 | [SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) | 3.8k | 🟢 beginner | 2026-08-17 | [📘 guide](https://github.com/SciSharp/LLamaSharp/blob/HEAD/CONTRIBUTING.md) |
-| [allow unpack msi if some cab are missing](https://github.com/activescott/lessmsi/issues/175) 💬 5 | [activescott/lessmsi](https://github.com/activescott/lessmsi) | 1.8k | 🟢 beginner | 2026-08-17 | [📘 guide](https://github.com/activescott/lessmsi/blob/HEAD/.github/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 259 on the website.
+Showing the 200 most recently updated. See all 260 on the website.
